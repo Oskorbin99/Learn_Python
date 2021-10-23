@@ -1,0 +1,990 @@
+<!DOCTYPE HTML>
+<html xml:lang="en-IN" lang="en-IN">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" >
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title> Profile -  Mi Community - Xiaomi </title>
+
+<meta name="keywords" content=" Profile" />
+<meta name="description" content=" Profile ,Mi Community - Xiaomi" />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<meta property="og:title" content=""/>
+<meta property="og:url" content="https://c.mi.com/oc"/>
+<meta property="og:description" content="" />
+<meta property="og:abstract" content="" />
+<meta property="og:image" content="" />		
+<base href="https://c.mi.com/" />
+<link rel="alternate" href="https://c.mi.com/oc/" hreflang="" /><link rel="stylesheet" type="text/css" href="//bbs.appmifile.com/data/oc/cache/style_1_common.css?S0w" /><link rel="stylesheet" type="text/css" href="//bbs.appmifile.com/data/oc/cache/style_1_home_space.css?S0w" /><script type="text/javascript">var STYLEID = '1', STATICURL = '//bbs.appmifile.com/static/community/', IMGDIR = '//bbs.appmifile.com/static/community/image/common', VERHASH = 'S0w', charset = 'utf-8', discuz_uid = '0', cookiepre = 'MS2Y_409f_', cookiedomain = '.c.mi.com', cookiepath = '/', showusercard = '0', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|Experience|', defaultstyle = '', REPORTURL = 'aHR0cDovL2MubWkuY29tL3NwYWNlLXVpZC02MzYyODAxNjY1Lmh0bWw=', SITEURL = 'https://c.mi.com/', JSPATH = '//bbs.appmifile.com/static/community/js/', CSSPATH = '//bbs.appmifile.com/data/oc/cache/style_', DYNAMICURL = '';</script>
+<script src="//bbs.appmifile.com/static/community/js/jstz.min.js?S0w" type="text/javascript"></script>
+<script src="//bbs.appmifile.com/static/community/js/common.js?S0w" type="text/javascript"></script>
+
+
+<meta name="application-name" content="Mi Community - Xiaomi" />
+<meta name="msapplication-tooltip" content="Mi Community - Xiaomi" />
+<meta name="google-site-verification" content="j3jAH3cplAk1WaZQCkle3VDmAg86gb9m_UAQvjxm8xY" />
+<meta name="msapplication-task"
+content="name=Forum;action-uri=https://c.mi.com/forum.php;icon-uri=https://c.mi.com///bbs.appmifile.com/static/community/image/common/bbs.ico" />
+<meta name="msapplication-task"
+content="name=Groups;action-uri=https://c.mi.com/group.php;icon-uri=https://c.mi.com///bbs.appmifile.com/static/community/image/common/group.ico" />
+<link rel="icon" href="//i01.appmifile.com/webfile/globalimg/in/bbs/bbsfavicon.ico" type="image/x-icon" />
+<link rel="stylesheet" id="css_widthauto" type="text/css" href='{Array['
+setting']['csspath']}1_widthauto.css?S0w' />
+<script type="text/javascript">
+HTMLNODE.className += ' widthauto'
+</script>
+<script src="//bbs.appmifile.com/static/community/js/home.js?S0w" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="//bbs.appmifile.com/static/community/css/pc/oc/oc.base.css?Cc189bed2f057a19aa62607c463ff7b6d" />
+<link rel="stylesheet" type="text/css" href="//bbs.appmifile.com/static/community/css/pc/oc/oc.profile.css">
+<script src="//bbs.appmifile.com/static/community/js/pc/libs/jquery18.js?S0w" type="text/javascript"></script>
+<script>
+var applocal = "oc";
+var iseurope = "";
+var isEditorPage = false;
+</script>
+<script>
+var cookieClass = {
+"necessary_cookie": [
+"mUserId",
+"APP_LOCAL",
+"TIME_ZONE_ID",
+cookiepre + "atarget",
+"cUserId",
+"bbs_serviceToken",
+"userId",
+"userPhoto",
+"username",
+"in_download_win"
+],
+"preference_cookie": [
+cookiepre + "checkpm",
+cookiepre + "lastact",
+"noticeTitle",
+"xm_bbs_oc_sid",
+"oc_privacy_agreed",
+cookiepre + "visitedfid",
+cookiepre + "lastvisit",
+cookiepre + "pmnum",
+cookiepre + "ulastactivity",
+cookiepre + "sendmail",
+cookiepre + "sid",
+cookiepre + "st_t",
+cookiepre + "home_diymode",
+cookiepre + "lastvisit",
+cookiepre + "st_p",
+cookiepre + "smile",
+"Discuz_isblind",
+"isFinalPage",
+"postChangeForum",
+"xmuuid",
+cookiepre + "lip",
+cookiepre + "forum_lastvisit"
+],
+"analytics_cookie": [
+"sensorsdata2015jssdkcross",
+"sajssdk_2015_cross_new_user",
+"sensorsdata_domain_test",
+"msttime1",
+"xm_vistor",
+"msttime",
+"mstz"
+],
+};
+try {
+var cookie_class_origin = JSON.parse('{"preference_cookie":["MS2Y_409f_checkpm","MS2Y_409f_lastact","noticeTitle","xm_bbs_oc_sid","oc_privacy_agreed","MS2Y_409f_visitedfid","MS2Y_409f_lastvisit","MS2Y_409f_pmnum","MS2Y_409f_ulastactivity","MS2Y_409f_sendmail","MS2Y_409f_sid","MS2Y_409f_st_t","MS2Y_409f_home_diymode","MS2Y_409f_lastvisit","MS2Y_409f_st_p","MS2Y_409f_smile","Discuz_isblind","isFinalPage","postChangeForum","xmuuid","MS2Y_409f_lip","MS2Y_409f_forum_lastvisit","MS2Y_409f_viewid"],"analytics_cookie":["sensorsdata2015jssdkcross","sajssdk_2015_cross_new_user","sensorsdata_domain_test","msttime1","xm_vistor","msttime","mstz"],"necessary_cookie":["mUserId","APP_LOCAL","TIME_ZONE_ID","MS2Y_409f_atarget","cUserId","bbs_serviceToken","userId","userPhoto","username","in_download_win","oc_cookie_settings","MS2Y_409f_auth","MS2Y_409f_saltkey","MS2Y_409f_loginuser","MS2Y_409f_sid","MS2Y_409f_st_p","xm_bbs_oc_sid","xmuuid"]}');
+if (cookie_class_origin) {
+cookieClass = cookie_class_origin
+}
+} catch (e) {
+
+}
+
+function checkValidCookie(cookieName) {
+var cookieSetting = getCookie('oc_cookie_settings')
+try {
+var cookieSettingObj = JSON.parse(cookieSetting)
+} catch (e) {
+console.log(e)
+}
+// default cookie permission
+var preferenceCookieAllow = false
+var analyticsCookieAllow = false
+if (cookieSettingObj) {
+preferenceCookieAllow = cookieSettingObj.preference_cookie
+analyticsCookieAllow = cookieSettingObj.analytics_cookie
+}
+var verifiedArr = [].concat(cookieClass.necessary_cookie, preferenceCookieAllow ? cookieClass.preference_cookie :
+[], analyticsCookieAllow ? cookieClass.analytics_cookie : [])
+
+// check allowed cookie
+if (!verifiedArr.some((value) => value === cookieName || value === cookiepre + cookieName) && cookieName !==
+'oc_cookie_settings') {
+console.log('no permission cookie!: ', cookieName)
+return false
+} else {
+return true
+}
+}
+// overwrite origin setCookie
+
+function setcookie(cookieName, cookieValue, seconds, path, domain, secure) {
+var needPrefix = true
+if (cookieName === 'oc_cookie_settings') {
+needPrefix = false
+}
+if (!checkValidCookie(cookieName)) {
+return
+}
+
+if (cookieValue == '' || seconds < 0) {
+cookieValue = '';
+seconds = -2592000;
+}
+if (seconds) {
+var expires = new Date();
+expires.setTime(expires.getTime() + seconds * 1000);
+}
+domain = !domain ? cookiedomain : domain;
+path = !path ? cookiepath : path;
+document.cookie = escape(needPrefix ? cookiepre + cookieName : cookieName) + '=' + escape(cookieValue) +
+(expires ? '; expires=' + expires.toGMTString() : '') +
+(path ? '; path=' + path : '/') +
+(domain ? '; domain=' + domain : '') +
+(secure ? '; secure' : '');
+};
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script src="https://www.googletagmanager.com/gtag/js?id=G-EYWWR8HN08" type="text/javascript"></script>
+<script>
+window['ga-disable-MEASUREMENT_ID'] = true;
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-EYWWR8HN08');
+</script>
+</head>
+
+<body id="nv_home"
+class="pg_space"
+onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div>
+<div id="ajaxwaitid"></div>
+<div class="interbar">
+<div class="wrap">
+<div class="leftbox">
+<div class="logo">
+<div class="milogo">
+<a href="https://c.mi.com/index.php">
+<img src="//i01.appmifile.com/webfile/globalimg/bbsinter/bbs-logo.png?sdf" alt="Mi">
+</a>
+</div>
+</div>
+<div class="mi-community-text">
+Mi Community
+</div>
+<div class="country-select">
+<a href="javascript:void(0);" id="targetCountry"><span>Global</span>
+<i class="icon-ldarow"></i>
+</a>
+<div class="hd-menu J_countryList">
+<ul class="hd-menu-list-ul">
+<div class="hd-menu-list-wrapper"><dl class="hd-menu-list-dl hd-menu-list-dl-modify">
+<dt>Global</dt><dd><a href="https://c.mi.com/global/">Global</a>
+</dd>
+</dl>
+<dl class="hd-menu-list-dl hd-menu-list-dl-modify">
+<dt>Asia</dt><dd><a href="https://c.mi.com/in/">India</a>
+</dd>
+<dd><a href="https://c.mi.com/vn/">Việt Nam</a>
+</dd>
+<dd><a href="https://c.mi.com/id/">Indonesia</a>
+</dd>
+<dd><a href="https://c.mi.com/th/">ประเทศไทย</a>
+</dd>
+<dd><a href="https://c.mi.com/ph/">Philippines</a>
+</dd>
+<dd><a href="https://c.mi.com/bd/">Bangladesh</a>
+</dd>
+<dd><a href="https://c.mi.com/tr/">Türkiye</a>
+</dd>
+<dd><a href="https://c.mi.com/my/">Malaysia</a>
+</dd>
+</dl>
+<dl class="hd-menu-list-dl hd-menu-list-dl-modify">
+<dt>Europe</dt><dd><a href="https://c.mi.com/ru/">Россия</a>
+</dd>
+<dd><a href="https://c.mi.com/pl/">Polska </a>
+</dd>
+<dd><a href="https://c.mi.com/ua/">Україна</a>
+</dd>
+<dd><a href="https://c.mi.com/es/">España</a>
+</dd>
+<dd><a href="https://c.mi.com/fr/">France</a>
+</dd>
+<dd><a href="https://c.mi.com/it/">Italia</a>
+</dd>
+<dd><a href="https://c.mi.com/uk/">United Kingdom</a>
+</dd>
+<dd><a href="https://c.mi.com/de/">Deutschland</a>
+</dd>
+</dl>
+<dl class="hd-menu-list-dl hd-menu-list-dl-modify">
+<dt>the Middle East</dt><dd><a href="https://c.mi.com/arab/">الوطن العربي</a>
+</dd>
+<dt>Latin America</dt><dd><a href="https://c.mi.com/mx/">México</a>
+</dd>
+<dd><a href="https://c.mi.com/co/">Colombia</a>
+</dd>
+</dl>
+<dl class="hd-menu-list-dl hd-menu-list-dl-modify">
+<dt>Africa</dt><dd><a href="https://c.mi.com/ng/">Nigeria</a>
+</dd>
+</dl>
+</div>
+</ul>
+</div>
+</div>
+</div>
+<div class="rightbox">
+<div class="search_box">
+<span class="search-btn icon-search" data-link="https://c.mi.com/search.php?mod=newsolr"></span>
+<span style='width: 30px;'></span>
+<div class='input-wrap'>
+<input type="search" name="" placeholder="Search" class="search-text" maxlength="100">
+</div>
+</div>
+<a href="//www.mi.com/en/index.html?utm_source=micomm_pc&amp;utm_medium=topbar" target="_blank">Mi.com</a>
+<a href="https://play.google.com/store/apps/details?id=com.mi.global.bbs" target="_blank">
+APP Download
+</a>
+
+<!-- <a href="https://c.mi.com/global/aboutus/index">About Mi Community</a>
+<a href="https://c.mi.com/global/privacy/index" target="_blank">Privacy Policy</a> -->
+<div class="account-info">
+<div class="sign-action">
+<a href="member.php?mod=logging&amp;action=login" rel="nofollow">
+Sign In
+</a>
+<span></span>
+<a href="https://account.xiaomi.com/pass/register" rel="nofollow">
+Sign Up
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="hd" class="J_xmFixedNav">
+<div class="container hdContainer"><div class="main-nav">
+<ul class="main-nav-ul"><li data-fid="501">
+<div class="nav-item J_userInfoCollapse">
+<a href="https://c.mi.com/global/">Home</a>
+</div>
+</li>
+<li data-fid="2905">
+<div class="nav-item J_userInfoCollapse">
+<a href="https://c.mi.com/global/forum.php">Forum</a>
+</div>
+</li>
+<li data-fid="2906">
+<div class="nav-item J_userInfoCollapse">
+<a href="javascript:void(0);">MIUI</a>
+<div class="hd-menu sub-navs">
+<ul class="hd-menu-list-ul cl"><li data-fid="2960">
+<a href="https://c.mi.com/global/forum-1898-1.html">General</a>
+</li>
+<li data-fid="2958">
+<a href="https://c.mi.com/global/forum-1901-1.html">MIUI Tools</a>
+</li>
+<li data-fid="2957">
+<a href="https://c.mi.com/global/forum-1902-1.html">MIUI ROM</a>
+</li>
+<li data-fid="2955">
+<a href="https://c.mi.com/global/forum-1908-1.html">Tips and Tricks</a>
+</li>
+<li data-fid="3076">
+<a href="https://c.mi.com/oc/forum-2061-1.html">Android 10</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li data-fid="2915">
+<div class="nav-item J_userInfoCollapse">
+<a href="javascript:void(0);">CHILL ZONE</a>
+<div class="hd-menu sub-navs">
+<ul class="hd-menu-list-ul cl"><li data-fid="2963">
+<a href="https://c.mi.com/global/forum-1910-1.html">Chat</a>
+</li>
+<li data-fid="2962">
+<a href="https://c.mi.com/global/forum-1911-1.html">Tech</a>
+</li>
+<li data-fid="2961">
+<a href="https://c.mi.com/global/forum-1920-1.html">Photography</a>
+</li>
+<li data-fid="3667">
+<a href="https://c.mi.com/global/forum-2635-1.html">TechLab</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li data-fid="3925">
+<div class="nav-item J_userInfoCollapse">
+<a href="https://c.mi.com/global/forum-2928-1.html">FAQ</a>
+</div>
+</li>
+<li data-fid="2919">
+<div class="nav-item J_userInfoCollapse">
+<a href="javascript:void(0);">RESOURCES</a>
+<div class="hd-menu sub-navs">
+<ul class="hd-menu-list-ul cl"><li data-fid="2967">
+<a href="https://c.mi.com/global/forum-1922-1.html">Themes</a>
+</li>
+<li data-fid="2966">
+<a href="https://c.mi.com/global/forum-1923-1.html">Wallpaper</a>
+</li>
+<li data-fid="3655">
+<a href="https://c.mi.com/global/forum-2621-1.html">Gaming</a>
+</li>
+<li data-fid="2964">
+<a href="https://c.mi.com/global/forum-1925-1.html">App</a>
+</li>
+<li data-fid="2965">
+<a href="https://c.mi.com/global/forum-1924-1.html">Ringtone</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li data-fid="2924">
+<div class="nav-item J_userInfoCollapse">
+<a href="javascript:void(0);">PRODUCT</a>
+<div class="hd-menu sub-navs">
+<ul class="hd-menu-list-ul cl"><li data-fid="3947">
+<a href="https://c.mi.com/global/forum-2949-1.html">Redmi Note 10 Series</a>
+</li>
+<li data-fid="3933">
+<a href="https://c.mi.com/global/forum-2936-1.html">Mi 11 Series</a>
+</li>
+<li data-fid="3884">
+<a href="https://c.mi.com/global/forum-2884-1.html">Mi 10T/Pro</a>
+</li>
+<li data-fid="3873">
+<a href="https://c.mi.com/global/forum-2861-1.html">POCO X3/NFC</a>
+</li>
+<li data-fid="3569">
+<a href="https://c.mi.com/global/forum-2494-1.html">Mi 10/Pro</a>
+</li>
+<li data-fid="3068">
+<a href="https://c.mi.com/global/forum-2065-1.html">Redmi 7/7A</a>
+</li>
+<li data-fid="3138">
+<a href="https://c.mi.com/global/forum-2146-1.html">Mi A3</a>
+</li>
+<li data-fid="3254">
+<a href="https://c.mi.com/global/forum-2234-1.html">Redmi Note 8/Pro/8T</a>
+</li>
+<li data-fid="3287">
+<a href="https://c.mi.com/global/forum-2302-1.html">Mi Note 10/Pro/Lite</a>
+</li>
+<li data-fid="3599">
+<a href="https://c.mi.com/global/forum-2516-1.html">Redmi Note 9/S/Pro</a>
+</li>
+<li data-fid="3653">
+<a href="https://c.mi.com/global/forum-2619-1.html">Redmi 8/8A</a>
+</li>
+<li data-fid="3736">
+<a href="https://c.mi.com/global/forum-2703-1.html">POCO F2 Pro</a>
+</li>
+<li data-fid="3872">
+<a href="https://c.mi.com/global/forum-2806-1.html">Redmi 9/9A</a>
+</li>
+<li data-fid="2941">
+<a href="https://c.mi.com/global/forum-1928-1.html">Mi MIX 3</a>
+</li>
+<li data-fid="2940">
+<a href="https://c.mi.com/global/forum-1929-1.html">Mi MIX 2S</a>
+</li>
+<li data-fid="2939">
+<a href="https://c.mi.com/global/forum-1930-1.html">POCO F1</a>
+</li>
+<li data-fid="2938">
+<a href="https://c.mi.com/global/forum-1931-1.html">Mi A2/Lite</a>
+</li>
+<li data-fid="2937">
+<a href="https://c.mi.com/global/forum-1932-1.html">Redmi Note 7</a>
+</li>
+<li data-fid="2936">
+<a href="https://c.mi.com/global/forum-1933-1.html">Redmi Note 6 Pro</a>
+</li>
+<li data-fid="2935">
+<a href="https://c.mi.com/global/forum-1934-1.html">Redmi Note 5/Pro</a>
+</li>
+<li data-fid="2934">
+<a href="https://c.mi.com/global/forum-1935-1.html">Redmi Y/S Series</a>
+</li>
+<li data-fid="2932">
+<a href="https://c.mi.com/global/forum-1937-1.html">Redmi 6/6A/Pro</a>
+</li>
+<li data-fid="2931">
+<a href="https://c.mi.com/global/forum-1938-1.html">Redmi 5A</a>
+</li>
+<li data-fid="2930">
+<a href="https://c.mi.com/global/forum-1939-1.html">Mi Max 3</a>
+</li>
+<li data-fid="2929">
+<a href="https://c.mi.com/global/forum-1940-1.html">Mi Notebook</a>
+</li>
+<li data-fid="2927">
+<a href="https://c.mi.com/global/forum-1942-1.html">Mi Pad 4</a>
+</li>
+<li data-fid="2926">
+<a href="https://c.mi.com/global/forum-1943-1.html">Mi Gadgets</a>
+</li>
+<li data-fid="3013">
+<a href="https://c.mi.com/global/forum-2007-1.html">Mi 9/SE/T/T Pro/Lite</a>
+</li>
+<li data-fid="3112">
+<a href="https://c.mi.com/oc/forum-2119-1.html">Mi Band Series</a>
+</li>
+<li data-fid="3066">
+<a href="https://c.mi.com/global/forum-2064-1.html">Mi A1</a>
+</li>
+<li data-fid="3065">
+<a href="https://c.mi.com/global/forum-2063-1.html">Mi 6</a>
+</li>
+<li data-fid="2942">
+<a href="https://c.mi.com/global/forum-1927-1.html">Mi 8/SE/EE/Lite/Pro</a>
+</li>
+<li data-fid="3067">
+<a href="https://c.mi.com/global/forum-2066-1.html">Other Devices</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li data-fid="2943">
+<div class="nav-item J_userInfoCollapse">
+<a href="javascript:void(0);">REGION</a>
+<div class="hd-menu sub-navs">
+<ul class="hd-menu-list-ul cl"><li data-fid="2950">
+<a href="https://c.mi.com/global/forum-1945-1.html">Global Fans</a>
+</li>
+<li data-fid="2949">
+<a href="https://c.mi.com/global/forum-1946-1.html">Singapore</a>
+</li>
+<li data-fid="2947">
+<a href="https://c.mi.com/global/forum-1948-1.html">Brasil</a>
+</li>
+<li data-fid="2946">
+<a href="https://c.mi.com/global/forum-1949-1.html">Israel</a>
+</li>
+<li data-fid="2945">
+<a href="https://c.mi.com/global/forum-1950-1.html">Myanmar</a>
+</li>
+<li data-fid="2944">
+<a href="https://c.mi.com/global/forum-1951-1.html">UAE</a>
+</li>
+<li data-fid="3079">
+<a href="https://c.mi.com/global/forum-2074-1.html">South Korea</a>
+</li>
+<li data-fid="3103">
+<a href="https://c.mi.com/global/forum-2109-1.html">Sri Lanka</a>
+</li>
+<li data-fid="3102">
+<a href="https://c.mi.com/global/forum-2110-1.html">Netherlands</a>
+</li>
+<li data-fid="3101">
+<a href="https://c.mi.com/global/forum-2105-1.html">Chile</a>
+</li>
+<li data-fid="3104">
+<a href="https://c.mi.com/global/forum-2111-1.html">Nepal</a>
+</li>
+<li data-fid="3781">
+<a href="https://c.mi.com/global/forum-2740-1.html">Hungary</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li data-fid="3144">
+<div class="nav-item J_userInfoCollapse">
+<a href="https://c.mi.com/global/miuidownload/index">ROM Downloads</a>
+</div>
+</li>
+<li data-fid="2951">
+<div class="nav-item J_userInfoCollapse">
+<a href="javascript:void(0);">More</a>
+<div class="hd-menu sub-navs">
+<ul class="hd-menu-list-ul cl"><li data-fid="2954">
+<a href="https://c.mi.com/global/forum-1953-1.html">Recruitment</a>
+</li>
+<li data-fid="2953">
+<a href="https://c.mi.com/global/forum-1954-1.html">Management</a>
+</li>
+<li data-fid="2952">
+<a href="https://c.mi.com/global/forum-1955-1.html">Bulletin</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+<div class='hd-right'>
+<div class="search_box">
+<span class="search-btn-full icon-search"
+data-link="https://c.mi.com/search.php?mod=newsolr"></span>
+<span style='width: 30px;'></span>
+</div>
+<span style='width: 40px;'></span>
+<div class="thread-box xm-box hl-bg ta-c">
+        <a href="member.php?mod=logging&amp;action=login" rel="nofollow"><h4>New Thread</h4></a>
+    </div>
+</div>
+<div class="search-full-wrap">
+<input type="search" name="" placeholder="Search" class="search-text search-text-full"
+maxlength="100">
+<span class='icon-close search-btn-full'></span>
+</div>
+</div>
+</div>
+
+<div class="sub-navs">
+<ul class="p_pop h_pop" id="mn_Nfe0e_menu" style="display: none"><li><a href="forum.php?fid=373" hidefocus="true" >香港小米之家</a></li><li><a href="forum.php?fid=370" hidefocus="true" >官方公告</a></li><li><a href="forum.php?fid=369" hidefocus="true" >談天說地</a></li><li><a href="forum.php?fid=368" hidefocus="true" >極客播報</a></li><li><a href="forum.php?fid=371" hidefocus="true" >主題製作區</a></li><li><a href="forum.php?fid=372" hidefocus="true" >資源分享</a></li><li><a href="forum.php?fid=373" hidefocus="true" >遊戲資源專區</a></li></ul><ul class="p_pop h_pop" id="mn_Nca46_menu" style="display: none"><li><a href="http://c.mi.com/ru/forum-222-1.html" hidefocus="true" >Mi смартфоны</a></li><li><a href="http://c.mi.com/ru/forum-1315-1.html" hidefocus="true" >Pocophone</a></li><li><a href="http://c.mi.com/ru/forum-224-1.html" hidefocus="true" >Redmi</a></li><li><a href="http://c.mi.com/ru/forum-594-1.html" hidefocus="true" >Mi A1</a></li><li><a href="http://c.mi.com/ru/forum-1242-1.html" hidefocus="true" >Mi A2/A2 Lite/6X</a></li><li><a href="http://c.mi.com/ru/forum-226-1.html" hidefocus="true" >Mi 4</a></li><li><a href="http://c.mi.com/ru/forum-225-1.html" hidefocus="true" >Mi 5/5s/5s Plus</a></li><li><a href="http://c.mi.com/ru/forum-595-1.html" hidefocus="true" >Mi 5X</a></li><li><a href="http://c.mi.com/ru/forum-446-1.html" hidefocus="true" >Mi 6</a></li><li><a href="http://c.mi.com/ru/forum-1208-1.html" hidefocus="true" >Mi 8</a></li><li><a href="http://c.mi.com/ru/forum-1881-1.html" hidefocus="true" >Black Shark</a></li><li><a href="http://c.mi.com/ru/forum-219-1.html" hidefocus="true" >Mi MIX</a></li><li><a href="http://c.mi.com/ru/forum-647-1.html" hidefocus="true" >Mi MIX 2</a></li><li><a href="http://c.mi.com/ru/forum-1094-1.html" hidefocus="true" >Mi MIX 2S</a></li><li><a href="http://c.mi.com/ru/forum-1632-1.html" hidefocus="true" >Mi MIX 3</a></li><li><a href="http://c.mi.com/ru/forum-220-1.html" hidefocus="true" >Mi Max</a></li><li><a href="http://c.mi.com/ru/forum-523-1.html" hidefocus="true" >Mi Max 2</a></li><li><a href="http://c.mi.com/ru/forum-1631-1.html" hidefocus="true" >Mi Max 3</a></li><li><a href="http://c.mi.com/ru/forum-221-1.html" hidefocus="true" >Mi Note 2</a></li><li><a href="http://c.mi.com/ru/forum-648-1.html" hidefocus="true" >Mi Note 3</a></li><li><a href="http://c.mi.com/ru/forum-1096-1.html" hidefocus="true" >Redmi S2</a></li><li><a href="http://c.mi.com/ru/forum-229-1.html" hidefocus="true" >Redmi 3S</a></li><li><a href="http://c.mi.com/ru/forum-317-1.html" hidefocus="true" >Redmi 4 Prime</a></li><li><a href="http://c.mi.com/ru/forum-316-1.html" hidefocus="true" >Redmi 4A</a></li><li><a href="http://c.mi.com/ru/forum-318-1.html" hidefocus="true" >Redmi 4X</a></li><li><a href="http://c.mi.com/ru/forum-790-1.html" hidefocus="true" >Redmi 5A</a></li><li><a href="http://c.mi.com/ru/forum-838-1.html" hidefocus="true" >Redmi 5/5 Plus</a></li><li><a href="http://c.mi.com/ru/forum-1629-1.html" hidefocus="true" >Redmi 6/6 Pro</a></li><li><a href="http://c.mi.com/ru/forum-1216-1.html" hidefocus="true" >Redmi 6A</a></li><li><a href="http://c.mi.com/ru/forum-223-1.html" hidefocus="true" >Redmi Note</a></li><li><a href="http://c.mi.com/ru/forum-228-1.html" hidefocus="true" >Redmi Note 3</a></li><li><a href="http://c.mi.com/ru/forum-227-1.html" hidefocus="true" >Redmi Note 4/4X</a></li><li><a href="http://c.mi.com/ru/forum-1044-1.html" hidefocus="true" >Redmi Note 5</a></li><li><a href="http://c.mi.com/ru/forum-650-1.html" hidefocus="true" >Redmi Note 5A</a></li><li><a href="http://c.mi.com/ru/forum-1630-1.html" hidefocus="true" >Redmi Note 6</a></li><li><a href="http://c.mi.com/ru/forum-1976-1.html" hidefocus="true" >Redmi Note 7</a></li><li><a href="http://c.mi.com/ru/forum-250-1.html" hidefocus="true" >Mi Band</a></li><li><a href="http://c.mi.com/ru/forum-251-1.html" hidefocus="true" >Аксессуары</a></li><li><a href="http://c.mi.com/ru/forum-249-1.html" hidefocus="true" >Планшеты</a></li><li><a href="http://c.mi.com/ru/forum-319-1.html" hidefocus="true" >Гаджеты</a></li></ul><ul class="p_pop h_pop" id="mn_Nb1a5_menu" style="display: none"><li><a href="https://c.mi.com/ae/forum-744-1.html" hidefocus="true" >Mi Mix 2</a></li><li><a href="https://c.mi.com/ae/forum-265-1.html" hidefocus="true" >Mi Mix</a></li><li><a href="https://c.mi.com/ae/forum-591-1.html" hidefocus="true" >Mi A1</a></li><li><a href="https://c.mi.com/ae/forum-268-1.html" hidefocus="true" >Mi Max</a></li><li><a href="https://c.mi.com/ae/forum-575-1.html" hidefocus="true" >Mi 6</a></li><li><a href="https://c.mi.com/ae/forum-266-1.html" hidefocus="true" >Mi 5</a></li><li><a href="https://c.mi.com/ae/forum-267-1.html" hidefocus="true" >Mi 4</a></li><li><a href="https://c.mi.com/ae/forum-745-1.html" hidefocus="true" >Redmi Note 5A/5A Prime</a></li><li><a href="https://c.mi.com/ae/forum-269-1.html" hidefocus="true" >Redmi Note 4</a></li><li><a href="https://c.mi.com/ae/forum-270-1.html" hidefocus="true" >Redmi Note 3</a></li><li><a href="https://c.mi.com/ae/forum-576-1.html" hidefocus="true" >Redmi 4X</a></li><li><a href="https://c.mi.com/ae/forum-271-1.html" hidefocus="true" >Redmi 4A</a></li><li><a href="https://c.mi.com/ae/forum-272-1.html" hidefocus="true" >Redmi 3S</a></li></ul><ul class="p_pop h_pop" id="mn_N16a5_menu" style="display: none"><li><a href="https://c.mi.com/mx/forum-292-1.html" hidefocus="true" >Teléfonos Redmi</a></li><li><a href="https://c.mi.com/mx/forum-3046-1.html" hidefocus="true" >Redmi Note 10 5G</a></li><li><a href="https://c.mi.com/mx/forum-3045-1.html" hidefocus="true" >Xiaomi 11 Lite 5G</a></li><li><a href="https://c.mi.com/mx/forum-3044-1.html" hidefocus="true" >Xiaomi 11 Lite</a></li><li><a href="https://c.mi.com/mx/forum-3043-1.html" hidefocus="true" >Xiaomi 11</a></li><li><a href="https://c.mi.com/mx/forum-3027-1.html" hidefocus="true" >Redmi 9T</a></li><li><a href="https://c.mi.com/mx/forum-3026-1.html" hidefocus="true" >Redmi Note 10 Pro</a></li><li><a href="https://c.mi.com/mx/forum-3025-1.html" hidefocus="true" >Redmi Note 10S</a></li><li><a href="https://c.mi.com/mx/forum-3024-1.html" hidefocus="true" >Redmi Note 10</a></li><li><a href="https://c.mi.com/mx/forum-3023-1.html" hidefocus="true" >Mi 10T Pro</a></li><li><a href="https://c.mi.com/mx/forum-3022-1.html" hidefocus="true" >Mi 10T</a></li><li><a href="https://c.mi.com/mx/forum-2911-1.html" hidefocus="true" >Redmi 9C</a></li><li><a href="https://c.mi.com/mx/forum-2910-1.html" hidefocus="true" >Redmi 9A</a></li><li><a href="https://c.mi.com/mx/forum-2880-1.html" hidefocus="true" >Redmi 9</a></li><li><a href="https://c.mi.com/mx/forum-2878-1.html" hidefocus="true" >POCO X3</a></li><li><a href="https://c.mi.com/mx/forum-2877-1.html" hidefocus="true" >Mi 10</a></li><li><a href="https://c.mi.com/mx/forum-290-1.html" hidefocus="true" >Teléfonos Xiaomi</a></li><li><a href="https://c.mi.com/mx/forum-2723-1.html" hidefocus="true" >Redmi Note 9 Pro</a></li><li><a href="https://c.mi.com/mx/forum-2722-1.html" hidefocus="true" >Redmi Note 9</a></li><li><a href="https://c.mi.com/mx/forum-669-1.html" hidefocus="true" >Mi A1</a></li><li><a href="https://c.mi.com/mx/forum-2636-1.html" hidefocus="true" >Redmi Note 9S</a></li><li><a href="https://c.mi.com/mx/forum-2360-1.html " hidefocus="true" >Redmi Note 8 Pro</a></li><li><a href="https://c.mi.com/mx/forum-1670-1.html" hidefocus="true" >Mi A2</a></li><li><a href="https://c.mi.com/mx/forum-2359-1.html " hidefocus="true" >Redmi Note 8</a></li><li><a href="https://c.mi.com/mx/forum-1781-1.html" hidefocus="true" >Mi A2 Lite</a></li><li><a href="https://c.mi.com/mx/forum-2095-1.html" hidefocus="true" >Redmi Note 7</a></li><li><a href="https://c.mi.com/mx/forum-1778-1.html" hidefocus="true" >Mi 8</a></li><li><a href="https://c.mi.com/mx/forum-2288-1.html " hidefocus="true" >Redmi 7</a></li><li><a href="https://c.mi.com/mx/forum-1398-1.html" hidefocus="true" >Redmi Note 5</a></li><li><a href="https://c.mi.com/mx/forum-2121-1.html " hidefocus="true" >Mi 9SE</a></li><li><a href="https://c.mi.com/mx/forum-2094-1.html" hidefocus="true" >Mi 9</a></li><li><a href="https://c.mi.com/mx/forum-2287-1.html " hidefocus="true" >Mi A3</a></li><li><a href="https://c.mi.com/mx/forum-2450-1.html " hidefocus="true" >Mi Note 10</a></li><li><a href="https://c.mi.com/mx/forum-1785-1.html" hidefocus="true" >POCOPHONE F1</a></li><li><a href="https://c.mi.com/mx/forum-1779-1.html" hidefocus="true" >Mi 8 Lite</a></li><li><a href="https://c.mi.com/mx/forum-294-1.html" hidefocus="true" >Redmi Note 4</a></li><li><a href="https://c.mi.com/mx/forum-2721-1.html" hidefocus="true" >Redmi 8A</a></li><li><a href="https://c.mi.com/mx/forum-1437-1.html" hidefocus="true" >Redmi S2</a></li></ul><ul class="p_pop h_pop" id="mn_Nb578_menu" style="display: none"><li><a href="http://c.mi.com/tw/forum-329-1.html" hidefocus="true" >小米手機5</a></li><li><a href="http://c.mi.com/tw/forum-331-1.html" hidefocus="true" >小米Note2</a></li><li><a href="http://c.mi.com/tw/forum-332-1.html" hidefocus="true" >小米Max</a></li><li><a href="http://c.mi.com/tw/forum-333-1.html" hidefocus="true" >小米5s Plus</a></li><li><a href="http://c.mi.com/tw/forum-336-1.html" hidefocus="true" >紅米手機2</a></li><li><a href="http://c.mi.com/tw/forum-340-1.html" hidefocus="true" >紅米Note3</a></li><li><a href="http://c.mi.com/tw/forum-342-1.html" hidefocus="true" >紅米Note4</a></li><li><a href="http://c.mi.com/tw/forum-343-1.html" hidefocus="true" >紅米Note4X</a></li><li><a href="http://c.mi.com/tw/forum-344-1.html" hidefocus="true" >小米路由器</a></li><li><a href="http://c.mi.com/tw/forum-346-1.html" hidefocus="true" >小米空氣清淨機2</a></li><li><a href="http://c.mi.com/tw/forum-347-1.html" hidefocus="true" >米家掃地機器人</a></li><li><a href="http://c.mi.com/tw/forum-348-1.html" hidefocus="true" >米家LED智慧檯燈</a></li><li><a href="http://c.mi.com/tw/forum-349-1.html" hidefocus="true" >小米手環</a></li><li><a href="http://c.mi.com/tw/forum-351-1.html" hidefocus="true" >小蟻智慧攝影機</a></li><li><a href="http://c.mi.com/tw/forum-352-1.html" hidefocus="true" >小蟻運動相機</a></li><li><a href="http://c.mi.com/tw/forum-364-1.html" hidefocus="true" >小米手機系列</a></li><li><a href="http://c.mi.com/tw/forum-365-1.html" hidefocus="true" >紅米手機系列</a></li></ul><ul class="p_pop h_pop" id="mn_N567a_menu" style="display: none"><li><a href="forum.php?fid=375" hidefocus="true" >小米手機</a></li><li><a href="forum.php?fid=376" hidefocus="true" >紅米手機</a></li><li><a href="forum.php?fid=377" hidefocus="true" >紅米Note</a></li><li><a href="forum.php?fid=378" hidefocus="true" >小米盒子國際版</a></li><li><a href="forum.php?fid=379" hidefocus="true" >小米平板</a></li><li><a href="forum.php?fid=380" hidefocus="true" >小米路由器</a></li><li><a href="forum.php?fid=382" hidefocus="true" >小米手環</a></li><li><a href="forum.php?fid=381" hidefocus="true" >小米周邊產品</a></li></ul><ul class="p_pop h_pop" id="mn_N6fdc_menu" style="display: none"><li><a href="https://c.mi.com/ua/forum-407-1.html" hidefocus="true" title="Основний форум для всіх пристроїв лінійки Redmi Note"  style="font-weight: bold;text-decoration: underline;color: red">Серія Redmi Note</a></li><li><a href="https://c.mi.com/ua/forum-411-1.html" hidefocus="true" >Серія Redmi</a></li><li><a href="https://c.mi.com/ua/forum-703-1.html" hidefocus="true" >Мі А-серія</a></li><li><a href="https://c.mi.com/ua/forum-410-1.html" hidefocus="true" >Серія Mi</a></li><li><a href="https://c.mi.com/ua/forum-733-1.html" hidefocus="true" >Серія Mi Note</a></li><li><a href="https://c.mi.com/ua/forum-732-1.html" hidefocus="true" >Серія Mi Max</a></li><li><a href="https://c.mi.com/ua/forum-734-1.html" hidefocus="true" >Серія Mi MIX</a></li><li><a href="https://c.mi.com/ua/forum-1220-1.html" hidefocus="true" >POCO</a></li><li><a href="https://c.mi.com/ua/forum-412-1.html" hidefocus="true" >Серія Mi Pad</a></li><li><a href="https://c.mi.com/ua/forum-557-1.html" hidefocus="true" >Технічна Підтримка</a></li></ul><ul class="p_pop h_pop" id="mn_N7fe1_menu" style="display: none"><li><a href="http://c.mi.com/ar/forum-470-1.html" hidefocus="true" >Redmi 4A</a></li><li><a href="http://c.mi.com/ar/forum-471-1.html" hidefocus="true" >Redmi 4X</a></li><li><a href="http://c.mi.com/ar/forum-472-1.html" hidefocus="true" >Redmi note 4</a></li><li><a href="http://c.mi.com/ar/forum-473-1.html" hidefocus="true" >Redmi note 3</a></li><li><a href="http://c.mi.com/ar/forum-466-1.html" hidefocus="true" >Mi 5</a></li><li><a href="http://c.mi.com/ar/forum-476-1.html" hidefocus="true" >Mi Band1</a></li><li><a href="http://c.mi.com/ar/forum-477-1.html" hidefocus="true" >الاكسسوارات </a></li></ul><ul class="p_pop h_pop" id="mn_N298f_menu" style="display: none"><li><a href="https://c.mi.com/th/forum-2617-1.html" hidefocus="true" >ผลิตภัณฑ์ Ecosystem</a></li><li><a href="https://c.mi.com/th/forum-2963-1.html" hidefocus="true" >Redmi Note 10 Series</a></li><li><a href="https://c.mi.com/th/forum-2947-1.html" hidefocus="true" >Redmi 9T</a></li><li><a href="https://c.mi.com/th/forum-2946-1.html" hidefocus="true" >Redmi Note 9T 5G</a></li><li><a href="https://c.mi.com/th/forum-2945-1.html" hidefocus="true" >Mi 11</a></li><li><a href="https://c.mi.com/th/forum-2885-1.html" hidefocus="true" >Mi 10T Series</a></li><li><a href="https://c.mi.com/th/forum-2866-1.html" hidefocus="true" >POCO X3 NFC</a></li><li><a href="https://c.mi.com/th/forum-2818-1.html" hidefocus="true" >Redmi 9 Series</a></li><li><a href="https://c.mi.com/th/forum-2815-1.html" hidefocus="true" >POCO F2 Pro</a></li><li><a href="https://c.mi.com/th/forum-2713-1.html" hidefocus="true" >Mi Note 10 Lite</a></li><li><a href="https://c.mi.com/th/forum-2711-1.html" hidefocus="true" >Redmi Note 9 Pro</a></li><li><a href="https://c.mi.com/th/forum-2712-1.html" hidefocus="true" >Redmi Note 9</a></li><li><a href="https://c.mi.com/th/forum-2622-1.html" hidefocus="true" >Redmi Note 9S</a></li><li><a href="https://c.mi.com/th/forum-2377-1.html" hidefocus="true" >Mi Note 10</a></li><li><a href="https://c.mi.com/th/forum-2286-1.html" hidefocus="true" >Redmi 8A</a></li><li><a href="https://c.mi.com/th/forum-2285-1.html" hidefocus="true" >Redmi 8</a></li><li><a href="https://c.mi.com/th/forum-2269-1.html" hidefocus="true" >Redmi Note 8 Pro</a></li><li><a href="https://c.mi.com/th/forum-2268-1.html" hidefocus="true" >Redmi Note 8</a></li><li><a href="https://c.mi.com/th/forum-2231-1.html" hidefocus="true" >Mi 9T Pro</a></li><li><a href="https://c.mi.com/th/forum-2223-1.html" hidefocus="true" >Mi A3</a></li><li><a href="https://c.mi.com/th/forum-2160-1.html" hidefocus="true" >Mi 9T</a></li><li><a href="https://c.mi.com/th/forum-2126-1.html" hidefocus="true" >Mi 9 SE</a></li><li><a href="https://c.mi.com/th/forum-2076-1.html" hidefocus="true" >Redmi 7</a></li><li><a href="https://c.mi.com/th/forum-1984-1.html" hidefocus="true" >Mi 9</a></li><li><a href="https://c.mi.com/th/forum-1971-1.html" hidefocus="true" >Redmi Note 7</a></li><li><a href="https://c.mi.com/th/forum-1958-1.html" hidefocus="true" >Redmi Go</a></li><li><a href="https://c.mi.com/th/forum-1777-1.html" hidefocus="true" >Mi Mix 3</a></li><li><a href="https://c.mi.com/th/forum-1635-1.html" hidefocus="true" >Mi 8 Lite</a></li><li><a href="https://c.mi.com/th/forum-1634-1.html" hidefocus="true" >Mi 8 Pro</a></li><li><a href="https://c.mi.com/th/forum-1416-1.html" hidefocus="true" >Redmi Note 6 Pro</a></li><li><a href="https://c.mi.com/th/forum-1250-1.html" hidefocus="true" >Mi Max 3</a></li><li><a href="https://c.mi.com/th/forum-1247-1.html" hidefocus="true" >POCOPHONE</a></li><li><a href="https://c.mi.com/th/forum-1234-1.html" hidefocus="true" >Redmi 6A</a></li><li><a href="https://c.mi.com/th/forum-1233-1.html" hidefocus="true" >Redmi 6</a></li><li><a href="https://c.mi.com/th/forum-1212-1.html" hidefocus="true" >Mi A2</a></li><li><a href="https://c.mi.com/th/forum-1213-1.html" hidefocus="true" >Mi A2 Lite</a></li><li><a href="https://c.mi.com/th/forum-1211-1.html" hidefocus="true" >Mi 8</a></li><li><a href="https://c.mi.com/th/forum-1144-1.html" hidefocus="true" >Redmi S2</a></li><li><a href="https://c.mi.com/th/forum-1071-1.html" hidefocus="true" >Mi Mix 2S</a></li><li><a href="https://c.mi.com/th/forum-1070-1.html" hidefocus="true" >Redmi Note 5</a></li><li><a href="https://c.mi.com/th/forum-866-1.html" hidefocus="true" >Redmi 5 Plus</a></li><li><a href="https://c.mi.com/th/forum-865-1.html" hidefocus="true" >Redmi 5</a></li><li><a href="https://c.mi.com/th/forum-781-1.html" hidefocus="true" >Redmi 5A</a></li><li><a href="https://c.mi.com/th/forum-632-1.html" hidefocus="true" >Redmi Note 5A</a></li><li><a href="https://c.mi.com/th/forum-541-1.html" hidefocus="true" >Redmi 4X</a></li><li><a href="https://c.mi.com/th/forum-540-1.html" hidefocus="true" >Redmi 4A</a></li><li><a href="https://c.mi.com/th/forum-539-1.html" hidefocus="true" >Redmi Note 4</a></li><li><a href="https://c.mi.com/th/forum-537-1.html" hidefocus="true" >Mi 6</a></li><li><a href="https://c.mi.com/th/forum-536-1.html" hidefocus="true" >Mi Max 2</a></li><li><a href="https://c.mi.com/th/forum-571-1.html" hidefocus="true" >Mi Mix 2</a></li><li><a href="https://c.mi.com/th/forum-563-1.html" hidefocus="true" >Mi A1</a></li><li><a href="https://c.mi.com/th/forum-538-1.html" hidefocus="true" >โทรศัพท์ Mi</a></li><li><a href="https://c.mi.com/th/forum-542-1.html" hidefocus="true" >โทรศัพท์ Redmi อื่นๆ</a></li><li><a href="https://c.mi.com/th/forum-543-1.html" hidefocus="true" >อุปกรณ์เสริม</a></li></ul><ul class="p_pop h_pop" id="mn_N20b0_menu" style="display: none"><li><a href="https://c.mi.com/es/forum-2663-1.html" hidefocus="true" >Noticias</a></li><li><a href="https://c.mi.com/es/forum-2628-1.html" hidefocus="true" >Mi Explorers</a></li><li><a href="https://c.mi.com/es/forum-1561-1.html" hidefocus="true" >Vídeos</a></li><li><a href="https://c.mi.com/forum-2058-1.html" hidefocus="true" >Cuestionarios</a></li><li><a href="https://c.mi.com/es/forum-2228-1.html" hidefocus="true" >Lifestyle</a></li><li><a href="https://c.mi.com/es/forum-2814-1.html" hidefocus="true" >GeekLab</a></li><li><a href="https://c.mi.com/es/forum-618-1.html" hidefocus="true" >Juegos y Apps</a></li><li><a href="https://c.mi.com/es/forum-2864-1.html" hidefocus="true" >Mi Engineer</a></li><li><a href="https://c.mi.com/es/forum-619-1.html" hidefocus="true" >Chat y Offtopic</a></li><li><a href="https://c.mi.com/es/forum-2892-1.html" hidefocus="true" >Mi Podcast</a></li><li><a href="https://c.mi.com/es/forum-2983-1.html" hidefocus="true" >Mi Uni</a></li></ul><ul class="p_pop h_pop" id="mn_Ne105_menu" style="display: none"><li><a href="http://c.mi.com/ph/forum-1973-1.html" hidefocus="true" >Redmi Note 7</a></li><li><a href="http://c.mi.com/ph/forum-1078-1.html" hidefocus="true" >Redmi S2</a></li><li><a href="http://c.mi.com/ph/forum-1165-1.html" hidefocus="true" >Redmi 6A</a></li><li><a href="http://c.mi.com/ph/forum-1169-1.html" hidefocus="true" >Redmi 6</a></li><li><a href="http://c.mi.com/ph/forum-1184-1.html" hidefocus="true" >Mi A2</a></li><li><a href="http://c.mi.com/ph/forum-1185-1.html" hidefocus="true" >Mi A2 Lite</a></li><li><a href="http://c.mi.com/ph/forum-851-1.html" hidefocus="true" >Redmi 5A</a></li><li><a href="http://c.mi.com/ph/forum-1037-1.html" hidefocus="true" >Redmi Note 5</a></li><li><a href="http://c.mi.com/ph/forum-1419-1.html" hidefocus="true" >Redmi Note 6 Pro</a></li><li><a href="http://c.mi.com/ph/forum-850-1.html" hidefocus="true" >Redmi 5/5 Plus</a></li><li><a href="http://c.mi.com/ph/forum-852-1.html" hidefocus="true" >Redmi Note 5A</a></li><li><a href="http://c.mi.com/ph/forum-1853-1.html" hidefocus="true" >Redmi Go</a></li><li><a href="http://c.mi.com/ph/forum-847-1.html" hidefocus="true" >Mi Max 2</a></li><li><a href="http://c.mi.com/ph/forum-1404-1.html" hidefocus="true" >Mi Max 3</a></li><li><a href="http://c.mi.com/ph/forum-1623-1.html" hidefocus="true" >Mi 8 Lite</a></li><li><a href="http://c.mi.com/ph/forum-1214-1.html" hidefocus="true" >Mi 8</a></li><li><a href="http://c.mi.com/ph/forum-1627-1.html" hidefocus="true" >Mi 8 Pro</a></li><li><a href="http://c.mi.com/ph/forum-1057-1.html" hidefocus="true" >Mi MIX 2S</a></li><li><a href="http://c.mi.com/ph/forum-1962-1.html" hidefocus="true" >Mi 9/SE/T</a></li><li><a href="http://c.mi.com/ph/forum-1775-1.html" hidefocus="true" >Mi MIX 3</a></li><li><a href="http://c.mi.com/ph/forum-1248-1.html" hidefocus="true" >POCOPHONE</a></li><li><a href="http://c.mi.com/ph/forum-877-1.html" hidefocus="true" >Accessories</a></li><li><a href="http://c.mi.com/ph/forum-2009-1.html" hidefocus="true" >Redmi 7</a></li></ul><ul class="p_pop h_pop" id="mn_N7189_menu" style="display: none"><li><a href="https://c.mi.com/pl/forum-1268-1.html" hidefocus="true" >Redmi</a></li><li><a href="https://c.mi.com/pl/forum-1275-1.html" hidefocus="true" >Redmi Note</a></li><li><a href="https://c.mi.com/pl/forum-1263-1.html" hidefocus="true" >Mi</a></li><li><a href="https://c.mi.com/pl/forum-1261-1.html" hidefocus="true" >Mi Android One</a></li><li><a href="https://c.mi.com/pl/forum-1260-1.html" hidefocus="true" >Mi Max</a></li><li><a href="https://c.mi.com/pl/forum-1266-1.html" hidefocus="true" >Mi MIX</a></li><li><a href="https://c.mi.com/pl/forum-1319-1.html" hidefocus="true" >POCOPHONE F1</a></li><li><a href="https://c.mi.com/pl/forum-1619-1.html" hidefocus="true" >Inne</a></li></ul><ul class="p_pop h_pop" id="mn_Neb24_menu" style="display: none"><li><a href="https://c.mi.com/tr/forum-3006-1.html" hidefocus="true" >Mi 11/Lite</a></li><li><a href="https://c.mi.com/tr/forum-2954-1.html" hidefocus="true" >Redmi Note 10/10S/10 Pro/5G</a></li><li><a href="https://c.mi.com/tr/forum-2518-1.html" hidefocus="true" >Redmi Note 9/9S/Pro</a></li><li><a href="https://c.mi.com/tr/forum-2491-1.html" hidefocus="true" >Mi 10/Pro/10T</a></li><li><a href="https://c.mi.com/tr/forum-2372-1.html" hidefocus="true" >Mi Note 10/Pro/Lite</a></li><li><a href="https://c.mi.com/forum-2293-1.html" hidefocus="true" >Redmi Note 8/Pro</a></li><li><a href="https://c.mi.com/tr/forum-1521-1.html" hidefocus="true" >Ekosistem</a></li><li><a href="https://c.mi.com/tr/forum-1519-1.html" hidefocus="true" >Redmi Serisi</a></li><li><a href="https://c.mi.com/tr/forum-2757-1.html" hidefocus="true" >POCO F2 Pro</a></li><li><a href="https://c.mi.com/tr/forum-2386-1.html" hidefocus="true" >Redmi Note Serisi</a></li><li><a href="https://c.mi.com/tr/forum-2125-1.html" hidefocus="true" >Mi 9T</a></li><li><a href="https://c.mi.com/tr/forum-2130-1.html" hidefocus="true" >Mi MIX 3</a></li><li><a href="https://c.mi.com/tr/forum-2915-1.html" hidefocus="true" >Mi 10T Serisi</a></li><li><a href="https://c.mi.com/tr/forum-2385-1.html" hidefocus="true" >Mi Note Serisi</a></li><li><a href="https://c.mi.com/tr/forum-1527-1.html" hidefocus="true" >Mi Bileklik</a></li><li><a href="https://c.mi.com/tr/forum-1512-1.html" hidefocus="true" >Mi Serisi</a></li><li><a href="https://c.mi.com/tr/forum-1528-1.html" hidefocus="true" >Taşınabilir Şarj Cihazı</a></li><li><a href="https://c.mi.com/tr/forum-2131-1.html" hidefocus="true" >Redmi 7</a></li><li><a href="https://c.mi.com/tr/forum-2291-1.html" hidefocus="true" >Mi 9T/Mi 9T Pro</a></li><li><a href="https://c.mi.com/tr/forum-1526-1.html" hidefocus="true" >Kulaklık</a></li><li><a href="https://c.mi.com/tr/forum-1529-1.html" hidefocus="true" >AMAZFIT</a></li><li><a href="https://c.mi.com/tr/forum-1531-1.html" hidefocus="true" >Mi Elektrikli Scooter</a></li><li><a href="https://c.mi.com/tr/forum-1511-1.html" hidefocus="true" >POCOPHONE F1</a></li><li><a href="https://c.mi.com/tr/forum-2002-1.html" hidefocus="true" >Redmi Note 7</a></li><li><a href="https://c.mi.com/tr/forum-1518-1.html" hidefocus="true" >Mi 8</a></li><li><a href="https://c.mi.com/tr/forum-2656-1.html" hidefocus="true" >Redmi 8</a></li></ul><ul class="p_pop h_pop" id="mn_Nc3b8_menu" style="display: none"><li><a href="https://c.mi.com/global/forum-1898-1.html" hidefocus="true" >General</a></li><li><a href="https://c.mi.com/global/forum-1901-1.html" hidefocus="true" >MIUI Tools</a></li><li><a href="https://c.mi.com/global/forum-1902-1.html" hidefocus="true" >MIUI ROM</a></li><li><a href="https://c.mi.com/global/forum-1908-1.html" hidefocus="true" >Tips and Tricks</a></li><li><a href="https://c.mi.com/oc/forum-2061-1.html" hidefocus="true" >Android 10</a></li></ul><ul class="p_pop h_pop" id="mn_N8b09_menu" style="display: none"><li><a href="https://c.mi.com/uk/forum-2908-1.html" hidefocus="true" >POCO X3 NFC</a></li><li><a href="https://c.mi.com/uk/forum-2985-1.html" hidefocus="true" >Mi 11 Series</a></li><li><a href="https://c.mi.com/uk/forum-2903-1.html" hidefocus="true" >Redmi 8 Series</a></li><li><a href="https://c.mi.com/uk/forum-2664-1.html" hidefocus="true" >Redmi Note 9 Series</a></li><li><a href="https://c.mi.com/uk/forum-2904-1.html" hidefocus="true" >Redmi 9 Series</a></li><li><a href="https://c.mi.com/uk/forum-2900-1.html" hidefocus="true" >Mi 10T Series</a></li><li><a href="https://c.mi.com/uk/forum-2001-1.html" hidefocus="true" >Redmi Note 6 Pro</a></li><li><a href="https://c.mi.com/uk/forum-2906-1.html" hidefocus="true" >Mi 10 Series</a></li><li><a href="https://c.mi.com/uk/forum-2907-1.html" hidefocus="true" >Redmi Note 10 Series</a></li><li><a href="https://c.mi.com/uk/forum-3002-1.html" hidefocus="true" >Redmi Note 10 Series</a></li><li><a href="https://c.mi.com/uk/forum-2113-1.html" hidefocus="true" >Redmi 7 Series</a></li><li><a href="https://c.mi.com/uk/forum-2069-1.html" hidefocus="true" >Redmi Note 7</a></li><li><a href="https://c.mi.com/uk/forum-2283-1.html" hidefocus="true" >Redmi Note 8 Pro</a></li><li><a href="https://c.mi.com/uk/forum-2303-1.html" hidefocus="true" >Redmi Note 8T</a></li><li><a href="https://c.mi.com/uk/forum-1351-1.html" hidefocus="true" >POCO F1</a></li><li><a href="https://c.mi.com/uk/forum-2992-1.html" hidefocus="true" >Mi 8 Series</a></li><li><a href="https://c.mi.com/uk/forum-2903-1.html" hidefocus="true" >Mi 9 Series</a></li><li><a href="https://c.mi.com/uk/forum-2893-1.html" hidefocus="true" >POCO F2 Pro</a></li><li><a href="https://c.mi.com/uk/forum-2991-1.html" hidefocus="true" >Redmi 6 Series</a></li><li><a href="https://c.mi.com/uk/forum-2989-1.html" hidefocus="true" >Mi A Series</a></li><li><a href="https://c.mi.com/uk/forum-2990-1.html" hidefocus="true" >Mi Mix Series</a></li><li><a href="https://c.mi.com/uk/forum-1999-1.html" hidefocus="true" >Other Phones</a></li></ul><ul class="p_pop h_pop" id="mn_Nc033_menu" style="display: none"><li><a href="https://c.mi.com/my/forum-2938-1.html" hidefocus="true" >Mi 11</a></li><li><a href="https://c.mi.com/my/forum-2955-1.html" hidefocus="true" >Redmi Note 10 Series</a></li><li><a href="https://c.mi.com/my/forum-2870-1.html" hidefocus="true" >Mi 10T Series</a></li><li><a href="https://c.mi.com/my/forum-2717-1.html" hidefocus="true" >POCO Series</a></li><li><a href="https://c.mi.com/my/forum-2519-1.html" hidefocus="true" >Redmi Note 9 Series</a></li><li><a href="https://c.mi.com/my/forum-2403-1.html" hidefocus="true" >Mi Note 10 | Mi Note 10 Pro</a></li><li><a href="https://c.mi.com/my/forum-2634-1.html" hidefocus="true" >Mi 10 series</a></li><li><a href="https://c.mi.com/my/forum-2441-1.html" hidefocus="true" >Redmi Note 8 Pro</a></li><li><a href="https://c.mi.com/my/forum-2760-1.html" hidefocus="true" >Redmi 9 series</a></li><li><a href="https://c.mi.com/my/forum-2405-1.html" hidefocus="true" >Redmi Note 8</a></li><li><a href="https://c.mi.com/my/forum-2415-1.html" hidefocus="true" >Android One devices</a></li><li><a href="https://c.mi.com/my/forum-2421-1.html" hidefocus="true" >Others</a></li></ul><ul class="p_pop h_pop" id="mn_N9a9d_menu" style="display: none"><li><a href="https://c.mi.com/ng/forum-2477-1.html" hidefocus="true" >Redmi Note 9S</a></li><li><a href="https://c.mi.com/ng/forum-2459-1.html" hidefocus="true" >Mi Note 10 | Mi Note 10 Pro</a></li><li><a href="https://c.mi.com/ng/forum-2460-1.html" hidefocus="true" >Mi A3</a></li><li><a href="https://c.mi.com/ng/forum-2461-1.html" hidefocus="true" >Redmi Note 8 / Pro</a></li><li><a href="https://c.mi.com/ng/forum-2462-1.html" hidefocus="true" >Redmi Note 7</a></li><li><a href="https://c.mi.com/ng/forum-2463-1.html" hidefocus="true" >Mi 9T</a></li><li><a href="https://c.mi.com/ng/forum-2464-1.html" hidefocus="true" >Redmi 8</a></li><li><a href="https://c.mi.com/ng/forum-2465-1.html" hidefocus="true" >Redmi 8a</a></li><li><a href="https://c.mi.com/ng/forum-2466-1.html" hidefocus="true" >Mi Mix 3</a></li><li><a href="https://c.mi.com/ng/forum-2467-1.html" hidefocus="true" >Redmi 7a</a></li><li><a href="https://c.mi.com/ng/forum-2468-1.html" hidefocus="true" >Redmi Go</a></li><li><a href="https://c.mi.com/ng/forum-2490-1.html" hidefocus="true" >Redmi 7</a></li><li><a href="https://c.mi.com/ng/forum-2469-1.html" hidefocus="true" >Others</a></li></ul><ul class="p_pop h_pop" id="mn_N89b7_menu" style="display: none"><li><a href="https://c.mi.com/de/forum-2680-1.html" hidefocus="true" title="Mi 10 Reihe" >Mi 10 Reihe</a></li><li><a href="https://c.mi.com/de/forum-2890-1.html" hidefocus="true" >Mi 10T Reihe</a></li><li><a href="https://c.mi.com/de/forum-2932-1.html" hidefocus="true" >Mi 11 Reihe</a></li><li><a href="https://c.mi.com/de/forum-2674-1.html" hidefocus="true" >Mi Note 10 Reihe</a></li><li><a href="https://c.mi.com/de/forum-2675-1.html" hidefocus="true" >Mi A3</a></li><li><a href="https://c.mi.com/de/forum-2681-1.html" hidefocus="true" >Mi Mix 3</a></li><li><a href="https://c.mi.com/de/forum-2707-1.html" hidefocus="true" >Redmi Note 9 Reihe</a></li><li><a href="https://c.mi.com/de/forum-2676-1.html" hidefocus="true" >Redmi Note 8 Reihe</a></li><li><a href="https://c.mi.com/de/forum-2678-1.html" hidefocus="true" >Mi 9 Reihe</a></li><li><a href="https://c.mi.com/de/forum-2677-1.html" hidefocus="true" >Redmi Note 7 Reihe</a></li><li><a href="https://c.mi.com/de/forum-2679-1.html" hidefocus="true" >Redmi 8 Reihe</a></li><li><a href="https://c.mi.com/de/forum-2682-1.html" hidefocus="true" >POCO</a></li><li><a href="https://c.mi.com/de/forum-2683-1.html" hidefocus="true" >Redmi 9 Reihe</a></li><li><a href="https://c.mi.com/de/forum-2684-1.html" hidefocus="true" >Weitere Modelle</a></li><li><a href="https://c.mi.com/de/forum-2932-1.html" hidefocus="true" >Redmi Note 10 Reihe</a></li></ul><ul class="p_pop h_pop" id="mn_Nfce9_menu" style="display: none"><li><a href="https://c.mi.com/fr/forum-975-1.html" hidefocus="true" >Annonces officielles</a></li><li><a href="https://c.mi.com/fr/forum-2088-1.html" hidefocus="true" >Mi News</a></li><li><a href="https://c.mi.com/fr/forum-2532-1.html" hidefocus="true" >Rumeurs</a></li><li><a href="https://c.mi.com/fr/forum-2533-1.html" hidefocus="true" >Mi.com</a></li><li><a href="https://c.mi.com/fr/forum-2539-1.html" hidefocus="true" >Mi Store</a></li><li><a href="https://c.mi.com/fr/forum-1846-1.html" hidefocus="true" >Mi Gazette</a></li><li><a href="https://c.mi.com/fr/forum-1016-1.html" hidefocus="true" >Guide du forum</a></li><li><a href="https://c.mi.com/fr/forum-2749-1.html" hidefocus="true" >Mi Débat</a></li><li><a href="https://c.mi.com/fr/forum-2750-1.html" hidefocus="true" >Concours</a></li><li><a href="https://c.mi.com/fr/forum-2974-1.html" hidefocus="true" >Vente smartphone (Bêta)</a></li></ul><ul class="p_pop h_pop" id="mn_F1_menu" style="display: none"><li><a href="http://c.mi.com/in/forum-1215-1.html" hidefocus="true" >Mi A2</a></li><li><a href="http://c.mi.com/in/forum-793-1.html" hidefocus="true" >Mi TV</a></li><li><a href="http://c.mi.com/in/forum-1095-1.html" hidefocus="true" >Redmi Y2</a></li><li><a href="http://c.mi.com/in/forum-887-1.html" hidefocus="true" >Redmi 5</a></li><li><a href="http://c.mi.com/in/forum-791-1.html" hidefocus="true" >Redmi Note 5 Pro</a></li><li><a href="http://c.mi.com/in/forum-792-1.html" hidefocus="true" >Redmi Note 5</a></li><li><a href="http://c.mi.com/in/forum-665-1.html" hidefocus="true" >Redmi 5A</a></li><li><a href="http://c.mi.com/in/forum-634-1.html" hidefocus="true" >Redmi Y1</a></li><li><a href="http://c.mi.com/in/forum-590-1.html" hidefocus="true" >Mi MIX 2</a></li><li><a href="http://c.mi.com/in/forum-309-1.html" hidefocus="true" >Redmi 4</a></li><li><a href="http://c.mi.com/in/forum-132-1.html" hidefocus="true" >Redmi 4A</a></li><li><a href="http://c.mi.com/in/forum-86-1.html" hidefocus="true" >Redmi 3S</a></li><li><a href="http://c.mi.com/in/forum-42-1.html" hidefocus="true" >Redmi</a></li><li><a href="http://c.mi.com/in/forum-92-1.html" hidefocus="true" >Redmi Note 4</a></li><li><a href="http://c.mi.com/in/forum-68-1.html" hidefocus="true" >Redmi Note 3</a></li><li><a href="http://c.mi.com/in/forum-41-1.html" hidefocus="true" >Redmi Note</a></li><li><a href="http://c.mi.com/in/forum-561-1.html" hidefocus="true" >Mi A1</a></li><li><a href="http://c.mi.com/in/forum-497-1.html" hidefocus="true" >Mi Max 2</a></li><li><a href="http://c.mi.com/in/forum-78-1.html" hidefocus="true" >Mi Max</a></li><li><a href="http://c.mi.com/in/forum-69-1.html" hidefocus="true" >Mi 5</a></li><li><a href="http://c.mi.com/in/forum-39-1.html" hidefocus="true" >Mi Phone</a></li><li><a href="http://c.mi.com/in/forum-88-1.html" hidefocus="true" >Air Purifier 2</a></li><li><a href="http://c.mi.com/in/forum-43-1.html" hidefocus="true" >Mi Pad</a></li><li><a href="http://c.mi.com/in/forum-70-1.html" hidefocus="true" >Mi Band</a></li><li><a href="http://c.mi.com/in/forum-310-1.html" hidefocus="true" >Mi Router 3C</a></li><li><a href="http://c.mi.com/in/forum-44-1.html" hidefocus="true" >Accessories</a></li></ul><ul class="p_pop h_pop" id="mn_N2665_menu" style="display: none"><li><a href="https://c.mi.com/vn/forum-2940-1.html" hidefocus="true" title="Mi 11"  style="color: blue">Mi 11</a></li><li><a href="https://c.mi.com/forum-2527-1.html" hidefocus="true" >Redmi Note 9 Series</a></li><li><a href="https://c.mi.com/forum-2882-1.html" hidefocus="true" >Mi 10T Pro</a></li><li><a href="https://c.mi.com/vn/forum-1038-1.html" hidefocus="true" >Dòng Mix</a></li><li><a href="https://c.mi.com/vn/forum-2275-1.html" hidefocus="true" >Redmi Note 8</a></li><li><a href="https://c.mi.com/vn/forum-102-1.html" hidefocus="true" >Dòng Redmi Note</a></li><li><a href="https://c.mi.com/vn/forum-104-1.html" hidefocus="true" >Dòng Redmi</a></li><li><a href="https://c.mi.com/vn/forum-1161-1.html" hidefocus="true" >Android One</a></li><li><a href="https://c.mi.com/vn/forum-106-1.html" hidefocus="true" >Mi Band</a></li><li><a href="https://c.mi.com/vn/forum-107-1.html" hidefocus="true" >Phụ kiện</a></li></ul><ul class="p_pop h_pop" id="mn_N9fc3_menu" style="display: none"><li><a href="https://c.mi.com/id/forum-3030-1.html" hidefocus="true" >Redmi Note 10 5G</a></li><li><a href="https://c.mi.com/id/forum-3020-1.html" hidefocus="true" >Mi 11 Ultra</a></li><li><a href="https://c.mi.com/id/forum-3018-1.html" hidefocus="true" >Mi 11 Lite</a></li><li><a href="https://c.mi.com/id/forum-2957-1.html" hidefocus="true" >Mi 11</a></li><li><a href="https://c.mi.com/id/forum-2965-1.html" hidefocus="true" >Redmi Note 10</a></li><li><a href="https://c.mi.com/id/forum-2966-1.html" hidefocus="true" >Redmi Note 10 Pro</a></li><li><a href="https://c.mi.com/id/forum-3016-1.html" hidefocus="true" >Redmi Note 10S</a></li><li><a href="https://c.mi.com/id/forum-2375-1.html" hidefocus="true" >Mi Note 10 Pro</a></li><li><a href="https://c.mi.com/id/forum-2667-1.html" hidefocus="true" >Mi 10</a></li><li><a href="https://c.mi.com/id/forum-2805-1.html" hidefocus="true" >POCO F2 Pro</a></li><li><a href="https://c.mi.com/id/forum-2887-1.html" hidefocus="true" >POCO X3 NFC</a></li><li><a href="https://c.mi.com/id/forum-2916-1.html" hidefocus="true" >Mi 10T/Pro</a></li><li><a href="https://c.mi.com/id/forum-2919-1.html" hidefocus="true" >Mi Watch</a></li><li><a href="https://c.mi.com/id/forum-1251-1.html" hidefocus="true" >POCOPHONE</a></li><li><a href="https://c.mi.com/id/forum-588-1.html" hidefocus="true" >Mi A1</a></li><li><a href="https://c.mi.com/id/forum-1403-1.html" hidefocus="true" >Mi A2 Lite</a></li><li><a href="https://c.mi.com/id/forum-1402-1.html" hidefocus="true" >Mi A2</a></li><li><a href="https://c.mi.com/id/forum-1621-1.html" hidefocus="true" >Mi 8 Lite</a></li><li><a href="https://c.mi.com/id/forum-1963-1.html" hidefocus="true" >Redmi Go</a></li><li><a href="https://c.mi.com/id/forum-1073-1.html" hidefocus="true" >Redmi S2</a></li><li><a href="https://c.mi.com/id/forum-145-1.html" hidefocus="true" >Redmi 3s</a></li><li><a href="https://c.mi.com/id/forum-143-1.html" hidefocus="true" >Redmi 4A</a></li><li><a href="https://c.mi.com/id/forum-144-1.html" hidefocus="true" >Redmi 3 Prime</a></li><li><a href="https://c.mi.com/id/forum-257-1.html" hidefocus="true" >Redmi 4X</a></li><li><a href="https://c.mi.com/id/forum-742-1.html" hidefocus="true" >Redmi 5A</a></li><li><a href="https://c.mi.com/id/forum-797-1.html" hidefocus="true" >Redmi 5</a></li><li><a href="https://c.mi.com/id/forum-796-1.html" hidefocus="true" >Redmi 5 Plus</a></li><li><a href="https://c.mi.com/id/forum-1310-1.html" hidefocus="true" >Redmi 6</a></li><li><a href="https://c.mi.com/id/forum-1311-1.html" hidefocus="true" >Redmi 6A</a></li><li><a href="https://c.mi.com/id/forum-2060-1.html" hidefocus="true" >Redmi 7</a></li><li><a href="https://c.mi.com/id/forum-2168-1.html" hidefocus="true" >Redmi 7A</a></li><li><a href="https://c.mi.com/id/forum-147-1.html" hidefocus="true" >Redmi Note 3</a></li><li><a href="https://c.mi.com/id/forum-141-1.html" hidefocus="true" >Aksesoris</a></li><li><a href="https://c.mi.com/id/forum-146-1.html" hidefocus="true" >Redmi Note 4</a></li><li><a href="https://c.mi.com/id/forum-964-1.html" hidefocus="true" >Redmi Note 5</a></li><li><a href="https://c.mi.com/id/forum-659-1.html" hidefocus="true" >Redmi Note 5A</a></li><li><a href="https://c.mi.com/id/forum-1620-1.html" hidefocus="true" >Redmi Note 6 Pro</a></li><li><a href="https://c.mi.com/id/forum-1969-1.html" hidefocus="true" >Redmi Note 7</a></li><li><a href="https://c.mi.com/id/forum-2273-1.html" hidefocus="true" >Redmi Note 8</a></li><li><a href="https://c.mi.com/id/forum-2274-1.html" hidefocus="true" >Redmi Note 8 Pro</a></li><li><a href="https://c.mi.com/id/forum-2362-1.html" hidefocus="true" >Redmi 8</a></li><li><a href="https://c.mi.com/id/forum-2363-1.html" hidefocus="true" >Redmi 8A</a></li><li><a href="https://c.mi.com/id/forum-2612-1.html" hidefocus="true" >Redmi 8A Pro</a></li><li><a href="https://c.mi.com/id/forum-2752-1.html" hidefocus="true" >Redmi Note 9</a></li><li><a href="https://c.mi.com/id/forum-2753-1.html" hidefocus="true" >Redmi Note 9 Pro</a></li><li><a href="https://c.mi.com/id/forum-2800-1.html" hidefocus="true" >Redmi 9</a></li><li><a href="https://c.mi.com/id/forum-2816-1.html" hidefocus="true" >Redmi 9A</a></li><li><a href="https://c.mi.com/id/forum-2852-1.html" hidefocus="true" >Redmi 9C</a></li><li><a href="https://c.mi.com/id/forum-2941-1.html" hidefocus="true" >Redmi 9T</a></li><li><a href="https://c.mi.com/id/forum-1312-1.html" hidefocus="true" >Mi TV</a></li></ul><ul class="p_pop h_pop" id="mn_N3b8a_menu" style="display: none"><li><a href="http://c.mi.com/ru/forum-235-1.html" hidefocus="true" >Темы</a></li><li><a href="http://c.mi.com/ru/forum-234-1.html" hidefocus="true" >Обратная связь</a></li><li><a href="http://c.mi.com/ru/forum-233-1.html" hidefocus="true" >Инструкции</a></li><li><a href="http://c.mi.com/ru/forum-232-1.html" hidefocus="true" >Советы и хитрости</a></li><li><a href="http://c.mi.com/ru/forum-231-1.html" hidefocus="true" >MIUI общее</a></li><li><a href="http://c.mi.com/ru/forum-230-1.html" hidefocus="true" >Новости</a></li></ul><ul class="p_pop h_pop" id="mn_N3666_menu" style="display: none"><li><a href="https://c.mi.com/ae/forum-273-1.html" hidefocus="true" >Announcement</a></li><li><a href="https://c.mi.com/ae/forum-274-1.html" hidefocus="true" >MIUI General</a></li><li><a href="https://c.mi.com/ae/forum-275-1.html" hidefocus="true" >Tips and Tricks</a></li><li><a href="https://c.mi.com/ae/forum-276-1.html" hidefocus="true" >Flashing Guide</a></li><li><a href="https://c.mi.com/ae/forum-277-1.html" hidefocus="true" >Themes</a></li><li><a href="https://c.mi.com/ae/forum-278-1.html" hidefocus="true" >MIUI Feedback</a></li></ul><ul class="p_pop h_pop" id="mn_N9183_menu" style="display: none"><li><a href="https://c.mi.com/mx/forum-300-1.html" hidefocus="true" >MIUI</a></li><li><a href="https://c.mi.com/mx/forum-301-1.html" hidefocus="true" >Consejos y trucos</a></li><li><a href="https://c.mi.com/mx/forum-302-1.html" hidefocus="true" >Guías de Flasheo</a></li><li><a href="https://c.mi.com/mx/forum-303-1.html" hidefocus="true" >Temas</a></li><li><a href="https://c.mi.com/mx/forum-304-1.html" hidefocus="true" >Comentarios de MIUI</a></li><li><a href="https://c.mi.com/mx/miuidownload/index" hidefocus="true" >Descarga de ROM Global</a></li></ul><ul class="p_pop h_pop" id="mn_Na3bf_menu" style="display: none"><li><a href="http://c.mi.com/tw/forum-354-1.html" hidefocus="true" >玩機教學</a></li><li><a href="http://c.mi.com/tw/forum-355-1.html" hidefocus="true" >刷機教學</a></li><li><a href="http://c.mi.com/tw/forum-356-1.html" hidefocus="true" >MIUI功能介紹</a></li><li><a href="http://c.mi.com/tw/forum-357-1.html" hidefocus="true" >新技術介紹</a></li><li><a href="download.php" hidefocus="true" >MIUI下載</a></li></ul><ul class="p_pop h_pop" id="mn_N98b2_menu" style="display: none"><li><a href="http://c.mi.com/ar/forum-474-1.html" hidefocus="true" >الإعلانات</a></li><li><a href="http://c.mi.com/ar/forum-475-1.html" hidefocus="true" >MIUI General</a></li><li><a href="http://c.mi.com/ar/forum-487-1.html" hidefocus="true" >النصائح والحيل</a></li><li><a href="http://c.mi.com/ar/forum-488-1.html" hidefocus="true" >Flashing Guide</a></li><li><a href="http://c.mi.com/ar/forum-489-1.html" hidefocus="true" >المقالات</a></li></ul><ul class="p_pop h_pop" id="mn_Ndf87_menu" style="display: none"><li><a href="https://c.mi.com/th/forum-544-1.html" hidefocus="true" >การแจ้งเตือน</a></li><li><a href="https://c.mi.com/th/forum-545-1.html" hidefocus="true" >MIUI ทั่วไป</a></li><li><a href="https://c.mi.com/th/forum-547-1.html" hidefocus="true" >ธีม</a></li><li><a href="https://c.mi.com/th/forum-548-1.html" hidefocus="true" >MIUI ข้อเสนอแนะ</a></li></ul><ul class="p_pop h_pop" id="mn_Na723_menu" style="display: none"><li><a href="https://c.mi.com/es/miuidownload/index" hidefocus="true" >MIUI ROMs</a></li><li><a href="https://c.mi.com/es/forum-611-1.html" hidefocus="true" >MIUI Guías</a></li><li><a href="https://c.mi.com/es/forum-2340-1.html" hidefocus="true" >MIUI Dudas</a></li><li><a href="https://c.mi.com/es/forum-630-1.html" hidefocus="true" >MIUI Themes</a></li><li><a href="https://c.mi.com/es/forum-2258-1.html" hidefocus="true" >MIUI Wallpapers</a></li><li><a href="https://c.mi.com/es/forum-1174-1.html" hidefocus="true" >MIUI APPs</a></li><li><a href="https://c.mi.com/es/forum-2662-1.html" hidefocus="true" >MIUI 12</a></li><li><a href="https://c.mi.com/es/forum-2272-1.html" hidefocus="true" >MIUI 11</a></li><li><a href="https://c.mi.com/es/forum-2271-1.html" hidefocus="true" >MIUI 10</a></li><li><a href="https://c.mi.com/es/forum-2270-1.html" hidefocus="true" >MIUI 9</a></li></ul><ul class="p_pop h_pop" id="mn_N3d8e_menu" style="display: none"><li><a href="http://c.mi.com/ph/forum-854-1.html" hidefocus="true" >MIUI Announcements</a></li><li><a href="http://c.mi.com/ph/forum-855-1.html" hidefocus="true" >MIUI General</a></li><li><a href="http://c.mi.com/ph/forum-857-1.html" hidefocus="true" >Feedback</a></li></ul><ul class="p_pop h_pop" id="mn_N7836_menu" style="display: none"><li><a href="https://c.mi.com/it/forum-921-1.html" hidefocus="true" >Annunci Ufficiali</a></li><li><a href="https://c.mi.com/it/forum-957-1.html" hidefocus="true" >News Xiaomi</a></li><li><a href="https://c.mi.com/it/forum-1089-1.html" hidefocus="true" >Altre News</a></li><li><a href="https://c.mi.com/it/forum-2747-1.html" hidefocus="true" >Rumors</a></li><li><a href="https://c.mi.com/it/forum-2748-1.html" hidefocus="true" >Recensioni</a></li><li><a href="https://c.mi.com/it/forum-922-1.html" hidefocus="true" >Lavora con Noi</a></li><li><a href="https://c.mi.com/it/forum-1789-1.html" hidefocus="true" >Amministrazione</a></li></ul><ul class="p_pop h_pop" id="mn_Nc763_menu" style="display: none"><li><a href="https://c.mi.com/bd/forum-2937-1.html" hidefocus="true" >POCO M2 Pro</a></li><li><a href="https://c.mi.com/bd/forum-2924-1.html" hidefocus="true" >POCO M3</a></li><li><a href="https://c.mi.com/bd/forum-2894-1.html" hidefocus="true" >POCO X3 NFC</a></li><li><a href="https://c.mi.com/bd/forum-2896-1.html" hidefocus="true" >POCO C3</a></li><li><a href="https://c.mi.com/bd/forum-2895-1.html" hidefocus="true" >POCO M2</a></li><li><a href="https://c.mi.com/bd/forum-2859-1.html" hidefocus="true" >Mi Note 10 Lite</a></li><li><a href="https://c.mi.com/bd/forum-2850-1.html" hidefocus="true" >Redmi 9C</a></li><li><a href="https://c.mi.com/bd/forum-2809-1.html" hidefocus="true" >Redmi 9A</a></li><li><a href="https://c.mi.com/bd/forum-2796-1.html" hidefocus="true" >Redmi 9</a></li><li><a href="https://c.mi.com/bd/forum-2756-1.html" hidefocus="true" >Redmi Note 9</a></li><li><a href="https://c.mi.com/bd/forum-2755-1.html" hidefocus="true" >Redmi Note 9S</a></li><li><a href="https://c.mi.com/bd/forum-2754-1.html" hidefocus="true" >Redmi Note 9 Pro</a></li><li><a href="https://c.mi.com/bd/forum-2305-1.html" hidefocus="true" >Redmi Note 8 Pro</a></li><li><a href="https://c.mi.com/bd/forum-2306-1.html" hidefocus="true" >Redmi Note 8</a></li><li><a href="https://c.mi.com/bd/forum-2093-1.html" hidefocus="true" >Redmi Note 7 Pro</a></li><li><a href="https://c.mi.com/bd/forum-2174-1.html" hidefocus="true" >Redmi Note 7S</a></li><li><a href="https://c.mi.com/bd/forum-2006-1.html" hidefocus="true" >Redmi Note 7</a></li><li><a href="https://c.mi.com/bd/forum-1680-1.html" hidefocus="true" >Redmi Note 6 Pro</a></li><li><a href="https://c.mi.com/bd/forum-1201-1.html" hidefocus="true" >Redmi Note 5</a></li><li><a href="https://c.mi.com/bd/forum-2300-1.html" hidefocus="true" >Redmi 8</a></li><li><a href="https://c.mi.com/bd/forum-2299-1.html" hidefocus="true" >Redmi 8A</a></li><li><a href="https://c.mi.com/bd/forum-2492-1.html" hidefocus="true" >Redmi 8A Dual</a></li><li><a href="https://c.mi.com/bd/forum-2213-1.html" hidefocus="true" >Redmi 7</a></li><li><a href="https://c.mi.com/bd/forum-2206-1.html" hidefocus="true" >Redmi 7A</a></li><li><a href="https://c.mi.com/bd/forum-2208-1.html" hidefocus="true" >Redmi 6</a></li><li><a href="https://c.mi.com/bd/forum-2212-1.html" hidefocus="true" >Redmi 6A</a></li><li><a href="https://c.mi.com/bd/forum-2211-1.html" hidefocus="true" >Redmi 5 Plus</a></li><li><a href="https://c.mi.com/bd/forum-2207-1.html" hidefocus="true" >Redmi 5</a></li><li><a href="https://c.mi.com/bd/forum-2215-1.html" hidefocus="true" >Redmi K20 Pro</a></li><li><a href="https://c.mi.com/bd/forum-2209-1.html" hidefocus="true" >Redmi Go</a></li><li><a href="https://c.mi.com/bd/forum-2214-1.html" hidefocus="true" >Redmi Y3</a></li><li><a href="https://c.mi.com/bd/forum-2210-1.html" hidefocus="true" >Redmi S2</a></li><li><a href="https://c.mi.com/bd/forum-2217-1.html" hidefocus="true" >Mi A3</a></li><li><a href="https://c.mi.com/bd/forum-2219-1.html" hidefocus="true" >Mi A2</a></li><li><a href="https://c.mi.com/bd/forum-2220-1.html" hidefocus="true" >Mi A2 Lite</a></li><li><a href="https://c.mi.com/bd/forum-2218-1.html" hidefocus="true" >Mi 8 Lite</a></li><li><a href="https://c.mi.com/bd/forum-2222-1.html" hidefocus="true" >POCOPHONE F1</a></li></ul><ul class="p_pop h_pop" id="mn_Naf5a_menu" style="display: none"><li><a href="http://c.mi.com/sg/forum-1577-1.html" hidefocus="true" >Mi Band 3</a></li><li><a href="http://c.mi.com/sg/forum-1578-1.html" hidefocus="true" >Mi Laser Projector</a></li><li><a href="http://c.mi.com/sg/forum-1579-1.html" hidefocus="true" >Mi Air Purifer</a></li><li><a href="http://c.mi.com/sg/forum-1580-1.html" hidefocus="true" >Mi Robot Vacuum</a></li><li><a href="http://c.mi.com/sg/forum-1581-1.html" hidefocus="true" >Mi Laptop Air</a></li><li><a href="http://c.mi.com/sg/forum-1582-1.html" hidefocus="true" >Mi Electric Scooter</a></li><li><a href="http://c.mi.com/sg/forum-1583-1.html" hidefocus="true" >Mi Robot Build Rover</a></li></ul><ul class="p_pop h_pop" id="mn_Ne61b_menu" style="display: none"><li><a href="https://c.mi.com/pl/forum-2933-1.html" hidefocus="true" >Mi Watch</a></li><li><a href="https://c.mi.com/pl/forum-1273-1.html" hidefocus="true" >Mi Band</a></li><li><a href="https://c.mi.com/pl/forum-1595-1.html" hidefocus="true" >Amazfit Bip</a></li><li><a href="https://c.mi.com/pl/forum-1596-1.html" hidefocus="true" >Mi Air Purifier</a></li><li><a href="https://c.mi.com/pl/forum-1597-1.html" hidefocus="true" >Mi Vacuum Cleaner</a></li><li><a href="https://c.mi.com/pl/forum-1598-1.html" hidefocus="true" >Mi Electric Scooter</a></li><li><a href="https://c.mi.com/pl/forum-1599-1.html" hidefocus="true" >Mi Electric Toothbrush</a></li><li><a href="https://c.mi.com/pl/forum-2603-1.html" hidefocus="true" >MI TV</a></li><li><a href="https://c.mi.com/pl/forum-1274-1.html" hidefocus="true" >Akcesoria</a></li><li><a href="https://c.mi.com/pl/forum-1411-1.html" hidefocus="true" >Inne</a></li></ul><ul class="p_pop h_pop" id="mn_N8303_menu" style="display: none"><li><a href="http://c.mi.com/ru/forum-1774-1.html" hidefocus="true" >Mi Band 3 Charger</a></li><li><a href="http://c.mi.com/ru/forum-1699-1.html" hidefocus="true" >Mi Home Security Camera</a></li><li><a href="http://c.mi.com/ru/forum-1700-1.html" hidefocus="true" >Mi Laptop Air 13.3</a></li><li><a href="http://c.mi.com/ru/forum-1739-1.html" hidefocus="true" >Mi Box</a></li><li><a href="http://c.mi.com/ru/forum-1757-1.html" hidefocus="true" >Mi Band 3</a></li><li><a href="http://c.mi.com/ru/forum-1758-1.html" hidefocus="true" >Mi Pocket Speaker 2</a></li><li><a href="http://c.mi.com/ru/forum-1759-1.html" hidefocus="true" >Mi Sports Earphones</a></li><li><a href="http://c.mi.com/ru/forum-1760-1.html" hidefocus="true" >Mi Bluetooth Headset Basic</a></li><li><a href="http://c.mi.com/ru/forum-1761-1.html" hidefocus="true" >Mi In-Ear Headphones</a></li><li><a href="http://c.mi.com/ru/forum-1762-1.html" hidefocus="true" >Mi Noise Cancelling Earphones</a></li><li><a href="http://c.mi.com/ru/forum-1766-1.html" hidefocus="true" >Mi Selfie Stick Серый</a></li><li><a href="http://c.mi.com/ru/forum-1767-1.html" hidefocus="true" >Mi 2-in-1 USB Cable</a></li><li><a href="http://c.mi.com/ru/forum-1768-1.html" hidefocus="true" >Mi Electric Toothbrush</a></li><li><a href="http://c.mi.com/ru/forum-1770-1.html" hidefocus="true" >Mi Portable Mouse</a></li><li><a href="http://c.mi.com/ru/forum-1771-1.html" hidefocus="true" >Mi Wireless Mouse</a></li><li><a href="http://c.mi.com/ru/forum-1772-1.html" hidefocus="true" >Mi Motion-Activated Light</a></li><li><a href="http://c.mi.com/ru/forum-1773-1.html" hidefocus="true" >Mi Selfie Stick Tripod</a></li><li><a href="http://c.mi.com/ru/forum-1698-1.html" hidefocus="true" >Mi Router 3</a></li><li><a href="http://c.mi.com/ru/forum-1764-1.html" hidefocus="true" >Mi Power Bank</a></li></ul><ul class="p_pop h_pop" id="mn_N8efa_menu" style="display: none"><li><a href="https://c.mi.com/ua/forum-1756-1.html" hidefocus="true" >Загальне</a></li><li><a href="https://c.mi.com/ua/forum-1755-1.html" hidefocus="true" >Аксесуари</a></li><li><a href="https://c.mi.com/ua/forum-1754-1.html" hidefocus="true" >Для дітей</a></li><li><a href="https://c.mi.com/ua/forum-1753-1.html" hidefocus="true" >E-транспорт</a></li><li><a href="https://c.mi.com/ua/forum-1752-1.html" hidefocus="true" >Mi Air Purifier</a></li><li><a href="https://c.mi.com/ua/forum-1751-1.html" hidefocus="true" >Mi Robot Vacuum</a></li><li><a href="https://c.mi.com/ua/forum-1750-1.html" hidefocus="true" >Mi TV та Mi Box</a></li><li><a href="https://c.mi.com/ua/forum-1749-1.html" hidefocus="true" >Mi Notebook</a></li><li><a href="https://c.mi.com/ua/forum-1748-1.html" hidefocus="true" >Amazfit</a></li><li><a href="https://c.mi.com/ua/forum-1747-1.html" hidefocus="true" >Mi Band</a></li><li><a href="https://c.mi.com/ua/forum-1873-1.html" hidefocus="true" >Мережеве Обладнання</a></li><li><a href="https://c.mi.com/forum-2964-1.html" hidefocus="true" >Mi Watch</a></li></ul><ul class="p_pop h_pop" id="mn_Nc23b_menu" style="display: none"><li><a href="https://c.mi.com/global/forum-1910-1.html" hidefocus="true" >Chat</a></li><li><a href="https://c.mi.com/global/forum-1911-1.html" hidefocus="true" >Tech</a></li><li><a href="https://c.mi.com/global/forum-1920-1.html" hidefocus="true" >Photography</a></li><li><a href="https://c.mi.com/global/forum-2635-1.html" hidefocus="true" >TechLab</a></li></ul><ul class="p_pop h_pop" id="mn_N9126_menu" style="display: none"><li><a href="https://c.mi.com/uk/forum-2984-1.html" hidefocus="true" >Mi Band 6</a></li><li><a href="https://c.mi.com/uk/forum-3001-1.html" hidefocus="true" >Mi Watch Series</a></li><li><a href="https://c.mi.com/uk/forum-2909-1.html" hidefocus="true" >Mi Band 5</a></li><li><a href="https://c.mi.com/uk/forum-1354-1.html" hidefocus="true" >Mi Electric Scooter</a></li><li><a href="https://c.mi.com/uk/forum-1355-1.html" hidefocus="true" >Mi Box/Box S</a></li><li><a href="https://c.mi.com/uk/forum-1428-1.html" hidefocus="true" >Ninebot Mini</a></li><li><a href="https://c.mi.com/uk/forum-2090-1.html" hidefocus="true" >Smart Home</a></li><li><a href="https://c.mi.com/uk/forum-2159-1.html" hidefocus="true" >Mi True Wireless Earphones</a></li><li><a href="https://c.mi.com/uk/forum-1434-1.html" hidefocus="true" >Others</a></li></ul><ul class="p_pop h_pop" id="mn_N54c8_menu" style="display: none"><li><a href="https://c.mi.com/my/forum-2423-1.html" hidefocus="true" >Wearables</a></li><li><a href="https://c.mi.com/my/forum-2424-1.html" hidefocus="true" >Smart Home</a></li><li><a href="https://c.mi.com/my/forum-2425-1.html" hidefocus="true" >Other Products</a></li></ul><ul class="p_pop h_pop" id="mn_N2a46_menu" style="display: none"><li><a href="https://c.mi.com/ng/forum-2470-1.html" hidefocus="true" >Wearables</a></li><li><a href="https://c.mi.com/ng/forum-2471-1.html" hidefocus="true" >Smart Home</a></li><li><a href="https://c.mi.com/ng/forum-2472-1.html" hidefocus="true" >Other Products</a></li></ul><ul class="p_pop h_pop" id="mn_N080b_menu" style="display: none"><li><a href="http://c.mi.com/co/forum-2578-1.html" hidefocus="true" >Mi Note 10</a></li><li><a href="http://c.mi.com/co/forum-2579-1.html" hidefocus="true" >Mi A3</a></li><li><a href="http://c.mi.com/co/forum-2580-1.html" hidefocus="true" >Redmi Note 8 / Pro</a></li><li><a href="http://c.mi.com/co/forum-2581-1.html" hidefocus="true" >Redmi Note 7</a></li><li><a href="http://c.mi.com/co/forum-2582-1.html" hidefocus="true" >Mi 9T / Pro</a></li><li><a href="http://c.mi.com/co/forum-2583-1.html" hidefocus="true" >Redmi 8</a></li><li><a href="http://c.mi.com/co/forum-2584-1.html" hidefocus="true" >Redmi 8a</a></li><li><a href="http://c.mi.com/co/forum-2585-1.html" hidefocus="true" >Mi Mix 3</a></li><li><a href="http://c.mi.com/co/forum-2586-1.html" hidefocus="true" >Redmi 7a</a></li><li><a href="http://c.mi.com/co/forum-2587-1.html" hidefocus="true" >Redmi Go</a></li><li><a href="http://c.mi.com/co/forum-2588-1.html" hidefocus="true" >Others</a></li></ul><ul class="p_pop h_pop" id="mn_Nde75_menu" style="display: none"><li><a href="https://c.mi.com/de/forum-2685-1.html" hidefocus="true" >Wearables</a></li><li><a href="https://c.mi.com/de/forum-2686-1.html" hidefocus="true" >Smart Home</a></li><li><a href="https://c.mi.com/de/forum-2687-1.html" hidefocus="true" >Andere Produkte</a></li></ul><ul class="p_pop h_pop" id="mn_N75ef_menu" style="display: none"><li><a href="https://c.mi.com/fr/forum-2543-1.html" hidefocus="true" >Série Mi 10</a></li><li><a href="https://c.mi.com/fr/forum-2970-1.html" hidefocus="true" >Mi 11</a></li><li><a href="https://c.mi.com/fr/forum-2544-1.html" hidefocus="true" >Série Mi 9</a></li><li><a href="https://c.mi.com/fr/forum-2545-1.html" hidefocus="true" >Série Mi Note 10</a></li><li><a href="https://c.mi.com/fr/forum-2546-1.html" hidefocus="true" >Mi MIX</a></li><li><a href="https://c.mi.com/fr/forum-2547-1.html" hidefocus="true" >Mi Max</a></li><li><a href="https://c.mi.com/fr/forum-2548-1.html" hidefocus="true" >Série Mi 8</a></li><li><a href="https://c.mi.com/fr/forum-2549-1.html" hidefocus="true" >Gamme Mi A</a></li><li><a href="https://c.mi.com/fr/forum-2550-1.html" hidefocus="true" >Pocophone</a></li><li><a href="https://c.mi.com/fr/forum-2727-1.html" hidefocus="true" >Black Shark</a></li><li><a href="https://c.mi.com/fr/forum-2551-1.html" hidefocus="true" >Autre</a></li></ul><ul class="p_pop h_pop" id="mn_N73c0_menu" style="display: none"><li><a href="https://c.mi.com/tr/forum-2770-1.html" hidefocus="true" >Mi Smart Band 5</a></li><li><a href="https://c.mi.com/tr/forum-3031-1.html" hidefocus="true" >Mi Smart Band 6</a></li><li><a href="https://c.mi.com/tr/forum-3032-1.html" hidefocus="true" >Mi Watch</a></li><li><a href="https://c.mi.com/tr/forum-2768-1.html" hidefocus="true" >Mi Band 3/4</a></li><li><a href="https://c.mi.com/tr/forum-2771-1.html" hidefocus="true" >Mi Akıllı Robot Süpürge</a></li><li><a href="https://c.mi.com/tr/forum-2772-1.html" hidefocus="true" >Mi Şarjlı El Süpürgesi</a></li><li><a href="https://c.mi.com/tr/forum-2773-1.html" hidefocus="true" >Mi Elektrikli Scooter</a></li><li><a href="https://c.mi.com/tr/forum-2774-1.html" hidefocus="true" >Mi Akıllı Tartı</a></li></ul><ul class="p_pop h_pop" id="mn_F37_menu" style="display: none"><li><a href="http://c.mi.com/in/forum-48-1.html	" hidefocus="true" >Announcement</a></li><li><a href="http://c.mi.com/in/forum-72-1.html" hidefocus="true" >MIUI General</a></li><li><a href="http://c.mi.com/in/forum-46-1.html	" hidefocus="true" >Tips and Tricks</a></li><li><a href="http://c.mi.com/in/forum-45-1.html" hidefocus="true" >Flashing Guide</a></li><li><a href="http://c.mi.com/in/forum-73-1.html" hidefocus="true" >Themes</a></li><li><a href="http://c.mi.com/in/forum-54-1.html" hidefocus="true" >MIUI Feedback</a></li><li><a href="http://c.mi.com/in/forum-83-1.html" hidefocus="true" >MIUI Beta team</a></li><li><a href="http://c.mi.com/in/miui10/index" hidefocus="true" >MIUI 10 features</a></li></ul><ul class="p_pop h_pop" id="mn_Ne2ef_menu" style="display: none"><li><a href="https://c.mi.com/vn/forum-114-1.html" hidefocus="true" >Thông báo</a></li><li><a href="https://c.mi.com/vn/forum-115-1.html" hidefocus="true" >MIUI Chung</a></li><li><a href="https://c.mi.com/vn/forum-127-1.html" hidefocus="true" >Mẹo và thủ thuật</a></li><li><a href="https://c.mi.com/vn/forum-116-1.html" hidefocus="true" >Hướng dẫn</a></li><li><a href="https://c.mi.com/vn/forum-130-1.html" hidefocus="true" >Giao diện MIUI</a></li><li><a href="https://c.mi.com/vn/forum-117-1.html" hidefocus="true" >Phản hồi MIUI</a></li></ul><ul class="p_pop h_pop" id="mn_N0252_menu" style="display: none"><li><a href="https://c.mi.com/id/forum-168-1.html" hidefocus="true" >Pemberitahuan</a></li><li><a href="https://c.mi.com/id/forum-172-1.html" hidefocus="true" >MIUI General</a></li><li><a href="https://c.mi.com/id/forum-169-1.html" hidefocus="true" >Tips dan trik</a></li><li><a href="https://c.mi.com/id/forum-171-1.html" hidefocus="true" >Feedback MIUI</a></li><li><a href="https://c.mi.com/id/forum-173-1.html" hidefocus="true" >Tema</a></li><li><a href="https://c.mi.com/id/forum-170-1.html" hidefocus="true" >Panduan Flashing</a></li></ul><ul class="p_pop h_pop" id="mn_N31fe_menu" style="display: none"><li><a href="http://c.mi.com/sg/forum-1099-1.html" hidefocus="true" >Redmi S2</a></li><li><a href="http://c.mi.com/sg/forum-1079-1.html" hidefocus="true" >Redmi Note 5</a></li><li><a href="http://c.mi.com/sg/forum-598-1.html" hidefocus="true" >Mi MIX 2</a></li><li><a href="http://c.mi.com/sg/forum-1237-1.html" hidefocus="true" >Mi MIX 2S</a></li><li><a href="http://c.mi.com/sg/forum-573-1.html" hidefocus="true" >Mi A1</a></li><li><a href="http://c.mi.com/sg/forum-1235-1.html" hidefocus="true" >Mi A2</a></li><li><a href="http://c.mi.com/sg/forum-248-1.html" hidefocus="true" >Mi Max</a></li><li><a href="http://c.mi.com/sg/forum-1236-1.html" hidefocus="true" >Mi 8</a></li><li><a href="http://c.mi.com/sg/forum-198-1.html" hidefocus="true" >Mi 5</a></li><li><a href="http://c.mi.com/sg/forum-528-1.html" hidefocus="true" >Mi 6</a></li><li><a href="http://c.mi.com/sg/forum-199-1.html" hidefocus="true" >Mi 4i</a></li><li><a href="http://c.mi.com/sg/forum-200-1.html" hidefocus="true" >Mi 3</a></li><li><a href="http://c.mi.com/sg/forum-191-1.html" hidefocus="true" >Redmi Note</a></li><li><a href="http://c.mi.com/sg/forum-192-1.html" hidefocus="true" >Redmi</a></li><li><a href="http://c.mi.com/sg/forum-193-1.html" hidefocus="true" >Mi Pad</a></li><li><a href="http://c.mi.com/sg/forum-194-1.html" hidefocus="true" >Mi Band</a></li><li><a href="http://c.mi.com/sg/forum-201-1.html" hidefocus="true" >Mi Air Purifier</a></li><li><a href="http://c.mi.com/sg/forum-202-1.html" hidefocus="true" >Mi In-Ear Headphones</a></li><li><a href="http://c.mi.com/sg/forum-203-1.html" hidefocus="true" >Mi Headphones</a></li><li><a href="http://c.mi.com/sg/forum-204-1.html" hidefocus="true" >Accessories</a></li><li><a href="http://c.mi.com/sg/forum-841-1.html" hidefocus="true" >Mi Home Products</a></li><li><a href="http://c.mi.com/sg/forum-1249-1.html" hidefocus="true" >POCOPHONE</a></li></ul><ul class="p_pop h_pop" id="mn_N45fb_menu" style="display: none"><li><a href="http://c.mi.com/ru/forum-596-1.html" hidefocus="true" >Новости</a></li><li><a href="http://c.mi.com/ru/forum-236-1.html" hidefocus="true" >Чат</a></li><li><a href="http://c.mi.com/ru/forum-237-1.html" hidefocus="true" >Фото</a></li><li><a href="http://c.mi.com/ru/forum-238-1.html" hidefocus="true" >Ресурсы</a></li><li><a href="http://c.mi.com/ru/forum-239-1.html" hidefocus="true" >Технологии</a></li><li><a href="http://c.mi.com/ru/forum-1053-1.html" hidefocus="true" >Таланты</a></li><li><a href="http://c.mi.com/ru/forum-1408-1.html" hidefocus="true" >Конкурсы</a></li></ul><ul class="p_pop h_pop" id="mn_N8c19_menu" style="display: none"><li><a href="https://c.mi.com/ae/forum-279-1.html" hidefocus="true" >Chat</a></li><li><a href="https://c.mi.com/ae/forum-283-1.html" hidefocus="true" >Photography</a></li><li><a href="https://c.mi.com/ae/forum-284-1.html" hidefocus="true" >Tech</a></li><li><a href="https://c.mi.com/ae/forum-285-1.html" hidefocus="true" >Resources</a></li></ul><ul class="p_pop h_pop" id="mn_N0353_menu" style="display: none"><li><a href="http://c.mi.com/ar/forum-490-1.html" hidefocus="true" >الدردشة</a></li><li><a href="http://c.mi.com/ar/forum-491-1.html" hidefocus="true" >الصور الفوتوغرافية</a></li><li><a href="http://c.mi.com/ar/forum-492-1.html" hidefocus="true" >تكنولوجيا</a></li><li><a href="http://c.mi.com/ar/forum-493-1.html" hidefocus="true" >مصادر للمعلومات</a></li></ul><ul class="p_pop h_pop" id="mn_Ncee6_menu" style="display: none"><li><a href="https://c.mi.com/arab/forum-1062-1.html" hidefocus="true" >شهر رمضان</a></li><li><a href="https://c.mi.com/arab/forum-515-1.html" hidefocus="true" >الدردشة</a></li><li><a href="https://c.mi.com/arab/forum-516-1.html" hidefocus="true" >الصور الفوتوغرافية</a></li><li><a href="https://c.mi.com/arab/forum-517-1.html" hidefocus="true" >تكنولوجيا</a></li><li><a href="https://c.mi.com/arab/forum-518-1.html" hidefocus="true" >مصادر للمعلومات</a></li></ul><ul class="p_pop h_pop" id="mn_Nc399_menu" style="display: none"><li><a href="https://c.mi.com/th/forum-549-1.html" hidefocus="true" >แชท</a></li><li><a href="https://c.mi.com/th/forum-550-1.html" hidefocus="true" >ภาพถ่าย</a></li><li><a href="https://c.mi.com/th/forum-552-1.html" hidefocus="true" >เทคโนโลยี</a></li><li><a href="https://c.mi.com/th/forum-551-1.html" hidefocus="true" >แบ่งปัน</a></li><li><a href="https://c.mi.com/th/forum-1565-1.html" hidefocus="true" >Tech วีดีโอ</a></li><li><a href="https://c.mi.com/th/forum-549-1.html" hidefocus="true" >เรื่อ่งราวของ Mi Fans</a></li></ul><ul class="p_pop h_pop" id="mn_Nc2d5_menu" style="display: none"><li><a href="https://c.mi.com/ua/forum-1874-1.html" hidefocus="true" >Новини Xiaomi</a></li><li><a href="https://c.mi.com/ua/forum-1875-1.html" hidefocus="true" >Новини Mi Home</a></li><li><a href="https://c.mi.com/ua/forum-1876-1.html" hidefocus="true" >Новини загальні</a></li><li><a href="https://c.mi.com/ua/forum-1877-1.html" hidefocus="true" >Новини Mi Community</a></li></ul><ul class="p_pop h_pop" id="mn_Nc27a_menu" style="display: none"><li><a href="https://c.mi.com/fr/forum-2249-1.html" hidefocus="true" >Redmi Note 8T/8 Pro</a></li><li><a href="https://c.mi.com/fr/forum-2731-1.html" hidefocus="true" >Série Redmi Note 9</a></li><li><a href="https://c.mi.com/fr/forum-2969-1.html" hidefocus="true" >Série Redmi Note 10</a></li><li><a href="https://c.mi.com/fr/forum-2927-1.html" hidefocus="true" >Série Redmi 9</a></li><li><a href="https://c.mi.com/fr/forum-1081-1.html" hidefocus="true" >Redmi Note 5</a></li><li><a href="https://c.mi.com/fr/forum-2018-1.html" hidefocus="true" >Redmi Note 6 Pro</a></li><li><a href="https://c.mi.com/fr/forum-2013-1.html" hidefocus="true" >Redmi Note 7</a></li><li><a href="https://c.mi.com/fr/forum-1028-1.html" hidefocus="true" >Autres Redmi</a></li></ul><ul class="p_pop h_pop" id="mn_Nac3d_menu" style="display: none"><li><a href="https://c.mi.com/pl/forum-1292-1.html" hidefocus="true" >Ogłoszenia</a></li><li><a href="https://c.mi.com/pl/forum-1293-1.html" hidefocus="true" >Ogólnie o MIUI</a></li><li><a href="https://c.mi.com/pl/forum-1294-1.html" hidefocus="true" >Porady i wskazówki</a></li><li><a href="https://c.mi.com/pl/forum-1295-1.html" hidefocus="true" >Flashowanie</a></li><li><a href="https://c.mi.com/pl/forum-1296-1.html" hidefocus="true" >Opinie o MIUI</a></li><li><a href="https://c.mi.com/pl/forum-1297-1.html" hidefocus="true" >Motywy</a></li><li><a href="https://c.mi.com/pl/forum-1299-1.html" hidefocus="true" >MIUI Beta Team</a></li><li><a href="https://c.mi.com/pl/forum-1299-1.html" hidefocus="true" >MIUI Beta Team</a></li></ul><ul class="p_pop h_pop" id="mn_N6a32_menu" style="display: none"><li><a href="https://c.mi.com/tr/forum-1533-1.html" hidefocus="true" >Duyurular</a></li><li><a href="https://c.mi.com/tr/forum-1534-1.html" hidefocus="true" >MIUI Genel</a></li><li><a href="https://c.mi.com/tr/forum-1535-1.html" hidefocus="true" >İpuçları ve Püf Noktaları</a></li><li><a href="https://c.mi.com/tr/forum-1536-1.html" hidefocus="true" >Flashlama Kılavuzu</a></li><li><a href="https://c.mi.com/tr/forum-1537-1.html" hidefocus="true" >MIUI Geri Bildirimleri</a></li><li><a href="https://c.mi.com/tr/forum-1538-1.html" hidefocus="true" >Temalar</a></li><li><a href="https://c.mi.com/tr/forum-1539-1.html" hidefocus="true" >İndirmeler</a></li></ul><ul class="p_pop h_pop" id="mn_N2772_menu" style="display: none"><li><a href="http://c.mi.com/ph/forum-1592-1.html" hidefocus="true" >Mi Air Purifier 2S</a></li><li><a href="http://c.mi.com/ph/forum-1591-1.html" hidefocus="true" >Mi Purifier Pro</a></li><li><a href="http://c.mi.com/ph/forum-1590-1.html" hidefocus="true" >Mi Electric Scooter</a></li><li><a href="http://c.mi.com/ph/forum-1589-1.html" hidefocus="true" >Mi Robot Vacuum</a></li><li><a href="http://c.mi.com/ph/forum-1587-1.html" hidefocus="true" >Mi Home Security 360</a></li><li><a href="http://c.mi.com/ph/forum-1587-1.html" hidefocus="true" >Mi Laser Projector</a></li><li><a href="http://c.mi.com/ph/forum-1586-1.html" hidefocus="true" >Amazefit pace</a></li><li><a href="http://c.mi.com/ph/forum-1585-1.html" hidefocus="true" >Mi Band 3</a></li></ul><ul class="p_pop h_pop" id="mn_N1a93_menu" style="display: none"><li><a href="https://c.mi.com/global/forum-1922-1.html" hidefocus="true" >Themes</a></li><li><a href="https://c.mi.com/global/forum-1923-1.html" hidefocus="true" >Wallpaper</a></li><li><a href="https://c.mi.com/global/forum-2621-1.html" hidefocus="true" >Gaming</a></li><li><a href="https://c.mi.com/global/forum-1925-1.html" hidefocus="true" >App</a></li><li><a href="https://c.mi.com/global/forum-1924-1.html" hidefocus="true" >Ringtone</a></li></ul><ul class="p_pop h_pop" id="mn_Nd12e__menu" style="display: none"><li><a href="https://c.mi.com/uk/forum-1356-1.html" hidefocus="true" >Contest</a></li><li><a href="https://c.mi.com/uk/forum-1357-1.html" hidefocus="true" >Events</a></li><li><a href="https://c.mi.com/uk/forum-1389-1.html" hidefocus="true" >Photography</a></li><li><a href="https://c.mi.com/uk/forum-2091-1.html" hidefocus="true" >Deals</a></li><li><a href="https://c.mi.com/uk/forum-2092-1.html" hidefocus="true" >Off-topic</a></li></ul><ul class="p_pop h_pop" id="mn_Ne27c_menu" style="display: none"><li><a href="https://c.mi.com/my/forum-2426-1.html" hidefocus="true" >Announcement</a></li><li><a href="https://c.mi.com/my/forum-2427-1.html" hidefocus="true" >MIUI General</a></li><li><a href="https://c.mi.com/my/forum-2428-1.html" hidefocus="true" >Tips and Tricks</a></li><li><a href="https://c.mi.com/my/forum-2429-1.html" hidefocus="true" >Flashing Guide</a></li><li><a href="https://c.mi.com/my/forum-2430-1.html" hidefocus="true" >MIUI Feedback</a></li><li><a href="https://c.mi.com/my/forum-2708-1.html" hidefocus="true" >MIUI 12</a></li><li><a href="https://c.mi.com/my/forum-2493-1.html" hidefocus="true" >MIUI 11</a></li></ul><ul class="p_pop h_pop" id="mn_N6cd9_menu" style="display: none"><li><a href="https://c.mi.com/bd/forum-2515-1.html" hidefocus="true" >Mi Earphones (with mic)</a></li><li><a href="https://c.mi.com/bd/forum-2369-1.html" hidefocus="true" >Mi Earphones Basic</a></li><li><a href="https://c.mi.com/bd/forum-2368-1.html" hidefocus="true" >Mi True Wireless Earbuds</a></li><li><a href="https://c.mi.com/bd/forum-2230-1.html" hidefocus="true" >Mi Pocket Speaker 2</a></li></ul><ul class="p_pop h_pop" id="mn_Nb2e1_menu" style="display: none"><li><a href="https://c.mi.com/ng/forum-2473-1.html" hidefocus="true" >Announcement</a></li><li><a href="https://c.mi.com/ng/forum-2474-1.html" hidefocus="true" >MIUI General</a></li><li><a href="https://c.mi.com/ng/forum-2475-1.html" hidefocus="true" >Tips and Tricks</a></li><li><a href="https://c.mi.com/ng/forum-2476-1.html" hidefocus="true" >Flashing Guide</a></li><li><a href="https://c.mi.com/ng/forum-2477-1.html" hidefocus="true" >MIUI Feedback</a></li></ul><ul class="p_pop h_pop" id="mn_Nc0a8_menu" style="display: none"><li><a href="https://c.mi.com/mx/forum-2509-1.html" hidefocus="true" >Wearables</a></li><li><a href="https://c.mi.com/mx/forum-2511-1.html" hidefocus="true" >Audífonos y Bocinas</a></li><li><a href="https://c.mi.com/mx/forum-2510-1.html" hidefocus="true" >Mi Casa Inteligente</a></li><li><a href="https://c.mi.com/mx/forum-2512-1.html" hidefocus="true" >Otros productos</a></li></ul><ul class="p_pop h_pop" id="mn_N2b9b_menu" style="display: none"><li><a href="http://c.mi.com/co/forum-2589-1.html" hidefocus="true" >Wearables</a></li><li><a href="http://c.mi.com/co/forum-2590-1.html" hidefocus="true" >Mi Casa Inteligente</a></li><li><a href="http://c.mi.com/co/forum-2591-1.html" hidefocus="true" >Otros productos</a></li></ul><ul class="p_pop h_pop" id="mn_N06ab_menu" style="display: none"><li><a href="https://c.mi.com/de/forum-2688-1.html" hidefocus="true" >Ankündigungen</a></li><li><a href="https://c.mi.com/de/forum-2689-1.html" hidefocus="true" >MIUI Allgemein</a></li><li><a href="https://c.mi.com/de/forum-2690-1.html" hidefocus="true" >Tipps und Tricks</a></li><li><a href="https://c.mi.com/de/forum-2691-1.html" hidefocus="true" >Flashing Guide</a></li><li><a href="https://c.mi.com/de/forum-2692-1.html" hidefocus="true" >MIUI Feedback</a></li></ul><ul class="p_pop h_pop" id="mn_Na5a8_menu" style="display: none"><li><a href="https://c.mi.com/thread-3433122-1-1.html0" hidefocus="true"  style="font-weight: bold;color: orange">OFFERTE DEL GIORNO</a></li><li><a href="https://c.mi.com/thread-3438860-1-0.html" hidefocus="true" >OFFERTE ECOSYSTEM</a></li><li><a href="https://c.mi.com/thread-3431431-1-0.html" hidefocus="true" target="_blank"  style="font-weight: bold;">BEST BUY 100-200€</a></li><li><a href="https://c.mi.com/thread-3431855-1-0.html" hidefocus="true" >BEST BUY 200-300€</a></li><li><a href="https://c.mi.com/thread-3431920-1-0.html" hidefocus="true" >BEST BUY 300-500€</a></li><li><a href="https://c.mi.com/thread-3431198-1-0.html" hidefocus="true" >BEST BUY 500-700€</a></li><li><a href="https://c.mi.com/thread-3429534-1-0.html" hidefocus="true" >BEST BUY 700-999</a></li><li><a href="https://c.mi.com/thread-3431212-1-0.html" hidefocus="true" >BEST BUY | GAMING</a></li><li><a href="https://c.mi.com/thread-3427403-1-0.html" hidefocus="true" >BEST BUY | CAMERAPHONE</a></li><li><a href="https://c.mi.com/thread-3431029-1-0.html" hidefocus="true" >BEST BUY | BATTERYPHONE</a></li><li><a href="https://c.mi.com/thread-3433142-1-0.html" hidefocus="true" >BEST BUY | 5G</a></li><li><a href="https://c.mi.com/thread-3434083-1-0.html" hidefocus="true" >BEST BUY | DISPLAY</a></li></ul><ul class="p_pop h_pop" id="mn_F38_menu" style="display: none"><li><a href="http://c.mi.com/in/forum-71-1.html" hidefocus="true" >Mi FC bulletin</a></li><li><a href="http://c.mi.com/in/forum-62-1.html" hidefocus="true" >Mumbai</a></li><li><a href="http://c.mi.com/in/forum-63-1.html" hidefocus="true" >Bengaluru</a></li><li><a href="http://c.mi.com/in/forum-64-1.html" hidefocus="true" >Kolkata</a></li><li><a href="http://c.mi.com/in/forum-65-1.html" hidefocus="true" >Vizag</a></li><li><a href="http://c.mi.com/in/forum-61-1.html" hidefocus="true" >Delhi</a></li><li><a href="http://c.mi.com/in/forum-79-1.html" hidefocus="true" >Pune</a></li><li><a href="http://c.mi.com/in/forum-80-1.html" hidefocus="true" >Chandigarh</a></li><li><a href="http://c.mi.com/in/forum-81-1.html" hidefocus="true" >Hyderabad</a></li><li><a href="http://c.mi.com/in/forum-82-1.html" hidefocus="true" >Ahmedabad</a></li><li><a href="http://c.mi.com/in/forum-84-1.html" hidefocus="true" >Bhubaneswar</a></li><li><a href="http://c.mi.com/in/forum-89-1.html" hidefocus="true" >Kerala</a></li><li><a href="http://c.mi.com/in/forum-253-1.html" hidefocus="true" >Vadodara</a></li><li><a href="http://c.mi.com/in/forum-445-1.html" hidefocus="true" >Jalandhar</a></li><li><a href="http://c.mi.com/in/forum-444-1.html" hidefocus="true" >Agra</a></li><li><a href="http://c.mi.com/in/forum-526-1.html" hidefocus="true" >Tripura</a></li><li><a href="http://c.mi.com/in/forum-527-1.html" hidefocus="true" >Lucknow</a></li><li><a href="http://c.mi.com/in/forum-600-1.html" hidefocus="true" >Patna</a></li><li><a href="http://c.mi.com/in/forum-663-1.html" hidefocus="true" >Jaipur</a></li><li><a href="http://c.mi.com/in/forum-664-1.html" hidefocus="true" >Meerut</a></li><li><a href="http://c.mi.com/in/forum-782-1.html" hidefocus="true" >Chennai</a></li><li><a href="http://c.mi.com/in/forum-1084-1.html" hidefocus="true" >Khammam</a></li></ul><ul class="p_pop h_pop" id="mn_N63dc_menu" style="display: none"><li><a href="http://c.mi.com/ru/forum-240-1.html" hidefocus="true" >Общее</a></li><li><a href="http://c.mi.com/ru/forum-241-1.html" hidefocus="true" >Москва</a></li><li><a href="http://c.mi.com/ru/forum-242-1.html" hidefocus="true" >Санкт-Петербург</a></li><li><a href="http://c.mi.com/ru/forum-894-1.html" hidefocus="true" >Краснодар</a></li><li><a href="http://c.mi.com/ru/forum-893-1.html" hidefocus="true" >Уфа</a></li><li><a href="http://c.mi.com/ru/forum-1681-1.html" hidefocus="true" >Екатеринбург</a></li><li><a href="http://c.mi.com/ru/forum-1682-1.html" hidefocus="true" >Сочи</a></li><li><a href="http://c.mi.com/ru/forum-1683-1.html" hidefocus="true" >Казань</a></li><li><a href="http://c.mi.com/ru/forum-1684-1.html" hidefocus="true" >Нижний Новгород</a></li><li><a href="http://c.mi.com/ru/forum-1685-1.html" hidefocus="true" >Новосибирск</a></li><li><a href="http://c.mi.com/ru/forum-1686-1.html" hidefocus="true" >Ростов-на-Дону</a></li></ul><ul class="p_pop h_pop" id="mn_Nd6ba_menu" style="display: none"><li><a href="https://c.mi.com/ae/forum-280-1.html" hidefocus="true" >Bulletin</a></li><li><a href="https://c.mi.com/ae/forum-281-1.html" hidefocus="true" >Management</a></li><li><a href="https://c.mi.com/ae/forum-282-1.html" hidefocus="true" >Recruitment</a></li></ul><ul class="p_pop h_pop" id="mn_N48ae_menu" style="display: none"><li><a href="https://c.mi.com/mx/forum-2943-1.html" hidefocus="true" >Detrás de Mi</a></li><li><a href="http://c.mi.com/es/forum-785-1.html" hidefocus="true" >Eventos Mi</a></li><li><a href="https://c.mi.com/mx/forum-2823-1.html" hidefocus="true" >Gaming</a></li><li><a href="https://c.mi.com/mx/forum-308-1.html" hidefocus="true" >Recursos</a></li><li><a href="https://c.mi.com/mx/forum-306-1.html" hidefocus="true" >Fotografía</a></li><li><a href="https://c.mi.com/mx/forum-3009-1.html" hidefocus="true" >By TikTok</a></li><li><a href="https://c.mi.com/mx/forum-305-1.html" hidefocus="true" >Chat</a></li><li><a href="https://c.mi.com/mx/forum-307-1.html" hidefocus="true" >Tecnología</a></li><li><a href="https://c.mi.com/mx/forum-2615-1.html" hidefocus="true" >Historias de Mi Fans</a></li></ul><ul class="p_pop h_pop" id="mn_Nfc24_menu" style="display: none"><li><a href="http://c.mi.com/tw/forum-361-1.html" hidefocus="true" >最新資訊</a></li><li><a href="http://c.mi.com/tw/forum-362-1.html" hidefocus="true" >技術資訊</a></li></ul><ul class="p_pop h_pop" id="mn_Ne5c0_menu" style="display: none"><li><a href="https://c.mi.com/ua/forum-424-1.html" hidefocus="true" >Новини MIUI</a></li><li><a href="https://c.mi.com/ua/forum-425-1.html" hidefocus="true" >MIUI Загальне</a></li><li><a href="https://c.mi.com/forum.php?mod=forumdisplay&fid=3037&filter=typeid&typeid=0" hidefocus="true" >Переклад MIUI</a></li><li><a href="https://c.mi.com/ua/forum-426-1.html" hidefocus="true" >Поради та хитрощі</a></li><li><a href="https://c.mi.com/ua/forum-427-1.html" hidefocus="true" >Керівництво по установці</a></li><li><a href="https://c.mi.com/ua/forum-428-1.html" hidefocus="true" >Зворотний зв'язок</a></li><li><a href="https://c.mi.com/ua/forum-429-1.html" hidefocus="true" >Теми</a></li><li><a href="https://c.mi.com/ua/forum-2062-1.html" hidefocus="true" >Бета-прошивки</a></li><li><a href="https://c.mi.com/ua/miuidownload/index" hidefocus="true" >Завантажити прошивку</a></li></ul><ul class="p_pop h_pop" id="mn_N51d9_menu" style="display: none"><li><a href="http://c.mi.com/ar/forum-494-1.html" hidefocus="true" >بيان</a></li><li><a href="http://c.mi.com/ar/forum-495-1.html" hidefocus="true" >إدارة</a></li><li><a href="http://c.mi.com/ar/forum-496-1.html" hidefocus="true" >الردود</a></li></ul><ul class="p_pop h_pop" id="mn_N1bb9_menu" style="display: none"><li><a href="https://c.mi.com/th/forum-559-1.html" hidefocus="true" >Mi FC แถลงการณ์</a></li><li><a href="https://c.mi.com/th/forum-560-1.html" hidefocus="true" >กรุงเทพมหานคร</a></li><li><a href="https://c.mi.com/th/forum-1395-1.html" hidefocus="true" >เชียงใหม่</a></li><li><a href="https://c.mi.com/th/forum-1396-1.html" hidefocus="true" >หาดใหญ่</a></li><li><a href="https://c.mi.com/th/forum-1397-1.html" hidefocus="true" >ชลบุรี</a></li><li><a href="https://c.mi.com/th/forum-1673-1.html" hidefocus="true" >นครศรีธรรมราช</a></li><li><a href="https://c.mi.com/th/forum-1826-1.html" hidefocus="true" >นครราชสีมา</a></li><li><a href="https://c.mi.com/th/forum-1972-1.html" hidefocus="true" >ขอนแก่น</a></li><li><a href="https://c.mi.com/th/forum-2370-1.html" hidefocus="true" >สระแก้ว</a></li></ul><ul class="p_pop h_pop" id="mn_N5dd9_menu" style="display: none"><li><a href="http://c.mi.com/sg/forum-672-1.html" hidefocus="true" >Announcements</a></li><li><a href="http://c.mi.com/sg/forum-673-1.html" hidefocus="true" >MIUI Features</a></li><li><a href="http://c.mi.com/sg/forum-674-1.html" hidefocus="true" >Themes</a></li><li><a href="http://c.mi.com/sg/forum-675-1.html" hidefocus="true" >MIUI Feedback</a></li></ul><ul class="p_pop h_pop" id="mn_Ndc6a_menu" style="display: none"><li><a href="https://c.mi.com/arab/forum-1850-1.html" hidefocus="true" >جامعة القاهرة</a></li><li><a href="https://c.mi.com/arab/forum-1851-1.html" hidefocus="true" >جامعة عين شمس</a></li><li><a href="https://c.mi.com/arab/forum-1852-1.html" hidefocus="true" >جامعة حلوان</a></li></ul><ul class="p_pop h_pop" id="mn_Naff1_menu" style="display: none"><li><a href="http://c.mi.com/ph/forum-859-1.html" hidefocus="true" >Photography</a></li><li><a href="http://c.mi.com/ph/forum-863-1.html" hidefocus="true" >Android Apps</a></li><li><a href="http://c.mi.com/ph/forum-862-1.html" hidefocus="true" >Tech</a></li><li><a href="http://c.mi.com/ph/forum-864-1.html" hidefocus="true" >Themes</a></li><li><a href="http://c.mi.com/ph/forum-861-1.html" hidefocus="true" >Chat</a></li><li><a href="http://c.mi.com/ph/forum-907-1.html" hidefocus="true" >Tips and Tricks</a></li></ul><ul class="p_pop h_pop" id="mn_Naa54_menu" style="display: none"><li><a href="https://c.mi.com/it/forum-1457-1.html" hidefocus="true" >Mi Series</a></li><li><a href="https://c.mi.com/it/forum-1458-1.html" hidefocus="true" >Mi MIX</a></li><li><a href="https://c.mi.com/it/forum-1462-1.html" hidefocus="true" >POCO</a></li><li><a href="https://c.mi.com/it/forum-1459-1.html" hidefocus="true" >Mi A series</a></li><li><a href="https://c.mi.com/it/forum-1463-1.html" hidefocus="true" >Mi Max</a></li><li><a href="https://c.mi.com/it/forum-1468-1.html" hidefocus="true" >Mi Note</a></li><li><a href="https://c.mi.com/it/forum-1460-1.html" hidefocus="true" >Redmi</a></li><li><a href="https://c.mi.com/it/forum-1461-1.html" hidefocus="true" >Redmi Note</a></li><li><a href="https://c.mi.com/it/forum-2004-1.html" hidefocus="true" >Redmi Go</a></li></ul><ul class="p_pop h_pop" id="mn_N3fe7_menu" style="display: none"><li><a href="https://c.mi.com/bd/forum-2666-1.html" hidefocus="true" >MIUI 12</a></li><li><a href="https://c.mi.com/bd/forum-1130-1.html" hidefocus="true" >Announcement</a></li><li><a href="https://c.mi.com/bd/forum-1131-1.html" hidefocus="true" >MIUI General</a></li><li><a href="https://c.mi.com/bd/forum-2451-1.html" hidefocus="true" >MIUI Tools</a></li><li><a href="https://c.mi.com/bd/forum-1132-1.html" hidefocus="true" >Tips and Tricks</a></li><li><a href="https://c.mi.com/bd/forum-1133-1.html" hidefocus="true" >Flashing Guide</a></li><li><a href="https://c.mi.com/bd/forum-1134-1.html" hidefocus="true" >Themes</a></li><li><a href="https://c.mi.com/bd/forum-1135-1.html" hidefocus="true" >MIUI Feedback</a></li></ul><ul class="p_pop h_pop" id="mn_N6998_menu" style="display: none"><li><a href="https://c.mi.com/tr/forum-1544-1.html" hidefocus="true" >Sohbet</a></li><li><a href="https://c.mi.com/tr/forum-1545-1.html" hidefocus="true" >Fotoğraflar</a></li><li><a href="https://c.mi.com/tr/forum-1546-1.html" hidefocus="true" >Telefon için İçerikler</a></li><li><a href="https://c.mi.com/tr/forum-1547-1.html" hidefocus="true" >Teknoloji</a></li><li><a href="https://c.mi.com/tr/forum-2790-1.html" hidefocus="true" >Mi Fan Kulüpleri</a></li></ul><ul class="p_pop h_pop" id="mn_Na1af_menu" style="display: none"><li><a href="https://c.mi.com/id/forum-1601-1.html" hidefocus="true" >Amazfit BIP</a></li><li><a href="https://c.mi.com/id/forum-1600-1.html" hidefocus="true" >Mi Band</a></li><li><a href="https://c.mi.com/id/forum-2495-1.html" hidefocus="true" >ShareSave</a></li><li><a href="https://c.mi.com/id/forum-2613-1.html" hidefocus="true" >Mi Air Purifier</a></li></ul><ul class="p_pop h_pop" id="mn_N1bc0_menu" style="display: none"><li><a href="https://c.mi.com/vn/forum-1610-1.html" hidefocus="true" >Mi Air Purifier</a></li><li><a href="https://c.mi.com/vn/forum-1609-1.html" hidefocus="true" >Mi Robot Build Rover</a></li><li><a href="https://c.mi.com/vn/forum-1608-1.html" hidefocus="true" >Mi Electric Toothbrush</a></li><li><a href="https://c.mi.com/vn/forum-1607-1.html" hidefocus="true" >Mi Electric Scooter</a></li><li><a href="https://c.mi.com/vn/forum-1606-1.html" hidefocus="true" >Mi Robot Vacuum</a></li><li><a href="https://c.mi.com/vn/forum-1605-1.html" hidefocus="true" >Mi Laptop Air 13.3</a></li><li><a href="https://c.mi.com/vn/forum-1604-1.html" hidefocus="true" >Mi Laser Projector</a></li><li><a href="https://c.mi.com/vn/forum-1603-1.html" hidefocus="true" >Mi Band</a></li></ul><ul class="p_pop h_pop" id="mn_N56e7_menu" style="display: none"><li><a href="https://c.mi.com/global/forum-2949-1.html" hidefocus="true" >Redmi Note 10 Series</a></li><li><a href="https://c.mi.com/global/forum-2494-1.html" hidefocus="true" >Mi 10/Pro</a></li><li><a href="https://c.mi.com/global/forum-2861-1.html" hidefocus="true" >POCO X3/NFC</a></li><li><a href="https://c.mi.com/global/forum-2884-1.html" hidefocus="true" >Mi 10T/Pro</a></li><li><a href="https://c.mi.com/global/forum-2936-1.html" hidefocus="true" >Mi 11 Series</a></li><li><a href="https://c.mi.com/global/forum-2516-1.html" hidefocus="true" >Redmi Note 9/S/Pro</a></li><li><a href="https://c.mi.com/global/forum-2302-1.html" hidefocus="true" >Mi Note 10/Pro/Lite</a></li><li><a href="https://c.mi.com/global/forum-2234-1.html" hidefocus="true" >Redmi Note 8/Pro/8T</a></li><li><a href="https://c.mi.com/global/forum-2146-1.html" hidefocus="true" >Mi A3</a></li><li><a href="https://c.mi.com/global/forum-2619-1.html" hidefocus="true" >Redmi 8/8A</a></li><li><a href="https://c.mi.com/global/forum-2065-1.html" hidefocus="true" >Redmi 7/7A</a></li><li><a href="https://c.mi.com/global/forum-2703-1.html" hidefocus="true" >POCO F2 Pro</a></li><li><a href="https://c.mi.com/global/forum-2806-1.html" hidefocus="true" >Redmi 9/9A</a></li><li><a href="https://c.mi.com/global/forum-1928-1.html" hidefocus="true" >Mi MIX 3</a></li><li><a href="https://c.mi.com/global/forum-1929-1.html" hidefocus="true" >Mi MIX 2S</a></li><li><a href="https://c.mi.com/global/forum-1930-1.html" hidefocus="true" >POCO F1</a></li><li><a href="https://c.mi.com/global/forum-1931-1.html" hidefocus="true" >Mi A2/Lite</a></li><li><a href="https://c.mi.com/global/forum-1932-1.html" hidefocus="true" >Redmi Note 7</a></li><li><a href="https://c.mi.com/global/forum-1933-1.html" hidefocus="true" >Redmi Note 6 Pro</a></li><li><a href="https://c.mi.com/global/forum-1934-1.html" hidefocus="true" >Redmi Note 5/Pro</a></li><li><a href="https://c.mi.com/global/forum-1935-1.html" hidefocus="true" >Redmi Y/S Series</a></li><li><a href="https://c.mi.com/global/forum-1937-1.html" hidefocus="true" >Redmi 6/6A/Pro</a></li><li><a href="https://c.mi.com/global/forum-1938-1.html" hidefocus="true" >Redmi 5A</a></li><li><a href="https://c.mi.com/global/forum-1939-1.html" hidefocus="true" >Mi Max 3</a></li><li><a href="https://c.mi.com/global/forum-1940-1.html" hidefocus="true" >Mi Notebook</a></li><li><a href="https://c.mi.com/global/forum-1942-1.html" hidefocus="true" >Mi Pad 4</a></li><li><a href="https://c.mi.com/global/forum-1943-1.html" hidefocus="true" >Mi Gadgets</a></li><li><a href="https://c.mi.com/global/forum-2007-1.html" hidefocus="true" >Mi 9/SE/T/T Pro/Lite</a></li><li><a href="https://c.mi.com/oc/forum-2119-1.html" hidefocus="true" >Mi Band Series</a></li><li><a href="https://c.mi.com/global/forum-2064-1.html" hidefocus="true" >Mi A1</a></li><li><a href="https://c.mi.com/global/forum-2063-1.html" hidefocus="true" >Mi 6</a></li><li><a href="https://c.mi.com/global/forum-1927-1.html" hidefocus="true" >Mi 8/SE/EE/Lite/Pro</a></li><li><a href="https://c.mi.com/global/forum-2066-1.html" hidefocus="true" >Other Devices</a></li></ul><ul class="p_pop h_pop" id="mn_N2bbe_menu" style="display: none"><li><a href="https://c.mi.com/uk/forum-1359-1.html" hidefocus="true" >Xiaomi</a></li><li><a href="https://c.mi.com/uk/forum-1360-1.html" hidefocus="true" >Tech</a></li><li><a href="https://c.mi.com/uk/forum-1361-1.html" hidefocus="true" >Lifestyle</a></li><li><a href="https://c.mi.com/uk/forum-1363-1.html" hidefocus="true" >Mi Community</a></li><li><a href="https://c.mi.com/uk/forum-1430-1.html" hidefocus="true" >Apps and Games</a></li></ul><ul class="p_pop h_pop" id="mn_N30e9_menu" style="display: none"><li><a href="https://c.mi.com/es/forum-2077-1.html" hidefocus="true" >Concursos</a></li><li><a href="https://c.mi.com/es/forum-2355-1.html" hidefocus="true" >Noticias</a></li><li><a href="https://c.mi.com/es/forum-620-1.html" hidefocus="true" >Galería</a></li><li><a href="https://c.mi.com/es/forum-2356-1.html" hidefocus="true" >Guías / Dudas</a></li><li><a href="https://c.mi.com/es/forum-2353-1.html" hidefocus="true" >APPs Fotografía</a></li></ul><ul class="p_pop h_pop" id="mn_Nd9d4_menu" style="display: none"><li><a href="https://c.mi.com/my/forum-2431-1.html" hidefocus="true" >Kopitiam (Chat)</a></li><li><a href="https://c.mi.com/my/forum-2432-1.html" hidefocus="true" >Photography</a></li><li><a href="https://c.mi.com/my/forum-2433-1.html" hidefocus="true" >Resources</a></li><li><a href="https://c.mi.com/my/forum-2453-1.html" hidefocus="true" >Newcomers</a></li></ul><ul class="p_pop h_pop" id="mn_N5c89_menu" style="display: none"><li><a href="https://c.mi.com/ng/forum-2478-1.html" hidefocus="true" >Chat</a></li><li><a href="https://c.mi.com/ng/forum-2479-1.html" hidefocus="true" >Photography</a></li><li><a href="https://c.mi.com/ng/forum-2480-1.html" hidefocus="true" >Resources</a></li></ul><ul class="p_pop h_pop" id="mn_N34bb_menu" style="display: none"><li><a href="https://c.mi.com/fr/forum-2499-1.html" hidefocus="true" >Bracelet/Montre</a></li><li><a href="https://c.mi.com/fr/forum-2500-1.html" hidefocus="true" >Accessoires téléphones</a></li><li><a href="https://c.mi.com/fr/forum-2501-1.html" hidefocus="true" >Eclairage</a></li><li><a href="https://c.mi.com/fr/forum-2502-1.html" hidefocus="true" >Sécurité/Domotique</a></li><li><a href="https://c.mi.com/fr/forum-2503-1.html" hidefocus="true" >Scooter</a></li><li><a href="https://c.mi.com/fr/forum-2504-1.html" hidefocus="true" >Appareils ménagers</a></li><li><a href="https://c.mi.com/fr/forum-2505-1.html" hidefocus="true" >Lifestyle</a></li></ul><ul class="p_pop h_pop" id="mn_N72ee_menu" style="display: none"><li><a href="http://c.mi.com/co/forum-2592-1.html" hidefocus="true" >Anuncios</a></li><li><a href="http://c.mi.com/co/forum-2593-1.html" hidefocus="true" >MIUI General</a></li><li><a href="http://c.mi.com/co/forum-2594-1.html" hidefocus="true" >Consejos y trucos</a></li></ul><ul class="p_pop h_pop" id="mn_Nc653_menu" style="display: none"><li><a href="https://c.mi.com/de/forum-2693-1.html" hidefocus="true" >Chat</a></li><li><a href="https://c.mi.com/de/forum-2820-1.html" hidefocus="true" >Geeklab</a></li><li><a href="https://c.mi.com/de/forum-2867-1.html" hidefocus="true" title="Gerüchte über XIaomi" >Gerüchteküche</a></li><li><a href="https://c.mi.com/de/forum-2891-1.html" hidefocus="true" >Gaming</a></li><li><a href="https://c.mi.com/de/forum-2694-1.html" hidefocus="true" >Fotografie</a></li><li><a href="https://c.mi.com/de/forum-2695-1.html" hidefocus="true" >Ressourcen</a></li></ul><ul class="p_pop h_pop" id="mn_N40a1_menu" style="display: none"><li><a href="https://c.mi.com/pl/forum-2825-1.html" hidefocus="true" >Mi</a></li><li><a href="https://c.mi.com/pl/forum-2827-1.html" hidefocus="true" >Redmi Note</a></li><li><a href="https://c.mi.com/pl/forum-2826-1.html" hidefocus="true" >Redmi</a></li><li><a href="https://c.mi.com/pl/forum-2828-1.html" hidefocus="true" >POCO</a></li></ul><div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><ul class="p_pop h_pop" id="mn_Na5fe_menu" style="display: none"><li><a href="http://c.mi.com/in/forum-94-1.html" hidefocus="true" >Newswire</a></li><li><a href="http://c.mi.com/in/forum-49-1.html" hidefocus="true" >Chat</a></li><li><a href="http://c.mi.com/in/forum-50-1.html" hidefocus="true" >Photography</a></li><li><a href="http://c.mi.com/in/forum-52-1.html" hidefocus="true" >Tech</a></li><li><a href="http://c.mi.com/in/forum-51-1.html" hidefocus="true" >Resources</a></li><li><a href="http://c.mi.com/in/forum-90-1.html" hidefocus="true" >Mi Pop</a></li></ul><ul class="p_pop h_pop" id="mn_Ned3d_menu" style="display: none"><li><a href="https://c.mi.com/vn/forum-101-1.html" hidefocus="true" >Thảo luận</a></li><li><a href="https://c.mi.com/vn/forum-2716-1.html" hidefocus="true" title="Mi Explorer" >Mi Explorer</a></li><li><a href="https://c.mi.com/vn/forum-118-1.html" hidefocus="true" >Nhiếp ảnh</a></li><li><a href="https://c.mi.com/vn/forum-119-1.html" hidefocus="true" >Công nghệ</a></li><li><a href="https://c.mi.com/vn/forum-120-1.html" hidefocus="true" >Tài nguyên</a></li><li><a href="https://c.mi.com/vn/forum-952-1.html" hidefocus="true" >Chat</a></li><li><a href="https://c.mi.com/vn/forum-258-1.html" hidefocus="true" >Trò Chơi</a></li></ul><ul class="p_pop h_pop" id="mn_N7f1d_menu" style="display: none"><li><a href="https://c.mi.com/id/forum-148-1.html" hidefocus="true" >Majalah MFC</a></li><li><a href="https://c.mi.com/id/forum-149-1.html" hidefocus="true" >Jakarta</a></li><li><a href="https://c.mi.com/id/forum-150-1.html" hidefocus="true" >Bogor</a></li><li><a href="https://c.mi.com/id/forum-151-1.html" hidefocus="true" >Depok</a></li><li><a href="https://c.mi.com/id/forum-152-1.html" hidefocus="true" >Cibubur</a></li><li><a href="https://c.mi.com/id/forum-153-1.html" hidefocus="true" >Tangerang</a></li><li><a href="https://c.mi.com/id/forum-154-1.html" hidefocus="true" >Bekasi</a></li><li><a href="https://c.mi.com/id/forum-155-1.html" hidefocus="true" >Cianjur</a></li><li><a href="https://c.mi.com/id/forum-156-1.html" hidefocus="true" >Bandung</a></li><li><a href="https://c.mi.com/id/forum-157-1.html" hidefocus="true" >Tasikmalaya</a></li><li><a href="https://c.mi.com/id/forum-158-1.html" hidefocus="true" >Cirebon</a></li><li><a href="https://c.mi.com/id/forum-159-1.html" hidefocus="true" >Solo</a></li><li><a href="https://c.mi.com/id/forum-160-1.html" hidefocus="true" >Yogyakarta</a></li><li><a href="https://c.mi.com/id/forum-161-1.html" hidefocus="true" >Boyolali</a></li><li><a href="https://c.mi.com/id/forum-162-1.html" hidefocus="true" >Surabaya</a></li><li><a href="https://c.mi.com/id/forum-163-1.html" hidefocus="true" >Malang</a></li><li><a href="https://c.mi.com/id/forum-165-1.html" hidefocus="true" >Medan</a></li><li><a href="https://c.mi.com/id/forum-166-1.html" hidefocus="true" >Banjarmasin</a></li><li><a href="https://c.mi.com/id/forum-167-1.html" hidefocus="true" >Bali</a></li><li><a href="https://c.mi.com/id/forum-522-1.html" hidefocus="true" >Semarang</a></li><li><a href="https://c.mi.com/id/forum-601-1.html" hidefocus="true" >Salatiga</a></li><li><a href="https://c.mi.com/id/forum-653-1.html" hidefocus="true" >Lampung</a></li><li><a href="https://c.mi.com/id/forum-604-1.html" hidefocus="true" >Garut</a></li><li><a href="https://c.mi.com/id/forum-633-1.html" hidefocus="true" >Karawang</a></li><li><a href="https://c.mi.com/id/forum-602-1.html" hidefocus="true" >Tangerang Selatan</a></li><li><a href="https://c.mi.com/id/forum-660-1.html" hidefocus="true" >Kahfi</a></li><li><a href="https://c.mi.com/id/forum-749-1.html" hidefocus="true" >Samarinda</a></li><li><a href="https://c.mi.com/id/forum-766-1.html" hidefocus="true" >Makassar</a></li><li><a href="https://c.mi.com/id/forum-769-1.html" hidefocus="true" >Bone</a></li><li><a href="https://c.mi.com/id/forum-896-1.html" hidefocus="true" >Gresik</a></li><li><a href="https://c.mi.com/id/forum-965-1.html" hidefocus="true" >Klaten</a></li><li><a href="https://c.mi.com/id/forum-1114-1.html" hidefocus="true" >Purwokerto</a></li><li><a href="https://c.mi.com/id/forum-1405-1.html" hidefocus="true" >Ambon</a></li><li><a href="https://c.mi.com/id/forum-1830-1.html" hidefocus="true" >Manado</a></li><li><a href="https://c.mi.com/id/forum-1883-1.html" hidefocus="true" >Kediri</a></li><li><a href="https://c.mi.com/id/forum-2849-1.html" hidefocus="true" >Mojokerto</a></li></ul><ul class="p_pop h_pop" id="mn_N9dcb_menu" style="display: none"><li><a href="http://c.mi.com/sg/forum-207-1.html" hidefocus="true" >Mi Zone</a></li><li><a href="http://c.mi.com/sg/forum-212-1.html" hidefocus="true" >Photography</a></li><li><a href="http://c.mi.com/sg/forum-208-1.html" hidefocus="true" >Mi Goodies</a></li><li><a href="http://c.mi.com/sg/forum-987-1.html" hidefocus="true" >Resources</a></li></ul><ul class="p_pop h_pop" id="mn_N1107_menu" style="display: none"><li><a href="http://c.mi.com/tw/forum-363-1.html" hidefocus="true" >發燒友分享區</a></li></ul><ul class="p_pop h_pop" id="mn_N855e_menu" style="display: none"><li><a href="https://c.mi.com/ua/forum-432-1.html" hidefocus="true" >Чат</a></li><li><a href="https://c.mi.com/ua/forum-433-1.html" hidefocus="true" >Фото</a></li><li><a href="https://c.mi.com/ua/forum-434-1.html" hidefocus="true" >Ресурси</a></li><li><a href="https://c.mi.com/ua/forum-435-1.html" hidefocus="true" >Технології</a></li></ul><ul class="p_pop h_pop" id="mn_N5b69_menu" style="display: none"><li><a href="https://c.mi.com/arab/forum-519-1.html" hidefocus="true" >بيان</a></li><li><a href="https://c.mi.com/arab/forum-520-1.html" hidefocus="true" >إدارة</a></li><li><a href="https://c.mi.com/arab/forum-521-1.html" hidefocus="true" >الردود</a></li></ul><ul class="p_pop h_pop" id="mn_N33e8_menu" style="display: none"><li><a href="https://c.mi.com/th/forum-553-1.html" hidefocus="true" >แถลงการณ์</a></li><li><a href="https://c.mi.com/th/forum-554-1.html" hidefocus="true" >ร่วมทีมกับเรา</a></li><li><a href="https://c.mi.com/th/forum-555-1.html" hidefocus="true" >คำติชม</a></li></ul><ul class="p_pop h_pop" id="mn_N6379_menu" style="display: none"><li><a href="https://c.mi.com/fr/forum-946-1.html" hidefocus="true" >MIUI (général)</a></li><li><a href="https://c.mi.com/fr/forum-947-1.html" hidefocus="true" >Paramètres et astuces</a></li><li><a href="https://c.mi.com/fr/forum-968-1.html" hidefocus="true" >Guide Flash</a></li><li><a href="https://c.mi.com/fr/forum-1009-1.html" hidefocus="true" >Thème</a></li><li><a href="https://c.mi.com/fr/forum-1017-1.html" hidefocus="true" >Mise à jour</a></li><li><a href="https://c.mi.com/fr/forum-1555-1.html" hidefocus="true" >Changelog</a></li></ul><ul class="p_pop h_pop" id="mn_N3eb7_menu" style="display: none"><li><a href="http://c.mi.com/ru/forum-1171-1.html" hidefocus="true" >Обзорщики в Испании</a></li><li><a href="http://c.mi.com/ru/forum-1172-1.html" hidefocus="true" >Обзорщики 2018</a></li><li><a href="http://c.mi.com/ru/forum-572-1.html" hidefocus="true" >Путешествие с Mi A1</a></li></ul><ul class="p_pop h_pop" id="mn_Nb29b_menu" style="display: none"><li><a href="https://c.mi.com/pl/forum-1300-1.html" hidefocus="true" >Nowości</a></li><li><a href="https://c.mi.com/pl/forum-1301-1.html" hidefocus="true" >Czat</a></li><li><a href="https://c.mi.com/pl/forum-1302-1.html" hidefocus="true" >Fotografia</a></li><li><a href="https://c.mi.com/pl/forum-1304-1.html" hidefocus="true" >Technologia</a></li><li><a href="https://c.mi.com/pl/forum-1303-1.html" hidefocus="true" >Dodatki</a></li><li><a href="https://c.mi.com/pl/forum-2958-1.html" hidefocus="true" >Mi Gaming Team</a></li><li><a href="https://c.mi.com/pl/forum-2822-1.html" hidefocus="true" >Mi Foto Team</a></li><li><a href="https://c.mi.com/pl/forum-2198-1.html" hidefocus="true" >Mi Sports Team</a></li><li><a href="https://c.mi.com/pl/forum-2197-1.html" hidefocus="true" >Mi Tech Team</a></li><li><a href="https://c.mi.com/pl/forum-2199-1.html" hidefocus="true" >Testy i Recenzje</a></li></ul><ul class="p_pop h_pop" id="mn_N4b5e_menu" style="display: none"><li><a href="https://c.mi.com/tr/forum-1548-1.html" hidefocus="true" >Xiaomi Haftalık Bülten</a></li><li><a href="https://c.mi.com/tr/forum-1549-1.html" hidefocus="true" >Resmi Duyurular</a></li><li><a href="https://c.mi.com/tr/forum-1550-1.html" hidefocus="true" >İşe Alım</a></li><li><a href="https://c.mi.com/tr/forum-1551-1.html" hidefocus="true" >Yeni Ürünler</a></li><li><a href="https://c.mi.com/forum-2391-1.html" hidefocus="true" >Mi Store'larımız</a></li></ul><ul class="p_pop h_pop" id="mn_Naf7a_menu" style="display: none"><li><a href="https://c.mi.com/it/forum-2930-1.html" hidefocus="true" >Mi Watch Family</a></li><li><a href="https://c.mi.com/it/forum-1800-1.html" hidefocus="true" >Mi Band</a></li><li><a href="https://c.mi.com/it/forum-1801-1.html" hidefocus="true" >Amazfit</a></li><li><a href="https://c.mi.com/it/forum-1806-1.html" hidefocus="true" >Smart Home</a></li><li><a href="https://c.mi.com/it/forum-1804-1.html" hidefocus="true" >Videocamere</a></li><li><a href="https://c.mi.com/it/forum-1809-1.html" hidefocus="true" >Laptop</a></li><li><a href="https://c.mi.com/it/forum-1803-1.html" hidefocus="true" >Accessori</a></li><li><a href="https://c.mi.com/it/forum-1810-1.html" hidefocus="true" >Mobilità</a></li><li><a href="https://c.mi.com/it/forum-2489-1.html" hidefocus="true" >Mi TV</a></li></ul><ul class="p_pop h_pop" id="mn_N0611_menu" style="display: none"><li><a href="https://c.mi.com/global/forum-1945-1.html" hidefocus="true" >Global Fans</a></li><li><a href="https://c.mi.com/global/forum-1946-1.html" hidefocus="true" >Singapore</a></li><li><a href="https://c.mi.com/global/forum-1948-1.html" hidefocus="true" >Brasil</a></li><li><a href="https://c.mi.com/global/forum-1949-1.html" hidefocus="true" >Israel</a></li><li><a href="https://c.mi.com/global/forum-1950-1.html" hidefocus="true" >Myanmar</a></li><li><a href="https://c.mi.com/global/forum-1951-1.html" hidefocus="true" >UAE</a></li><li><a href="https://c.mi.com/global/forum-2074-1.html" hidefocus="true" >South Korea</a></li><li><a href="https://c.mi.com/global/forum-2109-1.html" hidefocus="true" >Sri Lanka</a></li><li><a href="https://c.mi.com/global/forum-2110-1.html" hidefocus="true" >Netherlands</a></li><li><a href="https://c.mi.com/global/forum-2105-1.html" hidefocus="true" >Chile</a></li><li><a href="https://c.mi.com/global/forum-2111-1.html" hidefocus="true" >Nepal</a></li><li><a href="https://c.mi.com/global/forum-2740-1.html" hidefocus="true" >Hungary</a></li></ul><ul class="p_pop h_pop" id="mn_N9a08_menu" style="display: none"><li><a href="https://c.mi.com/mx/forum-2149-1.html" hidefocus="true" >MFC CDMX</a></li><li><a href="https://c.mi.com/mx/forum-2173-1.html" hidefocus="true" >MFC MTY</a></li><li><a href="https://c.mi.com/mx/forum-2506-1.html" hidefocus="true" >MFC Pachuca</a></li></ul><ul class="p_pop h_pop" id="mn_N4494_menu" style="display: none"><li><a href="https://c.mi.com/uk/forum-1368-1.html" hidefocus="true" >MIUI General</a></li><li><a href="https://c.mi.com/uk/forum-1369-1.html" hidefocus="true" >MIUI Tips and Tricks</a></li><li><a href="https://c.mi.com/uk/forum-1370-1.html" hidefocus="true" >Themes</a></li><li><a href="https://c.mi.com/uk/forum-1371-1.html" hidefocus="true" >MIUI Changelog</a></li></ul><ul class="p_pop h_pop" id="mn_N01ee_menu" style="display: none"><li><a href="https://c.mi.com/bd/forum-2227-1.html" hidefocus="true" >Mi FC Bulletin</a></li><li><a href="https://c.mi.com/bd/forum-2261-1.html" hidefocus="true" >Mi FC Dhaka</a></li><li><a href="https://c.mi.com/bd/forum-2260-1.html" hidefocus="true" >Mi FC Chattogram</a></li></ul><ul class="p_pop h_pop" id="mn_N14f8_menu" style="display: none"><li><a href="https://c.mi.com/es/forum-2848-1.html" hidefocus="true" >POCO X3</a></li><li><a href="https://c.mi.com/es/forum-2702-1.html" hidefocus="true" >POCO F2/PRO</a></li><li><a href="https://c.mi.com/es/forum-1246-1.html" hidefocus="true" >POCOPHONE F1</a></li><li><a href="https://c.mi.com/es/forum-1175-1.html" hidefocus="true" >Mi Pad</a></li><li><a href="https://c.mi.com/es/forum-2043-1.html" hidefocus="true" >Black Shark 2/PRO</a></li><li><a href="https://c.mi.com/es/forum-1448-1.html" hidefocus="true" >Black Shark</a></li><li><a href="https://c.mi.com/es/forum-1176-1.html" hidefocus="true" >Mi Pad 2</a></li><li><a href="https://c.mi.com/es/forum-1177-1.html" hidefocus="true" >Mi Pad 3</a></li><li><a href="https://c.mi.com/es/forum-1178-1.html" hidefocus="true" >Mi Pad 4/Plus</a></li><li><a href="https://c.mi.com/es/forum-1662-1.html" hidefocus="true" >Mi MIX</a></li><li><a href="https://c.mi.com/es/forum-637-1.html" hidefocus="true" >Mi MIX 2/SE</a></li><li><a href="https://c.mi.com/es/forum-1068-1.html" hidefocus="true" >Mi MIX 2S</a></li><li><a href="https://c.mi.com/es/forum-1467-1.html" hidefocus="true" >Mi MIX 3</a></li><li><a href="https://c.mi.com/es/forum-2082-1.html" hidefocus="true" >Mi MIX 3 5G</a></li><li><a href="https://c.mi.com/es/forum-2259-1.html" hidefocus="true" >Mi MIX Alpha</a></li><li><a href="https://c.mi.com/es/forum-1147-1.html" hidefocus="true" >Mi Note</a></li><li><a href="https://c.mi.com/es/forum-1146-1.html" hidefocus="true" >Mi Note 2</a></li><li><a href="https://c.mi.com/es/forum-891-1.html" hidefocus="true" >Mi Note 3</a></li><li><a href="https://c.mi.com/es/forum-2284-1.html" hidefocus="true" >Mi Note 10/Pro</a></li><li><a href="https://c.mi.com/es/forum-2706-1.html" hidefocus="true" >Mi Note 10 Lite</a></li><li><a href="https://c.mi.com/es/forum-1075-1.html" hidefocus="true" >Mi MAX</a></li><li><a href="https://c.mi.com/es/forum-640-1.html" hidefocus="true" >Mi MAX 2</a></li><li><a href="https://c.mi.com/es/forum-1238-1.html" hidefocus="true" >Mi MAX 3</a></li><li><a href="https://c.mi.com/es/forum-875-1.html" hidefocus="true" >Mi 5</a></li><li><a href="https://c.mi.com/es/forum-876-1.html" hidefocus="true" >Mi 5S</a></li><li><a href="https://c.mi.com/es/forum-1097-1.html" hidefocus="true" >Mi 5C</a></li><li><a href="https://c.mi.com/es/forum-874-1.html" hidefocus="true" >Mi 5X</a></li><li><a href="https://c.mi.com/es/forum-638-1.html" hidefocus="true" >Mi 6</a></li><li><a href="https://c.mi.com/es/forum-1887-1.html" hidefocus="true" >Mi 6X</a></li><li><a href="https://c.mi.com/es/forum-1105-1.html" hidefocus="true" >Mi 8</a></li><li><a href="https://c.mi.com/es/forum-1636-1.html" hidefocus="true" >Mi 8 Pro</a></li><li><a href="https://c.mi.com/es/forum-1637-1.html" hidefocus="true" >Mi 8 Lite</a></li><li><a href="https://c.mi.com/es/forum-1106-1.html" hidefocus="true" >Mi 8 SE</a></li><li><a href="https://c.mi.com/es/forum-1107-1.html" hidefocus="true" >Mi 8 EE</a></li><li><a href="https://c.mi.com/es/forum-1885-1.html" hidefocus="true" >Mi 9</a></li><li><a href="https://c.mi.com/es/forum-2042-1.html" hidefocus="true" >Mi 9 SE</a></li><li><a href="https://c.mi.com/es/forum-2118-1.html" hidefocus="true" >Mi 9T/Pro</a></li><li><a href="https://c.mi.com/es/forum-2232-1.html" hidefocus="true" >Mi 9 Lite</a></li><li><a href="https://c.mi.com/es/forum-2442-1.html" hidefocus="true" >Mi 10/Pro</a></li><li><a href="https://c.mi.com/es/forum-2883-1.html" hidefocus="true" >Mi 10T/Pro/Lite</a></li><li><a href="https://c.mi.com/es/forum-2851-1.html" hidefocus="true" >Mi 10 Ultra</a></li><li><a href="https://c.mi.com/es/forum-2935-1.html" hidefocus="true" >Mi 11</a></li><li><a href="https://c.mi.com/es/forum-2122-1.html" hidefocus="true" >Mi Play</a></li><li><a href="https://c.mi.com/es/forum-2145-1.html" hidefocus="true" >Mi CC9/E</a></li><li><a href="https://c.mi.com/es/forum-2296-1.html" hidefocus="true" >Mi CC9 Pro</a></li></ul><ul class="p_pop h_pop" id="mn_Na9d2_menu" style="display: none"><li><a href="https://c.mi.com/my/forum-2434-1.html" hidefocus="true" >Mi FC Bulletin</a></li></ul><ul class="p_pop h_pop" id="mn_N7e70_menu" style="display: none"><li><a href="https://c.mi.com/ng/forum-2481-1.html" hidefocus="true" >Bulletin</a></li><li><a href="https://c.mi.com/ng/forum-2482-1.html" hidefocus="true" >Management</a></li><li><a href="https://c.mi.com/ng/forum-2483-1.html" hidefocus="true" >Recruitment</a></li><li><a href="https://c.mi.com/ng/forum-2484-1.html" hidefocus="true" >Feedback</a></li></ul><ul class="p_pop h_pop" id="mn_N6c3f_menu" style="display: none"><li><a href="http://c.mi.com/co/forum-2595-1.html" hidefocus="true" >Chat</a></li><li><a href="http://c.mi.com/co/forum-2596-1.html" hidefocus="true" >Fotografía</a></li><li><a href="http://c.mi.com/co/forum-2597-1.html" hidefocus="true" >Recursos</a></li></ul><ul class="p_pop h_pop" id="mn_N664d_menu" style="display: none"><li><a href="https://c.mi.com/de/forum-2698-1.html" hidefocus="true" >Ankündigungen</a></li><li><a href="https://c.mi.com/de/forum-2699-1.html" hidefocus="true" >Management</a></li><li><a href="https://c.mi.com/de/forum-2700-1.html" hidefocus="true" >Wir suchen dich!</a></li><li><a href="https://c.mi.com/de/forum-2701-1.html" hidefocus="true" >Feedback</a></li></ul><ul class="p_pop h_pop" id="mn_Nac62_menu" style="display: none"><li><a href="https://c.mi.com/vn/forum-121-1.html" hidefocus="true" >Thông tin CLB</a></li><li><a href="https://c.mi.com/vn/forum-122-1.html" hidefocus="true" >Hà Nội</a></li><li><a href="https://c.mi.com/vn/forum-123-1.html" hidefocus="true" >Hồ Chí Minh</a></li><li><a href="https://c.mi.com/vn/forum-529-1.html" hidefocus="true" >Cần Thơ</a></li><li><a href="https://c.mi.com/vn/forum-635-1.html" hidefocus="true" >Đà Nẵng</a></li><li><a href="https://c.mi.com/vn/forum-661-1.html" hidefocus="true" >Hải Phòng</a></li><li><a href="https://c.mi.com/vn/forum-682-1.html" hidefocus="true" >Vũng Tàu</a></li><li><a href="https://c.mi.com/vn/forum-904-1.html" hidefocus="true" >Ninh Thuận</a></li><li><a href="https://c.mi.com/vn/forum-981-1.html" hidefocus="true" >Thanh Hóa</a></li></ul><ul class="p_pop h_pop" id="mn_N38af_menu" style="display: none"><li><a href="https://c.mi.com/id/forum-182-1.html" hidefocus="true" >Bincang</a></li><li><a href="https://c.mi.com/id/forum-183-1.html" hidefocus="true" >Fotografi</a></li><li><a href="https://c.mi.com/id/forum-184-1.html" hidefocus="true" >Sumber</a></li><li><a href="https://c.mi.com/id/forum-185-1.html" hidefocus="true" >Teknologi</a></li><li><a href="forum-531-1.html" hidefocus="true" >JKT48</a></li><li><a href="https://c.mi.com/id/forum-955-1.html" hidefocus="true" >Mi Pop</a></li><li><a href="https://c.mi.com/id/forum-1429-1.html" hidefocus="true" >Film</a></li><li><a href="https://c.mi.com/id/forum-2123-1.html" hidefocus="true" >Mobile Gaming</a></li><li><a href="https://c.mi.com/id/forum-2614-1.html" hidefocus="true" >Musik</a></li></ul><ul class="p_pop h_pop" id="mn_Na255_menu" style="display: none"><li><a href="http://c.mi.com/sg/forum-209-1.html" hidefocus="true" >Mi News</a></li></ul><ul class="p_pop h_pop" id="mn_Ne96e_menu" style="display: none"><li><a href="http://c.mi.com/ru/forum-243-1.html" hidefocus="true" >Регламент</a></li><li><a href="http://c.mi.com/ru/forum-246-1.html" hidefocus="true" >Обратная связь</a></li><li><a href="http://c.mi.com/ru/forum-245-1.html" hidefocus="true" >Вакансии</a></li><li><a href="http://c.mi.com/ru/forum-244-1.html" hidefocus="true" >Администрация</a></li></ul><ul class="p_pop h_pop" id="mn_N839a_menu" style="display: none"><li><a href="https://c.mi.com/mx/forum-311-1.html" hidefocus="true" >Anuncios Mi Community</a></li><li><a href="https://c.mi.com/mx/forum-312-1.html" hidefocus="true" >Administración</a></li><li><a href="https://c.mi.com/mx/forum-314-1.html" hidefocus="true" >Reclutamiento</a></li><li><a href="https://c.mi.com/mx/forum-313-1.html" hidefocus="true" >Feedback</a></li></ul><ul class="p_pop h_pop" id="mn_N150f_menu" style="display: none"><li><a href="http://c.mi.com/tw/forum-360-1.html" hidefocus="true" >小米校園俱樂部</a></li><li><a href="http://c.mi.com/tw/forum-358-1.html" hidefocus="true" >台北同城會</a></li><li><a href="http://c.mi.com/tw/forum-359-1.html" hidefocus="true" >高雄同城會</a></li></ul><ul class="p_pop h_pop" id="mn_Nea3e_menu" style="display: none"><li><a href="https://c.mi.com/ua/forum-423-1.html" hidefocus="true" >Регламент Mi фан клубу</a></li><li><a href="https://c.mi.com/ua/forum-437-1.html" hidefocus="true" >Дніпро</a></li><li><a href="https://c.mi.com/ua/forum-1093-1.html" hidefocus="true" >Харків</a></li><li><a href="https://c.mi.com/ua/forum-1878-1.html" hidefocus="true" >Львів</a></li><li><a href="https://c.mi.com/ua/forum-436-1.html" hidefocus="true" >Київ</a></li></ul><ul class="p_pop h_pop" id="mn_N5ce6_menu" style="display: none"><li><a href="https://c.mi.com/it/miuidownload/index" hidefocus="true" >ROM Download</a></li><li><a href="https://c.mi.com//thread-2444044-1-0.html" hidefocus="true" >Guida flash</a></li><li><a href="https://c.mi.com/it/forum-1209-1.html" hidefocus="true" >MIUI changelog</a></li><li><a href="https://c.mi.com/it/forum-933-1.html" hidefocus="true" >MIUI News</a></li><li><a href="https://c.mi.com/it/forum-962-1.html" hidefocus="true" >Modding</a></li><li><a href="https://c.mi.com/it/forum-2855-1.html" hidefocus="true" >Malware</a></li><li><a href="https://c.mi.com/it/forum-927-1.html" hidefocus="true" >Temi e Sfondi</a></li><li><a href="https://c.mi.com/it/forum-934-1.html" hidefocus="true" >Scopri come!</a></li><li><a href="https://c.mi.com/it/forum-2057-1.html" hidefocus="true" >MIUI Feedback</a></li></ul><ul class="p_pop h_pop" id="mn_N69a5_menu" style="display: none"><li><a href="https://c.mi.com/bd/forum-2868-1.html" hidefocus="true" >Mi Challenge</a></li><li><a href="https://c.mi.com/bd/forum-1150-1.html" hidefocus="true" >Newswire</a></li><li><a href="https://c.mi.com/bd/forum-2376-1.html" hidefocus="true" >Mi POP</a></li><li><a href="https://c.mi.com/bd/forum-1139-1.html" hidefocus="true" >Chat</a></li><li><a href="https://c.mi.com/bd/forum-1140-1.html" hidefocus="true" >Photography</a></li><li><a href="https://c.mi.com/bd/forum-1141-1.html" hidefocus="true" >Tech</a></li><li><a href="https://c.mi.com/bd/forum-1142-1.html" hidefocus="true" >Resources</a></li><li><a href="https://c.mi.com/bd/forum-2307-1.html" hidefocus="true" >Blog</a></li><li><a href="https://c.mi.com/column/columnindex" hidefocus="true" >Column</a></li></ul><ul class="p_pop h_pop" id="mn_Nc2ed_menu" style="display: none"><li><a href="https://c.mi.com/pl/forum-1305-1.html" hidefocus="true" >Informacje dla Fanów</a></li></ul><ul class="p_pop h_pop" id="mn_N3a07_menu" style="display: none"><li><a href="https://c.mi.com/th/forum-553-1.html" hidefocus="true" >Mi Store ในประเทศไทย</a></li><li><a href="https://c.mi.com/thread-1652168-1-0.html" hidefocus="true" >กรุงเทพและปริมณฑล</a></li><li><a href="https://c.mi.com/thread-1652180-1-1.html" hidefocus="true" >ภาคกลาง</a></li><li><a href="https://c.mi.com/thread-1652181-1-1.html" hidefocus="true" >ภาคเหนือ</a></li><li><a href="https://c.mi.com/thread-1652182-1-1.html" hidefocus="true" >ภาคใต้</a></li><li><a href="https://c.mi.com/thread-1652183-1-1.html" hidefocus="true" >ภาคตะวันออก</a></li><li><a href="https://c.mi.com/thread-1652185-1-1.html" hidefocus="true" >ภาคตะวันออกเฉียงเหนือ</a></li></ul><ul class="p_pop h_pop" id="mn_Nfa8a_menu" style="display: none"><li><a href="http://c.mi.com/ph/forum-1964-1.html" hidefocus="true" >BGC</a></li><li><a href="http://c.mi.com/ph/forum-1736-1.html" hidefocus="true" >Davao</a></li></ul><ul class="p_pop h_pop" id="mn_N44e2_menu" style="display: none"><li><a href="https://c.mi.com/uk/forum-2163-1.html" hidefocus="true" >News and Events</a></li><li><a href="https://t.me/joinchat/AKFmsVIPhFOCoOOIs4n2LQ" hidefocus="true" >London MFC</a></li><li><a href="https://t.me/MiFansClubGlasgow" hidefocus="true" >Glasgow MFC</a></li></ul><ul class="p_pop h_pop" id="mn_Nd326_menu" style="display: none"><li><a href="https://c.mi.com/es/forum-1100-1.html" hidefocus="true" >Redmi S2</a></li><li><a href="https://c.mi.com/es/forum-1076-1.html" hidefocus="true" >Redmi 3S</a></li><li><a href="https://c.mi.com/es/forum-1032-1.html" hidefocus="true" >Redmi 3/Pro</a></li><li><a href="https://c.mi.com/es/forum-642-1.html" hidefocus="true" >Redmi 4A</a></li><li><a href="https://c.mi.com/es/forum-636-1.html" hidefocus="true" >Redmi 4X</a></li><li><a href="https://c.mi.com/es/forum-1074-1.html" hidefocus="true" >Redmi 4 Prime/Pro</a></li><li><a href="https://c.mi.com/es/forum-799-1.html" hidefocus="true" >Redmi 5</a></li><li><a href="https://c.mi.com/es/forum-1033-1.html" hidefocus="true" >Redmi 5A</a></li><li><a href="https://c.mi.com/es/forum-800-1.html" hidefocus="true" >Redmi 5 Plus</a></li><li><a href="https://c.mi.com/es/forum-1229-1.html" hidefocus="true" >Redmi 6</a></li><li><a href="https://c.mi.com/es/forum-1721-1.html" hidefocus="true" >Redmi 6 Pro</a></li><li><a href="https://c.mi.com/es/forum-1230-1.html" hidefocus="true" >Redmi 6A</a></li><li><a href="https://c.mi.com/es/forum-1886-1.html" hidefocus="true" >Redmi 7</a></li><li><a href="https://c.mi.com/es/forum-2144-1.html" hidefocus="true" >Redmi 7A</a></li><li><a href="https://c.mi.com/es/forum-2301-1.html" hidefocus="true" >Redmi 8</a></li><li><a href="https://c.mi.com/es/forum-2304-1.html" hidefocus="true" >Redmi 8A</a></li><li><a href="https://c.mi.com/es/forum-2808-1.html" hidefocus="true" >Redmi 9/ 9A/ 9C</a></li><li><a href="https://c.mi.com/es/forum-1190-1.html" hidefocus="true" >Redmi Note 2</a></li><li><a href="https://c.mi.com/es/forum-1054-1.html" hidefocus="true" >Redmi Note 3 (MTK)</a></li><li><a href="https://c.mi.com/es/forum-1031-1.html" hidefocus="true" >Redmi Note 3 Pro</a></li><li><a href="https://c.mi.com/es/forum-641-1.html" hidefocus="true" >Redmi Note 4</a></li><li><a href="https://c.mi.com/es/forum-1067-1.html" hidefocus="true" >Redmi Note 5/Pro</a></li><li><a href="https://c.mi.com/es/forum-679-1.html" hidefocus="true" >Redmi Note 5A</a></li><li><a href="https://c.mi.com/es/forum-1431-1.html" hidefocus="true" >Redmi Note 6 Pro</a></li><li><a href="https://c.mi.com/es/forum-1884-1.html" hidefocus="true" >Redmi Note 7</a></li><li><a href="https://c.mi.com/es/forum-2298-1.html" hidefocus="true" >Redmi Note 8/8T</a></li><li><a href="https://c.mi.com/es/forum-2235-1.html" hidefocus="true" >Redmi Note 8 Pro</a></li><li><a href="https://c.mi.com/es/forum-2517-1.html" hidefocus="true" >Redmi Note 9S</a></li><li><a href="https://c.mi.com/es/forum-2710-1.html" hidefocus="true" >Redmi Note 9/Pro</a></li><li><a href="https://c.mi.com/es/forum-2982-1.html" hidefocus="true" >Redmi Note 10 Series</a></li><li><a href="https://c.mi.com/es/forum-2929-1.html" hidefocus="true" >Redmi 9T/ Redmi Note 9T</a></li><li><a href="https://c.mi.com/es/forum-2112-1.html" hidefocus="true" >Redmi K20/Pro</a></li><li><a href="https://c.mi.com/es/forum-2817-1.html" hidefocus="true" >Redmi 10X/Pro/5G</a></li><li><a href="https://c.mi.com/es/forum-2361-1.html" hidefocus="true" >Redmi K30/Pro/5G/Ultra</a></li></ul><ul class="p_pop h_pop" id="mn_N9481_menu" style="display: none"><li><a href="http://c.mi.com/co/forum-2598-1.html" hidefocus="true" >Anuncios</a></li><li><a href="http://c.mi.com/co/forum-2599-1.html" hidefocus="true" >Administración</a></li></ul><ul class="p_pop h_pop" id="mn_Ne033_menu" style="display: none"><li><a href="https://c.mi.com/de/forum-2766-1.html" hidefocus="true" >Redmi Note 9 Explorer</a></li><li><a href="https://c.mi.com/de/forum-2821-1.html" hidefocus="true" >Poco Enthusiast</a></li><li><a href="https://c.mi.com/de/forum-2889-1.html" hidefocus="true" >Mi 10T Explorer</a></li></ul><ul class="p_pop h_pop" id="mn_Nf899_menu" style="display: none"><li><a href="https://c.mi.com/vn/forum-125-1.html" hidefocus="true"  style="font-weight: bold;">Điều hành</a></li><li><a href="https://c.mi.com/vn/forum-126-1.html" hidefocus="true" >Tuyển dụng</a></li></ul><ul class="p_pop h_pop" id="mn_N22bc_menu" style="display: none"><li><a href="https://c.mi.com/id/forum-2379-1.html" hidefocus="true" >Penjualan dan Komplain CS</a></li><li><a href="https://c.mi.com/id/forum-178-1.html" hidefocus="true" >Pengelolaan</a></li><li><a href="https://c.mi.com/id/forum-180-1.html" hidefocus="true" >Feedback</a></li></ul><ul class="p_pop h_pop" id="mn_Ncfec_menu" style="display: none"><li><a href="http://c.mi.com/sg/forum-211-1.html" hidefocus="true" >Bulletin</a></li><li><a href="http://c.mi.com/sg/forum-210-1.html" hidefocus="true" >Feedback</a></li><li><a href="http://c.mi.com/sg/forum-963-1.html" hidefocus="true" >Recruitment</a></li></ul><ul class="p_pop h_pop" id="mn_N41fe_menu" style="display: none"><li><a href="https://c.mi.com/ua/forum-438-1.html" hidefocus="true" >Регламент</a></li><li><a href="https://c.mi.com/ua/forum-439-1.html" hidefocus="true" >Керівництво</a></li><li><a href="https://c.mi.com/ua/forum-440-1.html" hidefocus="true" >Вакансії</a></li><li><a href="https://c.mi.com/ua/forum-441-1.html" hidefocus="true" >Зворотний зв'язок</a></li></ul><ul class="p_pop h_pop" id="mn_Nb5b4_menu" style="display: none"><li><a href="https://c.mi.com/arab/forum-821-1.html" hidefocus="true" >مصر</a></li><li><a href="https://c.mi.com/arab/forum-822-1.html" hidefocus="true" >الإمارات</a></li><li><a href="https://c.mi.com/arab/forum-823-1.html" hidefocus="true" >السعودية</a></li><li><a href="https://c.mi.com/arab/forum-824-1.html" hidefocus="true" >العراق</a></li><li><a href="https://c.mi.com/arab/forum-825-1.html" hidefocus="true" >البحرين</a></li><li><a href="https://c.mi.com/arab/forum-826-1.html" hidefocus="true" >الكويت</a></li><li><a href="https://c.mi.com/arab/forum-827-1.html" hidefocus="true" >عمان</a></li><li><a href="https://c.mi.com/arab/forum-828-1.html" hidefocus="true" >قطر</a></li><li><a href="https://c.mi.com/arab/forum-829-1.html" hidefocus="true" >اليمن</a></li><li><a href="https://c.mi.com/arab/forum-830-1.html" hidefocus="true" >السودان</a></li><li><a href="https://c.mi.com/arab/forum-831-1.html" hidefocus="true" >ليبيا</a></li><li><a href="https://c.mi.com/arab/forum-832-1.html" hidefocus="true" >تونس</a></li><li><a href="https://c.mi.com/arab/forum-833-1.html" hidefocus="true" >الجزائر</a></li><li><a href="https://c.mi.com/arab/forum-834-1.html" hidefocus="true" >المغرب</a></li><li><a href="https://c.mi.com/arab/forum-835-1.html" hidefocus="true" >لبنان</a></li></ul><ul class="p_pop h_pop" id="mn_Nf7e9_menu" style="display: none"><li><a href="http://c.mi.com/ph/forum-880-1.html" hidefocus="true" >Announcements</a></li><li><a href="http://c.mi.com/ph/forum-869-1.html" hidefocus="true" >Recruitment</a></li><li><a href="http://c.mi.com/ph/forum-1880-1.html" hidefocus="true" >Moderator's Hub</a></li></ul><ul class="p_pop h_pop" id="mn_N29d6_menu" style="display: none"><li><a href="https://c.mi.com/fr/forum-977-1.html" hidefocus="true" >Feedback</a></li><li><a href="https://c.mi.com/fr/forum-2045-1.html" hidefocus="true" >Mi Fan Reporter</a></li><li><a href="https://c.mi.com/fr/forum-2046-1.html" hidefocus="true" >Chat/Off-topic</a></li><li><a href="https://c.mi.com/fr/forum-976-1.html" hidefocus="true" >Administration</a></li><li><a href="https://c.mi.com/fr/forum-1659-1.html" hidefocus="true" >Jeux/Détente</a></li><li><a href="https://c.mi.com/fr/forum-972-1.html" hidefocus="true" >Applications</a></li></ul><ul class="p_pop h_pop" id="mn_N46ab_menu" style="display: none"><li><a href="https://c.mi.com/pl/forum-2382-1.html" hidefocus="true" >Mi Explorers 2020</a></li><li><a href="https://c.mi.com/pl/forum-1872-1.html" hidefocus="true" >MWC 2019</a></li><li><a href="https://c.mi.com/pl/forum-1871-1.html" hidefocus="true" >Mi MIX 3</a></li></ul><ul class="p_pop h_pop" id="mn_N0803_menu" style="display: none"><li><a href="https://c.mi.com/global/forum-1953-1.html" hidefocus="true" >Recruitment</a></li><li><a href="https://c.mi.com/global/forum-1954-1.html" hidefocus="true" >Management</a></li><li><a href="https://c.mi.com/global/forum-1955-1.html" hidefocus="true" >Bulletin</a></li></ul><ul class="p_pop h_pop" id="mn_Ne273_menu" style="display: none"><li><a href="https://c.mi.com/uk/forum-1843-1.html" hidefocus="true" >Mi MIX 3</a></li><li><a href="https://c.mi.com/uk/forum-1844-1.html" hidefocus="true" >MWC</a></li><li><a href="https://c.mi.com/uk/forum-1845-1.html" hidefocus="true" >Other</a></li><li><a href="https://c.mi.com/uk/forum-2380-1.html" hidefocus="true" >Mi Explorers 2020</a></li></ul><ul class="p_pop h_pop" id="mn_Nf2b3_menu" style="display: none"><li><a href="https://c.mi.com/es/forum-2358-1.html" hidefocus="true" >Noticias / Guías</a></li><li><a href="https://c.mi.com/es/forum-2342-1.html" hidefocus="true" >Dudas Android One</a></li><li><a href="https://c.mi.com/es/forum-1888-1.html" hidefocus="true" >Redmi Go</a></li><li><a href="https://c.mi.com/es/forum-639-1.html" hidefocus="true" >Mi A1</a></li><li><a href="https://c.mi.com/es/forum-1179-1.html" hidefocus="true" >Mi A2</a></li><li><a href="https://c.mi.com/es/forum-1181-1.html" hidefocus="true" >Mi A2 Lite</a></li><li><a href="https://c.mi.com/es/forum-2143-1.html" hidefocus="true" >Mi A3</a></li></ul><ul class="p_pop h_pop" id="mn_N0c5c_menu" style="display: none"><li><a href="https://c.mi.com/my/forum-2435-1.html" hidefocus="true" >Bulletin</a></li><li><a href="https://c.mi.com/my/forum-2436-1.html" hidefocus="true" >Management</a></li><li><a href="https://c.mi.com/my/forum-2437-1.html" hidefocus="true" >Recruitment</a></li><li><a href="https://c.mi.com/my/forum-2438-1.html" hidefocus="true" >Feedback</a></li></ul><ul class="p_pop h_pop" id="mn_Nb698_menu" style="display: none"><li><a href="https://c.mi.com/it/forum-2923-1.html" hidefocus="true" >Scoprilo!</a></li><li><a href="https://c.mi.com/it/forum-2922-1.html" hidefocus="true" >Presentati!</a></li></ul><ul class="p_pop h_pop" id="mn_N8429_menu" style="display: none"><li><a href="https://c.mi.com/es/forum-2096-1.html" hidefocus="true" >E-Transporte</a></li><li><a href="https://c.mi.com/es/forum-2116-1.html" hidefocus="true" >Hogar y Oficina</a></li><li><a href="https://c.mi.com/es/forum-2099-1.html" hidefocus="true" >Deporte y Salud</a></li><li><a href="https://c.mi.com/es/forum-2128-1.html" hidefocus="true" >Foto y Entretenimiento</a></li><li><a href="https://c.mi.com/es/forum-2101-1.html" hidefocus="true" >Sonido</a></li><li><a href="https://c.mi.com/es/forum-2114-1.html" hidefocus="true" >Equipaje</a></li><li><a href="https://c.mi.com/es/forum-2115-1.html" hidefocus="true" >Informática</a></li><li><a href="https://c.mi.com/es/forum-2098-1.html" hidefocus="true" >Accesorios</a></li><li><a href="https://c.mi.com/es/forum-2097-1.html" hidefocus="true" >TV y Mi Box</a></li></ul><ul class="p_pop h_pop" id="mn_Ne223_menu" style="display: none"><li><a href="https://c.mi.com/bd/forum-1195-1.html" hidefocus="true" >Recruitment</a></li><li><a href="https://c.mi.com/bd/forum-1157-1.html" hidefocus="true" >Management</a></li><li><a href="https://c.mi.com/bd/forum-1158-1.html" hidefocus="true" >Bulletin</a></li></ul><ul class="p_pop h_pop" id="mn_N0fe6_menu" style="display: none"><li><a href="https://c.mi.com/thread-2761043-1-0.html" hidefocus="true" >Scopri MFC</a></li><li><a href="https://c.mi.com/it/forum-2308-1.html" hidefocus="true" >MFC Italia</a></li><li><a href="https://c.mi.com/thread-2657018-1-0.html" hidefocus="true" >Eventi MFC</a></li><li><a href="https://c.mi.com/thread-2791105-1-1.html" hidefocus="true" >Staff MFC</a></li><li><a href="https://c.mi.com/it/forum-2311-1.html" hidefocus="true" >1. Abruzzo</a></li><li><a href="https://c.mi.com/it/forum-2313-1.html" hidefocus="true" >2. Calabria</a></li><li><a href="https://c.mi.com/it/forum-2314-1.html" hidefocus="true" >3. Campania</a></li><li><a href="https://c.mi.com/it/forum-2315-1.html" hidefocus="true" >4. Emilia Romagna</a></li><li><a href="https://c.mi.com/it/forum-2316-1.html" hidefocus="true" >5. Friuli Venezia Giulia</a></li><li><a href="https://c.mi.com/it/forum-2317-1.html" hidefocus="true" >6. Lazio</a></li><li><a href="https://c.mi.com/it/forum-2318-1.html" hidefocus="true" >7. Lombardia</a></li><li><a href="https://c.mi.com/it/forum-2319-1.html" hidefocus="true" >8. Marche</a></li><li><a href="https://c.mi.com/it/forum-2320-1.html" hidefocus="true" >9. Piemonte</a></li><li><a href="https://c.mi.com/it/forum-2325-1.html" hidefocus="true" >10. Puglia</a></li><li><a href="https://c.mi.com/it/forum-2321-1.html" hidefocus="true" >11. Sicilia</a></li><li><a href="https://c.mi.com/it/forum-2322-1.html" hidefocus="true" >12. Toscana</a></li><li><a href="https://c.mi.com/it/forum-2323-1.html" hidefocus="true" >13. Umbria</a></li><li><a href="https://c.mi.com/it/forum-2324-1.html" hidefocus="true" >14. Veneto</a></li><li><a href="https://c.mi.com/it/forum-2856-1.html" hidefocus="true" >Mi Home Staff</a></li></ul><ul class="p_pop h_pop" id="mn_N46ab__menu" style="display: none"><li><a href="https://c.mi.com/pl/forum-1306-1.html" hidefocus="true" >Zgłoszenia</a></li><li><a href="https://c.mi.com/pl/forum-1307-1.html" hidefocus="true" >Administracja</a></li><li><a href="https://c.mi.com/pl/forum-1308-1.html" hidefocus="true" >Rekrutacja</a></li><li><a href="https://c.mi.com/pl/forum-1309-1.html" hidefocus="true" >Ogłoszenia</a></li><li><a href="https://c.mi.com/pl/forum-2200-1.html" hidefocus="true" >Konkursy</a></li></ul><ul class="p_pop h_pop" id="mn_N7077_menu" style="display: none"><li><a href="https://c.mi.com/fr/forum-1858-1.html" hidefocus="true" >Madrid</a></li><li><a href="https://c.mi.com/fr/forum-1857-1.html" hidefocus="true" >Explo Mi Mix 3</a></li><li><a href="https://c.mi.com/fr/forum-1856-1.html" hidefocus="true" >MWC</a></li><li><a href="https://c.mi.com/fr/forum-2367-1.html" hidefocus="true" >Mi TV 4S 43''</a></li><li><a href="https://c.mi.com/fr/forum-2718-1.html" hidefocus="true" >Redmi Note 9 / 9 Pro</a></li></ul><ul class="p_pop h_pop" id="mn_Na41e_menu" style="display: none"><li><a href="https://c.mi.com/tr/forum-2886-1.html" hidefocus="true" >Mi Shop</a></li></ul><ul class="p_pop h_pop" id="mn_N2ca2_menu" style="display: none"><li><a href="https://c.mi.com/fr/forum-2136-1.html" hidefocus="true" >MFC Paris</a></li><li><a href="https://c.mi.com/fr/forum-2137-1.html" hidefocus="true" >MFC Bordeaux</a></li><li><a href="https://c.mi.com/fr/forum-2193-1.html" hidefocus="true" >MFC Lyon</a></li><li><a href="https://c.mi.com/fr/forum-2250-1.html" hidefocus="true" >MFC Lille</a></li></ul><ul class="p_pop h_pop" id="mn_Nb12e_menu" style="display: none"><li><a href="https://c.mi.com/ua/forum-1838-1.html" hidefocus="true" >Епізод 1: Мадрид</a></li><li><a href="https://c.mi.com/ua/forum-1839-1.html" hidefocus="true" >Епізод 2: Mi Mix 3</a></li><li><a href="https://c.mi.com/ua/forum-1837-1.html" hidefocus="true"  style="font-weight: bold;color: red">Епізод 3: MWC 2019</a></li></ul><ul class="p_pop h_pop" id="mn_Nb6dd_menu" style="display: none"><li><a href="https://c.mi.com/it/forum-2326-1.html" hidefocus="true" >Smartphone '18</a></li><li><a href="https://c.mi.com/it/forum-2327-1.html" hidefocus="true" >Smartphone '19</a></li><li><a href="https://c.mi.com/it/forum-2328-1.html" hidefocus="true" >Ecosystem '19</a></li><li><a href="https://c.mi.com/it/forum-2374-1.html" hidefocus="true" >Smartphone '20</a></li><li><a href="https://c.mi.com/it/forum-2373-1.html" hidefocus="true" >Ecosystem '20</a></li></ul><ul class="p_pop h_pop" id="mn_N125c_menu" style="display: none"><li><a href="https://c.mi.com/es/forum-629-1.html" hidefocus="true" >Noticias Mi Fan Clubs</a></li><li><a href="https://c.mi.com/es/forum-2787-1.html" hidefocus="true" >Mi FC Cádiz</a></li><li><a href="https://c.mi.com/es/forum-771-1.html" hidefocus="true" >Mi FC Cataluña</a></li><li><a href="https://c.mi.com/es/forum-1118-1.html" hidefocus="true" >Mi FC A Coruña</a></li><li><a href="https://c.mi.com/es/forum-2738-1.html" hidefocus="true" >Mi FC Gipuzkoa</a></li><li><a href="https://c.mi.com/es/forum-2858-1.html" hidefocus="true" >Mi FC Granada</a></li><li><a href="https://c.mi.com/es/forum-2737-1.html" hidefocus="true" >MI FC Madrid</a></li><li><a href="https://c.mi.com/es/forum-1119-1.html" hidefocus="true" >Mi FC Zaragoza</a></li><li><a href="https://c.mi.com/es/forum-2901-1.html" hidefocus="true" >Mi FC Bizkaia</a></li><li><a href="https://c.mi.com/es/forum-2736-1.html" hidefocus="true" >Otras KDDs</a></li></ul><ul class="p_pop h_pop" id="mn_N44f7_menu" style="display: none"><li><a href="https://c.mi.com/it/forum-924-1.html" hidefocus="true" >Fotografia</a></li><li><a href="https://c.mi.com/it/forum-925-1.html" hidefocus="true" >APP</a></li><li><a href="https://c.mi.com/it/forum-1790-1.html" hidefocus="true" >Guida al forum</a></li><li><a href="https://c.mi.com/it/forum-1194-1.html" hidefocus="true" >Feedback</a></li><li><a href="https://c.mi.com/it/forum-1391-1.html" hidefocus="true" >Giochi</a></li><li><a href="https://c.mi.com/it/forum-1791-1.html" hidefocus="true" >APP Changelog</a></li><li><a href="https://c.mi.com/it/forum-1392-1.html" hidefocus="true" >Meme</a></li><li><a href="https://play.google.com/store/apps/details?id=com.mi.global.bbs&hl=it" hidefocus="true" >APP ufficiale</a></li><li><a href="https://c.mi.com/it/forum-984-1.html" hidefocus="true" >Chat</a></li></ul><ul class="p_pop h_pop" id="mn_Nff6b_menu" style="display: none"><li><a href="https://c.mi.com/es/forum-1892-1.html" hidefocus="true" >Normas</a></li><li><a href="https://c.mi.com/es/forum-1244-1.html" hidefocus="true" >Feedback</a></li><li><a href="https://c.mi.com/es/forum-1108-1.html" hidefocus="true" >Mi Stores</a></li></ul></div>
+
+<div id="mu hide" class="cl">
+<ul class="cl " id="snav_mn_N05f9"
+style="display:none">
+<li style="width:20.0%"><a href="Soon" hidefocus="true" >Mi 11 Series</a></li><li style="width:20.0%"><a href="https://c.mi.com/arab/forum-2637-1.html" hidefocus="true" >Mi 10 Series</a></li><li style="width:20.0%"><a href="https://c.mi.com/arab/forum-2054-1.html" hidefocus="true" >Mi 9 Series</a></li><li style="width:20.0%"><a href="https://c.mi.com/arab/forum-1320-1.html" hidefocus="true" >Mi 8 Series</a></li><li style="width:20.0%"><a href="https://c.mi.com/arab/forum-2638-1.html" hidefocus="true" >Redmi Note 9 Series</a></li><li style="width:20.0%"><a href="https://c.mi.com/arab/forum-2170-1.html" hidefocus="true" >Mi 9T</a></li><li style="width:20.0%"><a href="https://c.mi.com/arab/forum-2452-1.html" hidefocus="true" >Mi Note 10Pro/10/10Lite</a></li><li style="width:20.0%"><a href="https://c.mi.com/arab/forum-2280-1.html" hidefocus="true" >Redmi Note 8/8Pro</a></li><li style="width:20.0%"><a href="https://c.mi.com/arab/forum-2281-1.html" hidefocus="true" >Redmi 8/8A</a></li><li style="width:20.0%"><a href="https://c.mi.com/arab/forum-2171-1.html" hidefocus="true" >Band Series</a></li><li style="width:20.0%"><a href="https://c.mi.com/arab/forum-2055-1.html" hidefocus="true" >Mi MIX Series</a></li><li style="width:20.0%"><a href="https://c.mi.com/arab/forum-2257-1.html" hidefocus="true" >Mi A Series</a></li><li style="width:20.0%"><a href="https://c.mi.com/arab/forum-1998-1.html" hidefocus="true" >Redmi Note 7</a></li><li style="width:20.0%"><a href="https://c.mi.com/arab/forum-1400-1.html" hidefocus="true" >Mi Max 3</a></li><li style="width:20.0%"><a href="https://c.mi.com/arab/forum-2172-1.html" hidefocus="true" >Redmi 7/7A</a></li><li style="width:20.0%"><a href="https://c.mi.com/arab/forum-508-1.html" hidefocus="true" >الاكسسوارات</a></li><li style="width:20.0%"><a href="https://c.mi.com/arab/forum-2023-1.html" hidefocus="true" >المنتجات المختلفة</a></li></ul>
+<ul class="cl " id="snav_mn_N3cf1"
+style="display:none">
+<li><a href="https://c.mi.com/arab/forum-510-1.html" hidefocus="true" >MIUI General</a></li><li><a href="https://c.mi.com/arab/forum-509-1.html" hidefocus="true" >اجدد الأخبار</a></li><li><a href="https://c.mi.com/arab/forum-513-1.html" hidefocus="true" >آراء حول MIUI</a></li><li><a href="https://c.mi.com/arab/forum-511-1.html" hidefocus="true" >النصائح والحيل</a></li><li><a href="https://c.mi.com/arab/forum-512-1.html" hidefocus="true" >Flashing Guide</a></li><li><a href="https://c.mi.com/arab/forum-514-1.html" hidefocus="true" >المقالات</a></li><li><a href="https://c.mi.com/arab/forum-655-1.html" hidefocus="true" >الثيمات</a></li></ul>
+<ul class="cl " id="snav_mn_userapp"
+style="display:none">
+</ul>
+</div><div id="J_privacy_agreement hide" class="privacy_agreement">
+<div class="content">
+<div class="iconAarea">
+<span class="exclamation-mark"></span>
+</div>
+
+<div class="textArea">
+ In order to fulfill the basic functions of our service, the user hereby agrees to allow Xiaomi to collect, process and use personal information which shall include but not be limited to written threads, pictures, comments, replies in the Mi Community, and relevant data types listed in Xiaomi's Private Policy. By selecting "Agree", you agree to <a href=" https://privacy.mi.com/all " target="_blank"><span> Xiaomi's Private Policy </span></a> and <a href="https://c.mi.com/uk/about/contentPolicy" target="_blank"><span> Content Policy </span></a>.
+</div>
+<div id="J_btnagree" class="btnagree"><span class="privacy-close"></span> Agree</div>
+</div>
+</div>
+</div>
+<div id="wp">
+<div class="xm-content">
+<div class="container cl">
+<div class="xm-main-area xm-box z">
+<div class="profile-section cl">
+<h4 class="profile-title">Profile </h4><div class="u_profile">
+<div>
+<ul class="profile-list-ul profile-cate cl">
+<li>
+<dl class="cl">
+<dt class="z">ID</dt>
+<dd class="y"></dd>
+</dl>
+</li>
+<li>
+<dl class="cl">
+<dt class="z">Nickname</dt>
+<dd class="y"></dd>
+</dl>
+</li>
+<li>
+<dl class="cl">
+<dt class="z">Registration date</dt>
+<dd class="y">1970-01-01 08:00:00</dd>
+</dl>
+</li>
+<li>
+<dl class="cl">
+<dt class="z">Last visit time</dt>
+<dd class="y"></dd>
+</dl>
+</li>
+<li>
+<dl class="cl">
+<dt class="z">Status</dt>
+<dd class="y">Offline</dd>
+</dl>
+</li></ul>
+
+</div>
+</div>
+</div>
+
+<div class="profile-section cl">
+<div class="u_profile">
+<h4 class="profile-title">track</h4>
+<div class="profile-cate">
+<ul class="profile-node-list-ul">
+<li>
+<h4><a href="home.php?mod=space&amp;uid=&amp;do=newfollow&amp;type=following"> FOLLOWING (0) <i class="icon-next y"></i></a></h4>
+</li>
+<li>
+<h4><a href="home.php?mod=space&amp;uid=&amp;do=newfollow&amp;type=follower"> FOLLOWERS(0) <i class="icon-next y"></i></a></h4>
+</li>
+<li>
+<h4><a href="home.php?mod=space&amp;uid=&amp;do=favorite&amp;type=forum"> Sections (0) <i class="icon-next y"></i></a></h4>
+</li>
+<li>
+<h4><a href="home.php?mod=space&amp;uid=&amp;do=thread&amp;view=me&amp;from=space&amp;type=favthread"> Favorites (0) <i class="icon-next y"></i></a></h4>
+</li>
+<li>
+<h4><a href="home.php?mod=space&amp;uid=&amp;do=thread&amp;view=me&amp;from=space&amp;type=thread"> Threads (12) <i class="icon-next y"></i></a></h4>
+</li>
+<li>
+<h4><a href="home.php?mod=space&amp;uid=&amp;do=thread&amp;view=me&amp;from=space&amp;type=reply"> Replies (0) <i class="icon-next y"></i></a></h4>
+</li>
+<li>
+<h4><a href="home.php?mod=space&amp;uid=&amp;do=thread&amp;view=me&amp;from=space&amp;type=thread&amp;filter=save">My DRAFTS(0) <i class="icon-next y"></i></a></h4>
+</li>
+<li id="J_mySubscript">
+<h4><a href="https://c.mi.com/column/mysubscription">My Subscription<span></span> <i class="icon-next y"></i></a></h4>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="profile-section cl">
+<h4 class="profile-title"> MEDALS <a href="home.php?mod=medalcenter" target="_blank" class="mcenter y">Medal Center >></a></h4>
+</div>
+
+
+</div>
+
+<div class="xm-side-box y"><div class="thread-author-box xm-box ta-c">
+  <div class="favatar cl">
+      <div class="cl">
+        <div class="user-avatar z">
+          <div class="avatar-container">
+            <div class="avatar">
+              <a href="https://c.mi.com/space-uid-.html">https://u01.appmifile.com/images/2016/12/16/74afb9a6-fc95-45a7-8000-d3d159223027.png</a>
+              <!--  -->
+            </div>
+                                  </div>
+        </div>
+
+        <div class="content z">
+          <h2 class="name">
+                  			          </h2>
+                    <p>
+            <span style="color:"></span>
+          </p>          
+                    <a href="https://c.mi.com/column/columnindex" target="_blank">
+          <img class="J_columnAuthor hide" data-uid="" src="https://i01.appmifile.com/webfile/globalimg/in/bbs/column-author.png"></a>
+                  </div>
+      </div>
+
+      <ul class="post-stat cl">
+         <li>
+          <p>
+            Followers
+          </p>
+          <p>
+            <a href="home.php?mod=space&amp;uid=&amp;do=newfollow&amp;type=follower" target="_blank">0</a>
+          </p>
+        </li>
+        <li>
+          <p>
+            Threads
+          </p>
+          <p>
+            <a href="home.php?mod=space&amp;uid=&amp;do=thread&amp;view=me&amp;from=space&amp;type=thread" target="_blank">12</a>
+          </p>
+        </li>
+        <li>
+          <p>
+            Replies
+          </p>
+          <p>
+            <a href="home.php?mod=space&amp;uid=&amp;do=thread&amp;view=me&amp;from=space&amp;type=reply" target="_blank">0</a>
+          </p>
+        </li>
+        <li>
+          <p>
+            Points
+          </p>
+          <p>
+            0          </p>
+        </li>
+      </ul>
+
+                      <div class="contact-author xm-btns">
+          <a class='hide' href="https://c.mi.com/member.php?mod=logging&action=login" rel="nofollow">Follow</a>
+          <a class='hide' style='display: none;'  href="https://c.mi.com/member.php?mod=logging&action=login" rel="nofollow">Message</a>
+        </div>
+              
+      <div class="edit-action">
+  			      </div>
+
+        </div>
+</div>
+
+<script>
+function succeedhandle_followmod(url, msg, values) {
+  var fObj = $('followmod_'+values['fuid']);
+  if(values['type'] == 'add') {
+    fObj.innerHTML = 'Following';
+    fObj.href = SITEURL+'home.php?mod=spacecp&ac=follow&op=del&hash=57f29479&fuid='+values['fuid'];
+    fObj.className = "deactive";
+  } else if(values['type'] == 'del') {
+    fObj.innerHTML = 'Follow';
+    fObj.href = SITEURL+'home.php?mod=spacecp&ac=follow&op=add&hash=57f29479&fuid='+values['fuid'];
+    fObj.className = "";
+  }
+}
+</script>
+</div>			</div>
+</div>
+</div>
+    <div id="J_cookie_settings_center" class="cookie-setting-modal hide">
+    <div class="modal-mask"></div>
+    <div class="modal-container">
+      <h5 class="title">Cookies Preference Center</h5>
+      <div class="cookie-content-window">
+        <div class="cookie-content">
+          <p>We use cookies on this website. To learn in detail about how we use cookies, please read our full Cookies Notice. To reject all non-essential cookies simply click "Save and Close" below. To accept or reject cookies by category please simply click on the tabs to the left. You can revisit and change your settings at any time. <a href="javascript:void(0)">read more</a></p>
+          <hr />
+          <div class="cookie-setting-tab">
+            <a class="tab-btn active" data-tab-index="1" href="javascript:void(0)">Required Cookies</a>
+            <a class="tab-btn" href="javascript:void(0)" data-tab-index="2">Preference Cookies</a>
+            <a class="tab-btn" href="javascript:void(0)" data-tab-index="3">Anaytics Cookies</a>
+          </div>
+          <div class="tab-content-list">
+            <div class="tab-content-item" data-tab-index="1">
+              <div class="cookie-switch-container">
+                <p class="cookie-type-desc">These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services such as setting your privacy preferences, logging in or filling in formsYou can set your browser to block or alert you about these cookies, but some parts of thesite will not then work. These cookies do not store any personally identifiable information.</p>
+                <p class="cookie-switch_text">Always active</p>
+              </div>
+              <p class="sub-title">Cookies Used</p>
+              <hr />
+              <div class="used-cookie-list list-nec"></div>
+              <hr />
+            </div>
+            <div class="tab-content-item hide" data-tab-index="2">
+              <div class="cookie-switch-container">
+                <p class="cookie-type-desc">These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services such as setting your privacy preferences, logging in or filling in formsYou can set your browser to block or alert you about these cookies, but some parts of thesite will not then work. These cookies do not store any personally identifiable information.</p>
+                <div class="cookie-switch-btn active" data-switch-index="1">
+                  <div class="switch-circle"></div>
+                </div>
+              </div>
+              <p class="sub-title">Cookies Used</p>
+              <hr />
+              <div class="used-cookie-list list-pre"></div>
+              <hr />
+            </div>
+            <div class="tab-content-item hide" data-tab-index="3">
+              <div class="cookie-switch-container">
+                <p class="cookie-type-desc">These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services such as setting your privacy preferences, logging in or filling in formsYou can set your browser to block or alert you about these cookies, but some parts of thesite will not then work. These cookies do not store any personally identifiable information.</p>
+                <div class="cookie-switch-btn active" data-switch-index="2">
+                  <div class="switch-circle"></div>
+                </div>
+              </div>
+              <p class="sub-title">Cookies Used</p>
+              <hr />
+              <div class="used-cookie-list list-ana"></div>
+              <hr />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="action-group">
+        <a class="save-btn action-btn" href="javascript:void(0)">Save and Close</a>
+        <span class="spacer"></span>
+        <a class="accept-btn action-btn" href="javascript:void(0)">Accept Cookies</a>
+      </div>
+    </div>
+  </div>
+  <div id="J_cookie_settings_bottom" class="cookie-setting-bottom-bar hide">
+    <div class="cookie-agree-box">
+      <div class="content">
+        We use first and third-party cookies to maintain the essential functionality of our website and detect website performance to help us work more efficiently, as well as improving your experience by providing personalized content. By clicking “Accept” you agree our use of cookies for these purposes.
+      </div>
+      <div class="control-box">
+        <div class="agree-btn">Accept</div>
+        <span class="spacer"></span>
+        <a href="https://c.mi.com/global/privacy/cookie" class="cookie-policy-btn">Learn more</a>
+        <span class="spacer"></span>
+        <a class="manage-setting-btn hide" href="javascript:void(0)">Manage Cookies ></a>
+      </div>
+    </div>
+  </div>
+<div id="ft" class="cl">
+
+<div class="container cl">
+<div class="z">
+Copyright©2010-2021 Xiaomi.com, All Rights Reserved
+</div>
+
+<div class="y entry-board">
+<!-- <a href="https://c.mi.com/about/contentPolicy" target="_blank" style="display: block; float: left; margin-top: -2px;">Content Policy</a> -->
+<div class="contact-entry entry">
+<p></p>
+</div>
+</div>
+</div></div>
+<script type="text/javascript">
+  var sa_data_url = "https://sa.api.intl.miui.com/sa?project=mi_community"
+  var ms_static_url = "//bbs.appmifile.com/static/community/"
+</script>
+<script src="//bbs.appmifile.com/static/community/js/pc/oc/base.js?Cac5be613b7aeff1435b34d00a0e60f9e" type="text/javascript"></script>
+<script>
+    Xiaomi.utils.cookie = function(e, f, c) {
+      if (arguments.length > 1 && String(f) !== "[object Object]") {
+        if(!checkValidCookie(e)) {
+          return
+        }
+        c = jQuery.extend({}, c);
+        if (typeof f == 'undefined' || f == null) {
+          c.expires = -1;
+        }
+        if (typeof c.expires === "number") {
+          var h = c.expires,
+            d = c.expires = new Date();
+            d.setDate(d.getDate() + h);
+        }
+        f = String(f);
+        return (document.cookie = [encodeURIComponent(e), "=", c.raw ? f : encodeURIComponent(f), c.expires ? "; expires=" + c.expires.toUTCString() : "", c.path ? "; path=" + c.path : "", c.domain ? "; domain=" + c.domain : "", c.secure ? "; secure" : ""].join(""));
+      }
+      c = f || {};
+      var b, g = c.raw ? function(i) {
+        return i;
+      } : decodeURIComponent;
+      return (b = new RegExp("(?:^|; )" + encodeURIComponent(e) + "=([^;]*)").exec(document.cookie)) ? g(b[1].replace(/\+/g, '%20')) : null;
+    }
+</script>
+<script src="//bbs.appmifile.com/static/community/js/pc/oc/profile.js?C56f83d625c8bb1151209a2351d8af248" type="text/javascript"></script>
+<script src="https://c.mi.com/home.php?mod=misc&ac=sendmail&rand=1631616437" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="To Top" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>To Top</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+<script type="text/javascript">
+  function getPrivacyCookie(name) {
+    var arr = document.cookie.match(new RegExp("(^| )" + name + "=([^;]*)(;|$)"));
+    if (arr != null) return arr[2]; return null;
+  }; 
+  function canTrackEvent () {
+    var cookie_setting = getCookie('oc_cookie_settings')
+    if (!cookie_setting) {
+      return false
+    }
+    try {
+      var cookieSettingObj = JSON.parse(cookie_setting)
+      return cookieSettingObj.analytics_cookie
+    } catch (e) {
+      return false
+    }
+  }
+  if (canTrackEvent()) {
+    (function() {
+      var ms = document.createElement('script');
+      ms.type = 'text/javascript';
+      ms.async = true;
+      
+      var s = document.getElementsByTagName('script')[0];
+      if (!isEditorPage) {
+        s.parentNode.insertBefore(ms, s);
+      }
+    })();
+  }
+
+</script>
+<script>
+  var sa
+  if (canTrackEvent()) {
+    (function(para) {
+      var p = para.sdk_url, n = para.name, w = window, d = document, s = 'script',x = null,y = null;
+      w['sensorsDataAnalytic201505'] = n;
+      w[n] = w[n] || function(a) {return function() {(w[n]._q = w[n]._q || []).push([a, arguments]);}};
+      var ifs = ['track','quick','register','registerPage','registerOnce','clearAllRegister','trackSignup', 'trackAbtest', 	'setProfile','setOnceProfile','appendProfile', 'incrementProfile', 'deleteProfile', 'unsetProfile', 	'identify','login','logout','trackLink','clearAllRegister'];
+      for (var i = 0; i < ifs.length; i++) {
+        w[n][ifs[i]] = w[n].call(null, ifs[i]);
+      }
+    })({
+      sdk_url: '//i01.appmifile.com/webfile/globalweb/stat/js/sensorsdata_v1.15.12.min.js',
+      name: 'sa',
+      server_url: "https://sa.api.intl.miui.com/sa?project=mi_community",
+      show_log: false
+    });
+  }
+
+</script>
+<script>
+  (function($) {
+    function usedCookieHtml(title, arr) {
+      return "<div>\
+                <h5>"+ title +"</h5>\
+                <p>" + arr.join(', ') +"</p>\
+              </div>"
+    }
+    var cookie_setting = getCookie('oc_cookie_settings')
+    if (!cookie_setting) {
+      $('#J_cookie_settings_bottom').removeClass('hide')
+    }
+    $('.used-cookie-list.list-nec').html(usedCookieHtml('mi.com:', cookieClass.necessary_cookie))
+    $('.used-cookie-list.list-pre').html(usedCookieHtml('mi.com:', cookieClass.preference_cookie))
+    $('.used-cookie-list.list-ana').html(usedCookieHtml('mi.com:', cookieClass.analytics_cookie))
+    var cookie_setting_obj = {
+          preference_cookie: true,
+          analytics_cookie: true
+        }
+    $('#J_cookie_settings_center .modal-mask').on('click', function() {
+      $('#J_cookie_settings_center').addClass('hide')
+    })
+
+    $('.tab-btn').on('click', function() {
+      var tabIndex  = $(this).data('tab-index')
+      $(this).addClass('active').siblings().removeClass('active')
+      $('.tab-content-item[data-tab-index="'+ tabIndex + '"]').removeClass('hide').siblings().addClass('hide')
+    })
+
+    $('.cookie-switch-btn').on('click', function() {
+      var curState = $(this).hasClass('active')
+      var index = $(this).data('switch-index')
+      switch(index) {
+        case 1:
+          cookie_setting_obj.preference_cookie = !curState
+          break
+        case 2:
+          cookie_setting_obj.analytics_cookie = !curState
+          break
+        default:
+      }
+      $(this).toggleClass('active')
+    })
+    $('.control-box .agree-btn').on('click', function() {
+        setcookie('oc_cookie_settings', JSON.stringify(cookie_setting_obj), 3600 * 24 * 30 * 12)
+        $('#J_cookie_settings_bottom').addClass('hide')
+        window.location.reload(true)
+      })
+
+    $('.action-group .accept-btn').on('click', function() {
+      setcookie('oc_cookie_settings', JSON.stringify(cookie_setting_obj), 3600 * 24 * 30 * 12)
+      $('#J_cookie_settings_center').addClass('hide')
+      $('#J_cookie_settings_bottom').addClass('hide')
+      window.location.reload(true)
+    })
+
+    $('.action-group .save-btn').on('click', function() {
+      $('#J_cookie_settings_center').addClass('hide')
+    })
+
+    $('.manage-setting-btn').on('click', function(e) {
+      e.stopPropagation()
+      $('#J_cookie_settings_center').removeClass('hide')
+    })
+  })(jQuery);
+</script>
+</body>
+</html>
